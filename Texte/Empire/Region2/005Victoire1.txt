@@ -1,0 +1,8 @@
+0
+谢谢你, Wismerhill男爵,
+Dacow已经恢复自由了.
+请接受这些黄金作为我们无限感激的表示.//
+
+[EVENEMENTS]  1
+REQUESTER ..\\Texte\\Empire\\Region2\\005Victoire1_1.txt 865
+//

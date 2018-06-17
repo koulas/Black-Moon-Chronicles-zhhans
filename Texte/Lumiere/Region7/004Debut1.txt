@@ -1,0 +1,7 @@
+0
+匪军的营地就在附近.
+我们已经陷入这些鼠辈的巢穴!不可犹疑了.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region7\\004Debut1_1.txt	861
+//

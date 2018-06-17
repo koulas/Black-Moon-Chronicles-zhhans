@@ -1,0 +1,10 @@
+0
+The Black Moon dominates this region totally... We must wipe them out once and for all...
+Then we will finally have lasting peace!
+Haazheel Thorn is currently gathering forces near to the Fault of Tsaroth... I am gathering our troops and the Knights of Light and the Paladins of Justice...
+But we are not yet powerful enough to confront the Black Moon...
+I instruct you to recruit allies in the region...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region8\\RegionDebut1_1.txt 865
+//

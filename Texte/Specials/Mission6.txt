@@ -1,0 +1,14 @@
+2
+Special missions
+
+                 Tragedy in Dis!
+
+Wismerhill the orphan has been looking for his father for many years. The Archmagus Haazheel Thorn has finally been able to find him: Wismerhill's father is in the city of Dis! Alas, the Empire has already sealed his fate: Wismerhill's father must die!//
+Next mission//
+Play this mission//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Specials\\Mission1.txt	855
+//
+-
+//

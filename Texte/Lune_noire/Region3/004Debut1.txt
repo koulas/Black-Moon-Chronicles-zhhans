@@ -1,0 +1,6 @@
+0
+A few years ago I slaughtered many here... They have made it a great memorial place: there are statues of me everywhere... I am flattered... I have a feeling I'm going to enjoy myself!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region3\\004Debut2.txt	865
+//

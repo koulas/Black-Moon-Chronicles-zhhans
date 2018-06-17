@@ -1,0 +1,8 @@
+0
+黑月军的一支正沿丛林和平原间北路前进,
+不要有时间留给他们准备战斗。
+让我军攻击，给予他们重创!  //
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region2\\003Debut1_1.txt	856
+//

@@ -1,0 +1,8 @@
+0
+Not a word more, old demon!
+
+The cry of joy I shall utter when my blade cuts off your head shall be the last sound you will hear from me!//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\006Event2_4.txt	869
+//

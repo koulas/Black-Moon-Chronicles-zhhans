@@ -1,0 +1,6 @@
+0
+It would appear that the Elves have taken advantage of our coming to the lands of Light to declare war... on all those who dare to approach their forests. I already have a difficult task with Light without having to deal with the Elves. Ghorghor! Go to their forests with the battle-hardened troops. Provoke them! Inflict a crushing defeat on them and make them pay a tribute that is so heavy that they will give up attacking us for ever more! Murata will accompany you...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region2\\001Debut2.txt	855
+//

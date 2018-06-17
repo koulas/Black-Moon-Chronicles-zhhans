@@ -1,0 +1,6 @@
+0
+How could you understand the power of the mysteries? You are just a simple warrior, and only very recently ennobled at that! The Archmage Haazheel Thorn, a connoisseur, will respect our magical knowledge. We will have an excellent relationship with him once the city has fallen thanks to our treachery... Ha! Ha! Ha!//
+
+[EVENEMENTS]	1
+DEFECTION	3
+//

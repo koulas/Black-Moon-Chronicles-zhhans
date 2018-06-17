@@ -1,0 +1,8 @@
+0
+VICTORY!!!
+
+The demons have taken their last breath and have returned to see their master in hell.//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\002Victoire2.txt	926
+//

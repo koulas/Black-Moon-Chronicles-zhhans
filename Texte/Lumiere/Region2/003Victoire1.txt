@@ -1,0 +1,6 @@
+0
+赢了! 我们才是这战场的主宰!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region2\\003Victoire1_1.txt	862
+//

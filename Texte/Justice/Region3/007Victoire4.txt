@@ -1,0 +1,5 @@
+0
+Question your heart, Parsifal, you have known this dark soul for many years!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\007Victoire5.txt	860//

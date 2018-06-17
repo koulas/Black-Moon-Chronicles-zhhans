@@ -1,0 +1,13 @@
+2
+Tips & Tricks
+                            - Region Map -
+
+A regiment exclusively composed of cavalry advances rapidly over the region map, and therefore constitutes a perfect scout.//
+Next trick//
+Play now//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Generiques\\Astuce004.txt	857
+//
+-
+//

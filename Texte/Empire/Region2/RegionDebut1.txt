@@ -1,0 +1,14 @@
+0
+Wismerhill,
+你已经成功阻止Fratus Sinister
+和他的军队控制Lhynn地区...
+现在我想要了结这帮叛乱者.
+我要集结帝国的军队去攻击Altenberg...
+
+我给你的任务很艰巨...
+光明教团军数量众多，经验丰富。
+你要表现出良好判断力才能带领我军成功!...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region2\\RegionDebut1_1.txt 865
+//

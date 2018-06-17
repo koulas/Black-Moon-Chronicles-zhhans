@@ -1,0 +1,7 @@
+0
+黑月军团阻碍了进入龙族的通路.
+他们由一头红头发的女魔指挥.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\004Debut1_1.txt	862
+//

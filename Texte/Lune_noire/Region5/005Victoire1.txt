@@ -1,0 +1,6 @@
+0
+Victory! The lower city is ours... The Imperial garrison was decimated and we are going to let the Orcs indulge their tendencies for plunder! The day has been good for us!//
+
+[EVENEMENTS]	1
+IMAGE	..\\Images\\Ima_0015.tga
+//

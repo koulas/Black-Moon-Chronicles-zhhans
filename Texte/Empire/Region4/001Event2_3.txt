@@ -1,0 +1,6 @@
+0
+You're right! We have tried not to get involved in the fighting of this world but alas we have failed! We can but use our spells and repel the hordes of the Black Moon to make you forget our lack of bravery and our cowardice. Be merciful with us... we beg you!//
+
+[EVENEMENTS]	1
+ALLIANCE	3
+//

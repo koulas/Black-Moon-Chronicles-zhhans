@@ -1,0 +1,6 @@
+0
+Despite the Empire's fighting alongside the Dwarves, we managed to inflict heavy losses on the Dwarves. Soon, thanks to these unceasing raids, they will be forced to leave the region! Good riddance!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Empire\\Region4\\002Defaite2.txt	859
+// 

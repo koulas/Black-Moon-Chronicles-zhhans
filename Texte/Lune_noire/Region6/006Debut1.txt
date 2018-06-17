@@ -1,0 +1,8 @@
+0
+This is our battle plan, Lord Wismerhill! We are going to fight a defensive battle relying on the stockades that we have put up... Lord Wismerhill, your role will be to protect our right flank while I hold the center at the head of my troops!
+
+Haazheel Thorn and I will be personally involved in the battle since the Black Moon absolutely must triumph over the Empire today!//
+
+[EVENEMENTS]	1
+ALLIANCE	1
+//

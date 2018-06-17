@@ -1,0 +1,8 @@
+0
+Save us, Lord!...
+
+Garrison, the time for revolt has come; let us join our brothers, sent to us by the Lord!...//
+
+[EVENEMENTS]	1
+ALLIANCE	3
+//

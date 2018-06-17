@@ -1,0 +1,8 @@
+0
+感谢你响应我们的召唤.
+让我们一起抗击精灵将村庄的压迫者都赶走!//
+
+[EVENEMENTS]	2
+REQUESTER	..\\Texte\\Empire\\Region2\\004Event1_1.txt 856
+ALLIANCE	1
+//

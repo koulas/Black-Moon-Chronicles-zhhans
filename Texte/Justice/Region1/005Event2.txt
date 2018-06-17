@@ -1,0 +1,11 @@
+2
+Prince Parsifal, God sends me to reprimand you.
+You have indeed fought bravely, but you have served your interests before those of your own people and those of the Lord...//
+I have been presumptuous and ignored my true responsibilities, pardon me my God.//
+I have been blinded by my pride, it is true, but the valley of Sysigia is at least cleansed of evil.//
+
+[EVENEMENTS]	2
+REQUESTER ..\\Texte\\Justice\\Region1\\005Event2_1.txt	850
+//
+REQUESTER ..\\Texte\\Justice\\Region1\\005Event2_2.txt	850
+//

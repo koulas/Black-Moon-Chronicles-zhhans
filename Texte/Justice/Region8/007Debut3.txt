@@ -1,0 +1,6 @@
+0
+My arm is at your service, Sire.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\007Debut4.txt	853
+//

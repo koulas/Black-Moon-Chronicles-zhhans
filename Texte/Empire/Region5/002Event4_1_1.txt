@@ -1,0 +1,7 @@
+0
+From now on, you will speak in our name...
+In memory of her, and because we have chosen you, receive our power, priest of the winds, and may you never disappoint us!//
+
+[EVENEMENTS] 1
+ALLIANCE 3
+//

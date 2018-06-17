@@ -1,0 +1,7 @@
+0
+My path is as tortuous as a dragon's tail; I aspire to serve noble causes and you seem worthy of the reputation I know you bear. So I place my gold and my blade at your service, hoping that it only has to cut off accursed heads!....//
+
+[EVENEMENTS]			2
+GAIN_MURATA
+IMAGE ..\\Images\\Ima_0017.tga
+//

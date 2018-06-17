@@ -1,0 +1,15 @@
+2
+Special missions
+
+                 The shadow of the Black Moon!
+
+In order to impose its order, the Black Moon is launching raids to terrorize the villagers! Lead one of them!//
+Next mission//
+Play this mission//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Specials\\Mission5.txt	860
+//
+-
+//
+

@@ -1,0 +1,14 @@
+2
+Special missions
+
+                 Daisy-cutting!
+
+Light has just won a great battle and Fratus Sinister, with sudden concern for equality, wishes to make a group of terror-stricken peasants who are seeking Imperial assistance suffer the fate of the vanquished.//
+Next mission//
+Play this mission//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Specials\\Mission4.txt	858
+//
+-
+//

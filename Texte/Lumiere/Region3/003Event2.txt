@@ -1,0 +1,12 @@
+2
+光明教的使者想要什么?//
+我方希望保存你的性命，尽快离开帝国军队
+因为我们要摧毁它了.//
+我方对你军队的吃惊之处是，
+矮人怎么可能容忍和精灵同在一支队伍中?//
+
+[EVENEMENTS]	2
+REQUESTER	..\\Texte\\Lumiere\\Region3\\003Event2_1.txt	859
+//
+REQUESTER	..\\Texte\\Lumiere\\Region3\\003Event2_2.txt	859
+//

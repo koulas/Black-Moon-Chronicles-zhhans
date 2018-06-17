@@ -1,0 +1,5 @@
+0
+We have resisted the repeated assaults of the Black Moon; this rabble of vile creatures will not get past the walls of the Imperial city.//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region8\\001Victoire2.txt	868//

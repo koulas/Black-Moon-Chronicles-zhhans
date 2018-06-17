@@ -1,0 +1,8 @@
+0
+So we will settle this matter by the sword and by fire! So be it!//
+
+[EVENEMENTS]	3
+DEFECTION	1
+DEFECTION	2
+DEFECTION	3
+//

@@ -1,0 +1,8 @@
+0
+Yes, Sire, my Paladins are in battle order, ready to cut to pieces the devilish creatures invoked by the infamous Haazheel Thorn.
+
+We shall fight to the last man, I promise you. God is my witness.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\007Debut6.txt	853
+//

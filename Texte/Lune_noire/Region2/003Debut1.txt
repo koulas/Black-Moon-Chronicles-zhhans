@@ -1,0 +1,6 @@
+0
+The hour is serious, my child! Fratus Sinister has managed to gather together the great council of the Order of Light. The Great Council is composed of the twelve most powerful priests and the twelve most powerful magicians of Light. If they succeed in combining their mystical powers, they can create serious difficulties for us. To interrupt their invocations, we will have to go into the heart of their meeting and kill at least one of the priests and one of the magicians. What is more, we will have to act quickly since they are calling up a protective spell. If they succeed, we will no longer be able to approach them and we will have failed. All that will not be easy to accomplish, so I have decided to act personally beside you to help you.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region2\\003Debut1_1.txt	865
+//

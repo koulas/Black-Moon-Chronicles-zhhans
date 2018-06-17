@@ -1,0 +1,866 @@
+nbBatiments 21
+
+
+Batiment__type "Scierie"
+Batiment__niveau 1
+Batiment__nomObjetMaitre "LUMIERE___MENUISERIE1"
+Batiment__nom "Joinery of Light (1)"
+Batiment__nomVariable "NiveauScierie"
+Batiment__estDeBase 1
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauArcher"
+	Possibilite__valeur 1
+Batiment__nbDeveloppements 4
+	Developpement__nom "Battering Ram (1)"
+	Developpement__prix 100
+	Developpement__nomVariable "NiveauBelier"
+	Developpement__valeur 1
+	Developpement__description	"A basic siege engine, the"
+						"battering ram is"
+						"nevertheless the"
+						"indispensable weapon to overcome the"
+						"gates of the best guarded fortresses."
+	Developpement__nom "Catapult (1)"
+	Developpement__prix 200
+	Developpement__nomVariable "NiveauCatapulte"
+	Developpement__valeur 1
+	Developpement__description	"A formidable siege"
+						"engine, the catapult hurls"
+						"huge rocks onto the enemy"
+						"ramparts, gradually wearing"
+						"down the best constructions."
+	Developpement__nom "Distance bow (1)"
+	Developpement__prix 100
+	Developpement__nomVariable "NiveauArcDistance"
+	Developpement__valeur 1
+	Developpement__description	"By the"
+						"discovery of the"
+						"distance bow, the"
+						"archers increase"
+						"the range of their bow."
+	Developpement__nom "Science of Squaring (1)"
+	Developpement__prix 200
+	Developpement__nomVariable "NiveauBois"
+	Developpement__valeur 1
+	Developpement__description	"The mastery of the"
+						"techniques of squaring"
+						"allows the sturdiness of the"
+						"constructions, in particular"
+						"siege engines, to be reinforced."
+Batiment__nbConstructions 1
+	Construction__nom "Forge of Light (1)"
+	Construction__prix 300
+	Construction__typeBatiment "Forge"
+	Construction__niveauBatiment 1
+	Construction__description	"The use of the"
+						"techniques of metal working"
+						"in the forge enables"
+						"efficient weapons and sturdy"
+						"shields and armor to be produced."
+
+
+Batiment__type "Ambassade"
+Batiment__niveau 1
+Batiment__nomObjetMaitre "LUMIERE___AMBASSADE1"
+Batiment__nom "Delegation of Light (1)"
+Batiment__nomVariable "NiveauAmbassade"
+Batiment__estDeBase 1
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauPorteDrapeau"
+	Possibilite__valeur 1
+Batiment__nbDeveloppements 1
+	Developpement__nom "Commercial techniques (1)"
+	Developpement__prix 150
+	Developpement__nomVariable "NiveauCommerce"
+	Developpement__valeur 1
+	Developpement__description	"The apprenticeship"
+						"of commercial"
+						"techniques allows the"
+						"pay of new recruits to"
+						"be considerably reduced."
+Batiment__nbConstructions 0
+
+
+Batiment__type "Baraquement"
+Batiment__niveau 1
+Batiment__nomObjetMaitre "LUMIERE___BARAQUE1"
+Batiment__nom "Barracks of Light (1)"
+Batiment__nomVariable "NiveauBaraquement"
+Batiment__estDeBase 1
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauSoldat"
+	Possibilite__valeur 1
+Batiment__nbDeveloppements 0
+Batiment__nbConstructions 0
+
+
+
+
+Batiment__type "Ecurie"
+Batiment__niveau 1
+Batiment__nomObjetMaitre "LUMIERE___ECURIE1"
+Batiment__nom "Stables of Light (1)"
+Batiment__nomVariable "NiveauEcurie"
+Batiment__estDeBase 1
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauCavalierLeger"
+	Possibilite__valeur 1
+Batiment__nbDeveloppements 1
+	Developpement__nom "Speed of the Horsemen"
+	Developpement__prix 100
+	Developpement__nomVariable "NiveauCavalerieVitesse"
+	Developpement__valeur 1
+	Developpement__description	"Thanks to a more"
+						"vigorous training,"
+						"the horsemen"
+						"manage to increase"
+						"the speed of their mounts."
+Batiment__nbConstructions 0
+
+
+Batiment__type "Forge"
+Batiment__niveau 1
+Batiment__nomObjetMaitre "LUMIERE___FORGE1"
+Batiment__nom "Forge of Light (1)"
+Batiment__nomVariable "NiveauForge"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 0
+Batiment__nbDeveloppements 3
+	Developpement__nom "Sling (1)"
+	Developpement__prix 200
+	Developpement__nomVariable "NiveauBaliste"
+	Developpement__valeur 1
+	Developpement__description	"Devastating siege"
+						"engine, the sling or"
+						"ballista projects bolts"
+						"like a giant crossbow, thus"
+						"decimating the enemy formations."
+	Developpement__nom "Science of Metals (1)"
+	Developpement__prix 150
+	Developpement__nomVariable "NiveauArmes"
+	Developpement__valeur 1
+	Developpement__description	"Thanks to the teaching of the"
+						"science of metals, blacksmiths"
+						"learn to select the best materials"
+						"for the construction of weapons, thus"
+						"making them more robust and effective."
+	Developpement__nom "Science of the Forge (1)"
+	Developpement__prix 200
+	Developpement__nomVariable "NiveauArmures"
+	Developpement__valeur 1
+	Developpement__description	"Putting into"
+						"practice the science"
+						"of the forge allows"
+						"more resistant armor"
+						"and shields to be produced."
+Batiment__nbConstructions 3
+	Construction__nom "Drill Hall of Light (1)"
+	Construction__prix 500
+	Construction__typeBatiment "SalleArmes"
+	Construction__niveauBatiment 1
+	Construction__description	"The first stage in a long"
+						"apprenticeship, the drill"
+						"hall allows the knights to"
+						"become initiated in the"
+						"advanced techniques of combat."
+	Construction__nom "Magicians' House of Light (1)"
+	Construction__prix 600
+	Construction__typeBatiment "TourMagiciens"
+	Construction__niveauBatiment 1
+	Construction__description	"A place for the"
+						"apprenticeship of magic,"
+						"the Magicians' House teaches"
+						"them their first spells and"
+						"the techniques of resourcing."
+	Construction__nom "Chapel of Light (1)"
+	Construction__prix 600
+	Construction__typeBatiment "LieuCulte"
+	Construction__niveauBatiment 1
+	Construction__description	"A place of prayer and"
+						"contemplation, the"
+						"chapel allows the priests"
+						"to declare their faith"
+						"and learn their first prayers."
+
+
+Batiment__type "SalleArmes"
+Batiment__niveau 1
+Batiment__nomObjetMaitre "LUMIERE___SALLEARMES1"
+Batiment__nom "Drill Hall of Light (1)"
+Batiment__nomVariable "NiveauSalleArmes"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 2
+	Possibilite__nomVariable "NiveauChevalier"
+	Possibilite__valeur 1
+	Possibilite__nomVariable "NiveauPhalange"
+	Possibilite__valeur 1
+Batiment__nbDeveloppements 3
+	Developpement__nom "Handling of Weapons (1)"
+	Developpement__prix 200
+	Developpement__nomVariable "NiveauVorpale"
+	Developpement__valeur 1
+	Developpement__description	"First stage in the"
+						"apprenticeship of advanced"
+						"combat techniques, the"
+						"handling of arms reinforces the"
+						"attacking ability of the knights."
+	Developpement__nom "Traitor Attack (1)"
+	Developpement__prix 250
+	Developpement__nomVariable "NiveauAttaqueTraitre"
+	Developpement__valeur 1
+	Developpement__description	"Shameful, but"
+						"terribly effective,"
+						"the traitor attack"
+						"inflicts terrible"
+						"injuries on the victim."
+	Developpement__nom "Science of Poisons (1)"
+	Developpement__prix 300
+	Developpement__nomVariable "NiveauPoisonArmes"
+	Developpement__valeur 1
+	Developpement__description	"The discovery of the science of"
+						"poisons allows the knights of"
+						"Light to benefit from formidable"
+						"weapons: at the slightest wound, the"
+						"opponent is poisoned and dies slowly."
+Batiment__nbConstructions 0
+
+
+Batiment__type "LieuCulte"
+Batiment__niveau 1
+Batiment__nomObjetMaitre "LUMIERE___EGLISE1"
+Batiment__nom "Chapel of Light (1)"
+Batiment__nomVariable "NiveauLieuCulte"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 2
+	Possibilite__nomVariable "NiveauPretre"
+	Possibilite__valeur 1
+	Possibilite__nomVariable "NiveauPR0"
+	Possibilite__valeur 1
+Batiment__nbDeveloppements 2
+	Developpement__nom "Recovery of Faith (1)"
+	Developpement__prix 100
+	Developpement__nomVariable "NiveauRecuperationFoi"
+	Developpement__valeur 1
+	Developpement__description	"In discovering the techniques"
+						"of the recovery of faith, the"
+						"priests learn to resource"
+						"themselves more rapidly: they can"
+						"thus use their prayers more often."
+	Developpement__nom "Divine blessing"
+	Developpement__prix 400
+	Developpement__nomVariable "NiveauPR1"
+	Developpement__valeur 1
+	Developpement__description	"By blessing the troops,"
+						"the priest restores their"
+						"strength and courage."
+						"Furthermore, he protects"
+						"them from certain evil spells."
+Batiment__nbConstructions 0
+
+
+Batiment__type "TourMagiciens"
+Batiment__niveau 1
+Batiment__nomObjetMaitre "LUMIERE___MAGIE1"
+Batiment__nom "Magicians' House of Light (1)"
+Batiment__nomVariable "NiveauTourMagiciens"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 3
+	Possibilite__nomVariable "NiveauMagicien"
+	Possibilite__valeur 1
+	Possibilite__nomVariable "NiveauDragonSimple"
+	Possibilite__valeur 1
+	Possibilite__nomVariable "NiveauMG0"
+	Possibilite__valeur 1
+Batiment__nbDeveloppements 2
+	Developpement__nom "Recovery of Manna (1)"
+	Developpement__prix 100
+	Developpement__nomVariable "NiveauRecuperationMana"
+	Developpement__valeur 1
+	Developpement__description	"By discovering the"
+						"techniques of the recovery of"
+						"manna, the magicians learn to"
+						"resource more rapidly : thus"
+						"they can use their spells more often."
+	Developpement__nom "Invocation of the elementary forces"
+	Developpement__prix 150
+	Developpement__nomVariable "NiveauMG1"
+	Developpement__valeur 1
+	Developpement__description	"By calling on the elementary"
+						"forces of nature, the"
+						"magician invokes, for a short"
+						"period, a powerful creature"
+						"capable of shattering the enemy ranks."
+Batiment__nbConstructions 0
+
+
+Batiment__type "Scierie"
+Batiment__niveau 2
+Batiment__nomObjetMaitre "LUMIERE___MENUISERIE2"
+Batiment__nom "Carpentry of Light (2)"
+Batiment__nomVariable "NiveauScierie"
+Batiment__estDeBase 1
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauArcher"
+	Possibilite__valeur 2
+Batiment__nbDeveloppements 4
+	Developpement__nom "Battering Ram (2)"
+	Developpement__prix 200
+	Developpement__nomVariable "NiveauBelier"
+	Developpement__valeur 2
+	Developpement__description	"A basic siege engine, the"
+						"battering ram is"
+						"nevertheless the"
+						"indispensable weapon to overcome the"
+						"gates of the best guarded fortresses."
+	Developpement__nom "Catapult (2)"
+	Developpement__prix 400
+	Developpement__nomVariable "NiveauCatapulte"
+	Developpement__valeur 2
+	Developpement__description	"A formidable siege"
+						"engine, the catapult hurls"
+						"huge rocks onto the enemy"
+						"ramparts, gradually wearing"
+						"down the best constructions."
+	Developpement__nom "Power bow (2)"
+	Developpement__prix 150
+	Developpement__nomVariable "NiveauArcPuissance"
+	Developpement__valeur 1
+	Developpement__description	"By increasing the"
+						"speed of arrows, the"
+						"power bow allows the"
+						"archers to inflict"
+						"deeper wounds on their enemies."
+	Developpement__nom "Science of Assembly (2)"
+	Developpement__prix 400
+	Developpement__nomVariable "NiveauBois"
+	Developpement__valeur 2
+	Developpement__description	"These new"
+						"techniques of"
+						"assembly allow"
+						"more robust"
+						"constructions to be made."
+Batiment__nbConstructions 3
+	Construction__nom "Furnaces of Light (2)"
+	Construction__prix 500
+	Construction__typeBatiment "Forge"
+	Construction__niveauBatiment 2
+	Construction__description	"The power of the"
+						"furnaces enables more"
+						"efficient weapons and"
+						"highly protective armor"
+						"and shields to be produced."
+	Construction__nom "Stud farm of Light (2)"
+	Construction__prix 450
+	Construction__typeBatiment "Ecurie"
+	Construction__niveauBatiment 2
+	Construction__description	"Through the development of"
+						"the techniques of"
+						"horse-breeding and"
+						"horse-training, the stud farm allows the"
+						"efficiency of the cavalry to be increased."
+	Construction__nom "Casern of Light (2)"
+	Construction__prix 300
+	Construction__typeBatiment "Baraquement"
+	Construction__niveauBatiment 2
+	Construction__description	"Like the barracks, the casern"
+						"is used to raise and organize"
+						"the armies before they leave on"
+						"campaign.  And the training of"
+						"the troops is much better there."
+
+
+Batiment__type "Ambassade"
+Batiment__niveau 2
+Batiment__nomObjetMaitre "LUMIERE___AMBASSADE2"
+Batiment__nom "Consulate of Light (2)"
+Batiment__nomVariable "NiveauAmbassade"
+Batiment__estDeBase 1
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauPorteDrapeau"
+	Possibilite__valeur 2
+Batiment__nbDeveloppements 1
+	Developpement__nom "Commercial contracts (2)"
+	Developpement__prix 300
+	Developpement__nomVariable "NiveauCommerce"
+	Developpement__valeur 2
+	Developpement__description	"The mastery of"
+						"commercial contracts"
+						"allows the costs of"
+						"gathering and maintaining"
+						"the armies to be reduced."
+Batiment__nbConstructions 0
+
+
+Batiment__type "Ecurie"
+Batiment__niveau 2
+Batiment__nomObjetMaitre "LUMIERE___ECURIE2"
+Batiment__nom "Stud farm of Light (2)"
+Batiment__nomVariable "NiveauEcurie"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauCavalierLeger"
+	Possibilite__valeur 2
+Batiment__nbDeveloppements 2
+	Developpement__nom "Heavy cavalryman (1)"
+	Developpement__prix 300
+	Developpement__nomVariable "NiveauCavalierLourd"
+	Developpement__valeur 1
+	Developpement__description	"Contrary to the"
+						"light cavalryman,"
+						"the heavy"
+						"cavalryman has reinforced"
+						"armor and a sturdy mount."
+	Developpement__nom "Cavalry charge"
+	Developpement__prix 250
+	Developpement__nomVariable "NiveauChargeCavalerie"
+	Developpement__valeur 1
+	Developpement__description	"The apprenticeship of"
+						"advanced riding techniques,"
+						"associated with very strict"
+						"training, allows the"
+						"horsemen to lead a cavalry charge."
+Batiment__nbConstructions 0
+
+
+Batiment__type "Baraquement"
+Batiment__niveau 2
+Batiment__nomObjetMaitre "LUMIERE___BARAQUE2"
+Batiment__nom "Casern of Light (2)"
+Batiment__nomVariable "NiveauBaraquement"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 2
+	Possibilite__nomVariable "NiveauSoldat"
+	Possibilite__valeur 2
+	Possibilite__nomVariable "NiveauPhalange"
+	Possibilite__valeur 2
+
+Batiment__nbDeveloppements 0
+Batiment__nbConstructions 0
+
+
+Batiment__type "Forge"
+Batiment__niveau 2
+Batiment__nomObjetMaitre "LUMIERE___FORGE2"
+Batiment__nom "Furnaces of Light (2)"
+Batiment__nomVariable "NiveauForge"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 0
+Batiment__nbDeveloppements 3
+	Developpement__nom "Sling (2)"
+	Developpement__prix 400
+	Developpement__nomVariable "NiveauBaliste"
+	Developpement__valeur 2
+	Developpement__description	"Devastating siege"
+						"engine, the sling or"
+						"ballista projects bolts"
+						"like a giant crossbow, thus"
+						"decimating the enemy formations."
+	Developpement__nom "Science of Alloys (2)"
+	Developpement__prix 300
+	Developpement__nomVariable "NiveauArmes"
+	Developpement__valeur 2
+	Developpement__description	"The discovery of the"
+						"science of alloys allows"
+						"finer and more resistant,"
+						"and therefore much"
+						"deadlier, weapons to be produced."
+	Developpement__nom "Science of Smelting Metals (2)"
+	Developpement__prix 400
+	Developpement__nomVariable "NiveauArmures"
+	Developpement__valeur 2
+	Developpement__description	"The apprenticeship of"
+						"smelting metals allows"
+						"extremely robust armor to"
+						"be manufactured, protecting"
+						"the fighters all the better."
+Batiment__nbConstructions 3
+	Construction__nom "Armory of Light (2)"
+	Construction__prix 950
+	Construction__typeBatiment "SalleArmes"
+	Construction__niveauBatiment 2
+	Construction__description	"In the armory, the"
+						"knights perfect the"
+						"techniques of combat which"
+						"will make them formidable"
+						"opponents on the battlefield."
+	Construction__nom "Magicians' School of Light (2)"
+	Construction__prix 1000
+	Construction__typeBatiment "TourMagiciens"
+	Construction__niveauBatiment 2
+	Construction__description	"The magicians'"
+						"school teaches them"
+						"new spells and how"
+						"to channel the source"
+						"of their power better."
+	Construction__nom "Church of Light (2)"
+	Construction__prix 1000
+	Construction__typeBatiment "LieuCulte"
+	Construction__niveauBatiment 2
+	Construction__description	"A holy edifice encouraging"
+						"prayer and contemplation,"
+						"the church allows the"
+						"priests to strengthen their"
+						"faith and to study new prayers."
+
+
+Batiment__type "SalleArmes"
+Batiment__niveau 2
+Batiment__nomObjetMaitre "LUMIERE___SALLEARMES2"
+Batiment__nom "Armory of Light (2)"
+Batiment__nomVariable "NiveauSalleArmes"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauChevalier"
+	Possibilite__valeur 2
+Batiment__nbDeveloppements 4
+	Developpement__nom "Secret Boot (2)"
+	Developpement__prix 450
+	Developpement__nomVariable "NiveauVorpale"
+	Developpement__valeur 2
+	Developpement__description	"By using this secret"
+						"boot the knights"
+						"often gain an"
+						"advantage over their"
+						"enemy in hand-to-hand fighting."
+	Developpement__nom "Knight's fury"
+	Developpement__prix 700
+	Developpement__nomVariable "NiveauFurieChevalier"
+	Developpement__valeur 1
+	Developpement__description	"When the battle seems"
+						"lost, the knight's fury"
+						"gives the knights a"
+						"second wind that could"
+						"change the outcome of the battle."
+	Developpement__nom "Swordsman's technique (2)"
+	Developpement__prix 500
+	Developpement__nomVariable "NiveauAttaqueTraitre"
+	Developpement__valeur 2
+	Developpement__description	"Adopting the swordsman's"
+						"technique for their own use,"
+						"the knights of Light do not"
+						"hesitate to strike their enemies in"
+						"the back, inflicting dreadful wounds."
+	Developpement__nom "Poisoning of the weapons (2)"
+	Developpement__prix 600
+	Developpement__nomVariable "NiveauPoisonArmes"
+	Developpement__valeur 2
+	Developpement__description	"Deeper research into"
+						"poisoning weapons"
+						"allows the knights of"
+						"Light to be equipped"
+						"with ever deadlier weapons."
+Batiment__nbConstructions 0
+
+
+Batiment__type "LieuCulte"
+Batiment__niveau 2
+Batiment__nomObjetMaitre "LUMIERE___EGLISE2"
+Batiment__nom "Church of Light (2)"
+Batiment__nomVariable "NiveauLieuCulte"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauPretre"
+	Possibilite__valeur 2
+Batiment__nbDeveloppements 5
+	Developpement__nom "Religious Fervor (2)"
+	Developpement__prix 200
+	Developpement__nomVariable "NiveauRecuperationFoi"
+	Developpement__valeur 2
+	Developpement__description	"Religious fervor"
+						"considerably improves the"
+						"capacity of priests to"
+						"resource; they then become"
+						"precious elements on a battlefield."
+	Developpement__nom "Power of Faith (1)"
+	Developpement__prix 100
+	Developpement__nomVariable "NiveauPuissanceFoi"
+	Developpement__valeur 1
+	Developpement__description	"By developing the"
+						"power of their"
+						"faith, the"
+						"priests increase the"
+						"power of their prayers."
+	Developpement__nom "Greatness of Faith (1)"
+	Developpement__prix 100
+	Developpement__nomVariable "NiveauQuantiteFoi"
+	Developpement__valeur 1
+	Developpement__description	"Through their research"
+						"into the greatness of"
+						"faith, the priests give"
+						"themselves the possibility of"
+						"using their prayers more often."
+	Developpement__nom "Vade Retro"
+	Developpement__prix 250
+	Developpement__nomVariable "NiveauPR2"
+	Developpement__valeur 1
+	Developpement__description	"This prayer allow a"
+						"priest to send demons"
+						"back to their original"
+						"level, thus making them"
+						"disappear from the world of men."
+	Developpement__nom "Resurrection"
+	Developpement__prix 600
+	Developpement__nomVariable "NiveauPR3"
+	Developpement__valeur 1
+	Developpement__description	"Saying this"
+						"prayer, the priest"
+						"may bring back to"
+						"life a soldier who"
+						"died on the battlefield."
+Batiment__nbConstructions 0
+
+
+Batiment__type "TourMagiciens"
+Batiment__niveau 2
+Batiment__nomObjetMaitre "LUMIERE___MAGIE2"
+Batiment__nom "Magicians' School of Light (2)"
+Batiment__nomVariable "NiveauTourMagiciens"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 2
+	Possibilite__nomVariable "NiveauMagicien"
+	Possibilite__valeur 2
+	Possibilite__nomVariable "NiveauDragonSimple"
+	Possibilite__valeur 2
+Batiment__nbDeveloppements 6
+	Developpement__nom "Magical Fervor (2)"
+	Developpement__prix 200
+	Developpement__nomVariable "NiveauRecuperationMana"
+	Developpement__valeur 2
+	Developpement__description	"Magical fervor"
+						"noticeably improves the"
+						"capacity of magicians to"
+						"resource. They then become"
+						"precious elements on a battlefield."
+	Developpement__nom "Power of Manna (1)"
+	Developpement__prix 100
+	Developpement__nomVariable "NiveauPuissanceMana"
+	Developpement__valeur 1
+	Developpement__description	"In developing the"
+						"power of their"
+						"manna, the"
+						"magicians increase"
+						"the power of their spells."
+	Developpement__nom "Greatness of Manna (1)"
+	Developpement__prix 100
+	Developpement__nomVariable "NiveauQuantiteMana"
+	Developpement__valeur 1
+	Developpement__description	"By their research into"
+						"the greatness of the"
+						"manna, the magicians"
+						"have the possibility of"
+						"using their spells more often."
+	Developpement__nom "Rain of fire"
+	Developpement__prix 750
+	Developpement__nomVariable "NiveauMG2"
+	Developpement__valeur 1
+	Developpement__description	"By designating a"
+						"zone on the"
+						"battlefield, the"
+						"magician causes a rain"
+						"of fire to fall upon it."
+	Developpement__nom "Eradication"
+	Developpement__prix 300
+	Developpement__nomVariable "NiveauMG3"
+	Developpement__valeur 1
+	Developpement__description	"By designating his"
+						"enemy with a gesture,"
+						"the magician inflicts"
+						"appalling suffering"
+						"on him leading to death."
+	Developpement__nom "Celestial light"
+	Developpement__prix 1250
+	Developpement__nomVariable "NiveauMG4"
+	Developpement__valeur 1
+	Developpement__description	"By concentrating the elementary"
+						"forces of nature, the magician"
+						"provokes a flash of intense light"
+						"which causes the spontaneous combustion"
+						"of the enemies present on the battlefield."
+Batiment__nbConstructions 0
+
+
+Batiment__type "Scierie"
+Batiment__niveau 3
+Batiment__nomObjetMaitre "LUMIERE___MENUISERIE3"
+Batiment__nom "Cabinet maker's of Light (3)"
+Batiment__nomVariable "NiveauScierie"
+Batiment__estDeBase 1
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauArcher"
+	Possibilite__valeur 3
+Batiment__nbDeveloppements 4
+	Developpement__nom "Battering Ram (3)"
+	Developpement__prix 400
+	Developpement__nomVariable "NiveauBelier"
+	Developpement__valeur 3
+	Developpement__description	"A basic siege engine, the"
+						"battering ram is"
+						"nevertheless the"
+						"indispensable weapon to overcome the"
+						"gates of the best guarded fortresses."
+	Developpement__nom "Catapult (3)"
+	Developpement__prix 600
+	Developpement__nomVariable "NiveauCatapulte"
+	Developpement__valeur 3
+	Developpement__description	"A formidable siege"
+						"engine, the catapult hurls"
+						"huge rocks onto the enemy"
+						"ramparts, gradually wearing"
+						"down the best constructions."
+	Developpement__nom "Precision bow (3)"
+	Developpement__prix 200
+	Developpement__nomVariable "NiveauArcPrecision"
+	Developpement__valeur 1
+	Developpement__description	"Associated with the"
+						"distance bow and the power"
+						"bow, the precision bow gives"
+						"the archers a weapon of"
+						"fearsome accuracy and efficiency."
+	Developpement__nom "Science of Precious Woods (3)"
+	Developpement__prix 600
+	Developpement__nomVariable "NiveauBois"
+	Developpement__valeur 3
+	Developpement__description	"Through the discovery of"
+						"the exceptional properties"
+						"of certain precious woods,"
+						"the cabinet makers produce"
+						"more resistant siege engines."
+Batiment__nbConstructions 3
+	Construction__nom "Foundry of Light (3)"
+	Construction__prix 750
+	Construction__typeBatiment "Forge"
+	Construction__niveauBatiment 3
+	Construction__description	"By mastering high temperatures and"
+						"using the latest discoveries"
+						"about alloys, the foundry allows"
+						"formidable weapons and extremely"
+						"resistant armor and shields to be produced."
+	Construction__nom "Riding club of Light (3)"
+	Construction__prix 750
+	Construction__typeBatiment "Ecurie"
+	Construction__niveauBatiment 3
+	Construction__description	"The riding club under the"
+						"sign of the horsemen of"
+						"Light uses advanced"
+						"horse-training techniques, making"
+						"them dreadfully effective in combat."
+	Construction__nom "Quarters of Light (3)"
+	Construction__prix 400
+	Construction__typeBatiment "Baraquement"
+	Construction__niveauBatiment 3
+	Construction__description	"Only the quarters have the"
+						"infrastructure necessary"
+						"for training and lodging"
+						"elite troops, guaranteeing a"
+						"more efficient army on campaign."
+
+
+Batiment__type "Ecurie"
+Batiment__niveau 3
+Batiment__nomObjetMaitre "LUMIERE___ECURIE3"
+Batiment__nom "Riding club of Light (3)"
+Batiment__nomVariable "NiveauEcurie"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauCavalierLeger"
+	Possibilite__valeur 3
+Batiment__nbDeveloppements 1
+	Developpement__nom "Heavy cavalryman (2)"
+	Developpement__prix 650
+	Developpement__nomVariable "NiveauCavalierLourd"
+	Developpement__valeur 2
+	Developpement__description	"Contrary to the"
+						"light cavalryman,"
+						"the heavy"
+						"cavalryman has reinforced"
+						"armor and a sturdy mount."
+Batiment__nbConstructions 0
+
+
+Batiment__type "Baraquement"
+Batiment__niveau 3
+Batiment__nomObjetMaitre "LUMIERE___BARAQUE3"
+Batiment__nom "Quarters of Light (3)"
+Batiment__nomVariable "NiveauBaraquement"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauSoldat"
+	Possibilite__valeur 3
+Batiment__nbDeveloppements 0
+Batiment__nbConstructions 0
+
+
+Batiment__type "Forge"
+Batiment__niveau 3
+Batiment__nomObjetMaitre "LUMIERE___FORGE3"
+Batiment__nom "Foundry of Light (3)"
+Batiment__nomVariable "NiveauForge"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 0
+Batiment__nbDeveloppements 3
+	Developpement__nom "Sling (3)"
+	Developpement__prix 600
+	Developpement__nomVariable "NiveauBaliste"
+	Developpement__valeur 3
+	Developpement__description	"Devastating siege"
+						"engine, the sling or"
+						"ballista projects bolts"
+						"like a giant crossbow, thus"
+						"decimating the enemy formations."
+	Developpement__nom "Art of Ironwork (3)"
+	Developpement__prix 600
+	Developpement__nomVariable "NiveauArmes"
+	Developpement__valeur 3
+	Developpement__description	"The apprenticeship of"
+						"the art ironwork"
+						"allows weapons that"
+						"are ever more efficient"
+						"in combat to be developed."
+	Developpement__nom "Art of Armor Plating (3)"
+	Developpement__prix 600
+	Developpement__nomVariable "NiveauArmures"
+	Developpement__valeur 3
+	Developpement__description	"In developing the art of"
+						"armor plating, the"
+						"blacksmiths acquire the know-how"
+						"necessary to create armor that"
+						"is both light and very protective."
+Batiment__nbConstructions 1
+	Construction__nom "Military Academy of Light (3)"
+	Construction__prix 1500
+	Construction__typeBatiment "SalleArmes"
+	Construction__niveauBatiment 3
+	Construction__description	"Through the teaching of the"
+						"ultimate techniques of combat,"
+						"the military academy completes"
+						"the training of the knights,"
+						"making them exceptional fighters."
+
+
+Batiment__type "SalleArmes"
+Batiment__niveau 3
+Batiment__nomObjetMaitre "LUMIERE___SALLEARMES3"
+Batiment__nom "Military Academy of Light (3)"
+Batiment__nomVariable "NiveauSalleArmes"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 0
+Batiment__nbDeveloppements 2
+	Developpement__nom "Art of Killing (3)"
+	Developpement__prix 900
+	Developpement__nomVariable "NiveauAttaqueTraitre"
+	Developpement__valeur 3
+	Developpement__description	"Few of the knights of Light are invited"
+						"to follow the teaching of the art of"
+						"killing. But those who do become feared"
+						"fighters at the end of their training,"
+						"striking the opponent when he least expects it."
+	Developpement__nom "Virulence of Poisons (3)"
+	Developpement__prix 900
+	Developpement__nomVariable "NiveauPoisonArmes"
+	Developpement__valeur 3
+	Developpement__description	"Research into the"
+						"virulence of poisons"
+						"allows new poisons to be"
+						"developed accelerating the"
+						"death of the poisoned opponent."
+Batiment__nbConstructions 0

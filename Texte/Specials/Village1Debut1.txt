@@ -1,0 +1,6 @@
+0
+Soldiers, our aim is to terrorize the inhabitants of the neighboring villages. We are going to make an example of this village. For Haazheel Thorn! For the Black Moon! Charge and take no prisoners!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Specials\\Village1Debut2.txt	873
+//

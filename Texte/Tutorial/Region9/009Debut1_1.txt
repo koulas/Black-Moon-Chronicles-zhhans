@@ -1,0 +1,8 @@
+0
+好的, 这样更好。
+现在集合行军. 我们已经在这里闲逛够了。
+这些光明教的狗贼还没逃远。
+让我亲自砍死他们几个开心下!//
+
+[EVENEMENTS]		1
+REQUESTER 	..\\Texte\\Tutorial\\Region9\\009Debut1_1_1.txt	928

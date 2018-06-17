@@ -1,0 +1,8 @@
+0
+Indeed, it is to be feared that our paths will cross again; whatever happens, the Black Moon has lost numerous forces this day, and it is with joy that I savor this great victory over my old enemy.
+
+So there you are, Fratus, I thank you for your support, although it came very late!//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire4.txt	862
+//

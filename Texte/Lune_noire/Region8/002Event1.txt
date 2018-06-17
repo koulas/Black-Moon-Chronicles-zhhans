@@ -1,0 +1,6 @@
+0
+Misfortune is with us. Look! The Orcs have found a ford, a passage, to cross the river. They are going to overrun us if we do not react quickly. To arms and let us repel these cursed Orcs.//
+
+[EVENEMENTS]		1
+DEFECTION		2
+//  

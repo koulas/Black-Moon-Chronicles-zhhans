@@ -1,0 +1,9 @@
+0
+OH AH AH, what joy, what happiness to find one's own folk in one piece! The path was hard it's true, but the reward is well worth it.
+
+By the way, speaking of reward, here's something for you, lord, it is a plan that indicates the position of a great treasure that we were forced to abandon some time ago. 
+Beware, the region is riddled with elementaries. After all, we would not have abandoned all that gold for nothing!//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region5\\007Victoire2.txt	865
+//

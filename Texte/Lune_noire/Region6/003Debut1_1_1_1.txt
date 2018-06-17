@@ -1,0 +1,8 @@
+0
+Are you sure about that? This is a serious accusation! I cannot take the decision alone to intervene in this matter. I am opening the gates of the city and I guarantee my neutrality. However, you may only attack the representatives of Light, otherwise I would have to take action against you... Is that understood?//
+
+[EVENEMENTS]	3
+DEFECTION	2
+ALLIANCE	3
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\003Debut1_1_1_1_1.txt	865
+//

@@ -1,0 +1,8 @@
+0
+胜利! 我军已经守住.
+我们发现了从该地区征收的税款:
+这笔款项留在我们的库房比在皇帝的库房好.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region3\\001Victoire1_1.txt	862
+//

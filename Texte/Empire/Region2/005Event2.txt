@@ -1,0 +1,7 @@
+0
+滚出我们的领土!Dacow属于我们
+这不是你能从我们手里夺走的!//
+
+[EVENEMENTS]	1
+DEFECTION	2
+//

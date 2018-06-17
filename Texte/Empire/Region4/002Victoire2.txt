@@ -1,0 +1,8 @@
+0
+Thank you Count Wismerhill for your assistance. It came at the right time for we were weak compared with the Elves! Most of our people are in the mines, or on the roads bringing our goods to our customers, or have taken up arms to wage war against the Elves!
+
+This continuing war against the Elves must stop for we have no strength left. Please go to see the Elves to negotiate a truce to let us recover!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Empire\\Region4\\002Victoire3.txt	865
+// 

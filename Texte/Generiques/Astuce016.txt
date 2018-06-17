@@ -1,0 +1,13 @@
+2
+Tips & Tricks
+                            - Battlefield -
+
+The Magician of Light multiplies his power when in contact with lava: he then commands the fire elementary invocations!//
+Next trick//
+Play now//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Generiques\\Astuce017.txt	857
+//
+-
+//

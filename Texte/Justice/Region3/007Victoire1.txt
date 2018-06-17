@@ -1,0 +1,5 @@
+0
+VICTORY!! Haazheel Thorn and his henchmen have really died this time! We only need to wipe out the last forces from the castle and Lhynn will be ours.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\007Victoire2.txt	850//

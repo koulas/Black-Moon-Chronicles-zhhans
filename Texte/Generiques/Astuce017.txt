@@ -1,0 +1,13 @@
+2
+Tips & Tricks
+                            - Battlefield -
+
+When close to a river, the Magician of Justice invokes the water elementaries to wash the world of its sins and of his enemies!//
+Next trick//
+Play now//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Generiques\\Astuce018.txt	857
+//
+-
+//

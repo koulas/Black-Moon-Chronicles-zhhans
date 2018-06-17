@@ -1,0 +1,14 @@
+0
+恭喜你作出明智的选择，这绝不令你后悔！
+这些订制的作战单位将会送到
+你下一场战斗发生地点，且不收这额外运费.
+来日再见，大人!//
+
+[EVENEMENTS]	6
+PERTES_OR	2000
+GAINS_UNITES	139	1	1
+GAINS_UNITES	141	2	1
+GAINS_UNITES	47	1	1
+GAINS_UNITES	45	3	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\002Victoire1_1_1.txt	862
+//

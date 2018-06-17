@@ -1,0 +1,8 @@
+0
+What a fight! The blood shed by our enemies will fill our bruised hearts. Unfortunately, the struggle against evil does not end so; we have located a large camp of the Black Moon to the South whose inhabitants might well be those causing all the plundering in the region.
+
+We are going to help the poor people recover their goods. Are you with us?//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region5\\001Victoire2.txt	860//
+

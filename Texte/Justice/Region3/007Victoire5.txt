@@ -1,0 +1,6 @@
+0
+Yes, I did not want to believe it, but I know: it's Fratus Sinister.
+Curse him, after being driven away by his own people, he joined the dark forces of the Black Moon. Now he is showing his true colors, those of a hell hound!!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\007Victoire6.txt	865//

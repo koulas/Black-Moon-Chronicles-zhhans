@@ -1,0 +1,6 @@
+0
+Hey there, traveler! The color of your skin is strange, but it seems to me that you have a well-filled purse. You would do us a great service if you gave it to us. Traveling with so much gold is not really sensible... Come on, do not resist and you will be able to continue on your way in peace!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region5\\001Debut1_1.txt		827
+//

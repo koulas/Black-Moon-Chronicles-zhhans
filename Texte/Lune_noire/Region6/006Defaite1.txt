@@ -1,0 +1,8 @@
+0
+I have defeated the Archmage Haazheel Thorn despite the power of his armies... This battle has been costly but I have managed to prove the Oracle wrong! Haazheel Thorn is no longer a threat for the Empire!//
+
+
+
+[EVENEMENTS]	1
+GAINS_OR	1000
+//

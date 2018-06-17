@@ -1,0 +1,9 @@
+0
+Do not waste your strength with words, old man...
+Your end is near...
+My troops will wipe you out and put an end to your reign...
+Peace will soon reign in this city...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region8\\003Event1_1_1.txt 869
+//

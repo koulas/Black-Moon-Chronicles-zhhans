@@ -1,0 +1,15 @@
+3
+我们在敌军营中发现100块金币.
+我会负责把这些钱还给遭受匪患的受害者.//
+好的，钱没比用在这上面更好的了。//
+不能，以皇帝之名，我要把这笔钱用作军费。//
+只有100块金币？要不你承认自己
+隐藏其他战利品要不就担心下自己的小命!//
+
+[EVENEMENTS]		3
+REQUESTER	..\\Texte\\Lumiere\\Region7\\004Victoire1_1.txt	862
+//
+REQUESTER	..\\Texte\\Lumiere\\Region7\\004Victoire1_2.txt	861
+//
+REQUESTER	..\\Texte\\Lumiere\\Region7\\004Victoire1_3.txt	861
+//

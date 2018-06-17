@@ -1,0 +1,6 @@
+0
+Thank you for your help against the Trolls! I am sure that we will easily defeat them thanks to you. Then we will be able to talk business!//
+
+[EVENEMENTS]	1
+ALLIANCE	1
+//

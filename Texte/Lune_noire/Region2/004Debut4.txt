@@ -1,0 +1,8 @@
+0
+Yes, my child... Here precisely is a great demon come from the deepest circles of the underworld?
+
+Did you hear, great balgator? Here are your orders: go to the guardian of the gates of the city who is in front of the keep and whisper in his ear that he must open them. Do not deviate at all from your orders or else you will know the weight of my wrath!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region2\\004Debut5.txt	851
+//

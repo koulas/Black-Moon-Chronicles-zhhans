@@ -1,0 +1,24 @@
+3
+I propose siege engines, catapults and slings of the highest quality of assembly, or the purchase of the services of contingents of Dwarves. A catapult or a sling costs 1500 pieces of gold with operators and projectiles. Our crossbowmen and axmen cost 1000 per section.//
+We will buy 1 catapult, 1 sling and 1 crossbowman.//
+We will buy 1 sling and 2 axmen.//
+We will buy 2 catapults, 2 slings and 1 axman.//
+
+[EVENEMENTS]	14
+PERTES_OR	4000
+GAINS_UNITES	141 1 1
+GAINS_UNITES	139 1 1
+GAINS_UNITES	44 1 2
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\005Victoire4.txt	859
+//
+PERTES_OR	3500
+GAINS_UNITES	139 1 1
+GAINS_UNITES	45 2 2
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\005Victoire4.txt	859
+//
+PERTES_OR	7000
+GAINS_UNITES	141 2 1
+GAINS_UNITES	139 2 1
+GAINS_UNITES	45 1 2
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\005Victoire4.txt	859
+//

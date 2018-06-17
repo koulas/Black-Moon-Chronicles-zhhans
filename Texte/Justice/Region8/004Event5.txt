@@ -1,0 +1,6 @@
+0
+Challenge accepted, prince...Come and get me!//
+
+[EVENEMENTS]	1
+DEFECTION	3
+//

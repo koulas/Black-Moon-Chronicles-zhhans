@@ -1,0 +1,7 @@
+0
+Haazheel Thorn is no more... The troops of the Black Moon have been routed...
+Victory is ours...//
+
+[EVENEMENTS] 1
+IMAGE	..\\Images\\Ima_0013.tga
+//

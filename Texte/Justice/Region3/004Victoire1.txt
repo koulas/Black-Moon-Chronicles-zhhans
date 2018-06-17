@@ -1,0 +1,8 @@
+0
+Our very grateful thanks, Lord, you have fought bravely for a cause that is not yours.
+
+Let me show you our gratitude by accepting these few pieces of gold and this regiment of cavalry that will assist you in your next fight.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\004Victoire2.txt	855//
+

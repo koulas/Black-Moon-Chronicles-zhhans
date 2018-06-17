@@ -1,0 +1,7 @@
+0
+Prince, we have taken possession of the gold!
+This booty will allow us to make our order spread over the whole Empire.
+Alleluia!//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region5\\004Victoire2.txt	860//

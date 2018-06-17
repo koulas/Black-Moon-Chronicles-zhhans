@@ -1,0 +1,10 @@
+0
+Christmas : Hurrah!!!
+Excuse this burst of joy, Prince, but after all the troublesome events that have piled up against us, I could hardly see anything but the darkest of futures for the Empire.
+
+Now, I know that order and Justice can again triumph.
+Many thanks for your bravery.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\001Victoire2.txt	860//
+

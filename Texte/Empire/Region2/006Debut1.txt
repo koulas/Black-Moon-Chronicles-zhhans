@@ -1,0 +1,9 @@
+0
+快来援助我们,Wismerhill男爵!
+我们的部队在Altenberg前被打散了!
+我们的士兵在战斗中四散溃逃!
+帮助我们重整部队然后干掉光明教!//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region2\\006Debut1_1.txt 865
+//

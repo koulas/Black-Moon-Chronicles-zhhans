@@ -1,0 +1,14 @@
+0
+你到的这里，
+是我军与光明教最后决战的地方, Wismerhill.
+我知道你有能力带领我军取得胜利，
+但最困难时间要到了.
+Fratus Sinister已经聚集了他在Altenberg
+最强大的部队，为这场对决他已筹备许久.
+
+尽管如此，你可以凭借自己的勇气证明你是
+一个伟大的领袖：我对这一仗很有信心!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Empire\\Region2\\003Debut1_1.txt 865
+//

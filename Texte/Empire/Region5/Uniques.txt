@@ -1,0 +1,102 @@
+Nombre de lieux uniques : 7
+
+Nom :001 
+Magistrya
+Entree : 8
+x :37
+y :36
+Objet Graphique :1266
+Nbr Frame :12
+Lock :0
+Visite :0
+Nouvel Etat :1
+NbUnlock :0
+
+Nom : 002
+Peak of the Winds
+Entree : 2
+x :29
+y :32
+Objet Graphique :1290
+Nbr Frame :1
+Lock :1
+Visite :0
+Nouvel Etat :1
+NbUnlock :1
+0
+Message : ..\\Texte\\Empire\\Region5\\002.txt
+Messager : 863
+
+Nom :003
+Imperial Guardpost
+Entree : 2
+x :37
+y :15
+Objet Graphique :1280
+Nbr Frame :1
+Lock : 1
+Visite :0
+Nouvel Etat :1
+NbUnlock :2
+0 1
+Message : ..\\Texte\\Empire\\Region5\\003.txt
+Messager : 868
+
+Nom :004
+Feyhin Lokcthat
+Entree : 7
+x :18
+y :7
+Objet Graphique :1265
+Nbr Frame :12
+Lock : 1
+Visite :0
+Nouvel Etat :3
+NbUnlock :3
+0 1 2
+Message : ..\\Texte\\Empire\\Region5\\004.txt
+Messager : 868
+
+Nom : 005
+Brigands' camp
+Entree : 2
+x :4
+y :13
+Objet Graphique :1280
+Nbr Frame :1
+Lock : 2
+Visite :0
+Nouvel Etat :1
+NbUnlock :4
+0 1 2 3
+Message : ..\\Texte\\Empire\\Region5\\005.txt
+Messager : -1
+
+Nom : 006
+Feyhin Lokcthat
+Entree : 0
+x :18
+y :7
+Objet Graphique :1265
+Nbr Frame :12
+Lock : 2
+Visite :0
+Nouvel Etat :1
+NbUnlock :4
+0 1 2 3
+Message : ..\\Texte\\Empire\\Region5\\006.txt
+Messager : -1
+
+Nom : 007
+Fault of the Demons
+Entree : 6
+x :15
+y :23
+Objet Graphique :1281
+Nbr Frame :1
+Lock : 0
+Visite :0
+Nouvel Etat :1
+NbUnlock :0
+
+Rep :26 20

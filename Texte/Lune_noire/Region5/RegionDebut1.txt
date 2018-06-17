@@ -1,0 +1,14 @@
+0
+Welcome to the side of the Black Moon, young man. My master Haazheel Thorn, considers you to be a great warrior. So we are going to test you...
+
+Our objective is to establish fortresses in this region and to plunder the Imperial possessions, like the large cities and the gold mines. To fight us, the Empire has sent a large army of the Order of Light. Their presence makes our task very difficult. There has not yet been a great battle between them and us since we are still too weak to confront them directly. Therefore avoid direct combat with Light for the moment, unless you are sure to win...
+
+Lord Wismerhill, your first mission is to go to the North West where Light is holding a detachment of our soldiers prisoner. Free them suffering as few losses as possible. Then go to the fortified camp that we have installed further to the South.
+
+Go! You have much to do!//
+
+[EVENEMENTS]	3
+GAIN_GORGOR
+GAIN_HAAZEL
+GAIN_BARON
+//

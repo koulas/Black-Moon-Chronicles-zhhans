@@ -1,0 +1,8 @@
+0
+Strange, indeed... The Knight Light did however clearly indicate it was a large camp, not a rabble of brainless beasts!
+
+Here he comes now, perhaps he could clear up this matter!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region5\\002Debut3.txt	866
+//

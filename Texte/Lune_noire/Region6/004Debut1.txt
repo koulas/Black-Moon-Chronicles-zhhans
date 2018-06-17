@@ -1,0 +1,6 @@
+0
+Here at last is the Oracle! It is the only one anywhere in the Empire who has the power to tell me about my destiny. This is strange... There is a strong Imperial garrison present. Yet I thought that the site of the Oracle was neutral and that everyone had the right to question it. What is more, Light is present in force. That does not matter: nothing can prevent me visiting the Oracle and if Light or the Empire try to stop me, I will crush them.//
+
+[EVENEMENTS]		1
+REQUESTER		..\\Texte\\Lune_noire\\Region6\\004Debut1_1.txt	852
+// 

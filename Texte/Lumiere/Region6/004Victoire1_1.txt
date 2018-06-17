@@ -1,0 +1,9 @@
+0
+让我们忘记之你我间的分歧, Wismerhill,
+为我们的目标团结一致.
+无论你去哪，我都在你身边战斗.//
+
+[EVENEMENTS]	2
+GAIN_SUCCUBE
+REQUESTER	..\\Texte\\Lumiere\\Region6\\004Victoire1_1_1.txt	862
+//

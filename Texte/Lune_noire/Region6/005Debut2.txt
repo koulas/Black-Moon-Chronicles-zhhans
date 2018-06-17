@@ -1,0 +1,6 @@
+0
+The Dwarves do not much like the Black Moon and they are also extremely greedy. They will make us pay through the nose for their siege engines particularly since we have great need of them. We will have to do them a great service to hope that they will sell them to us cheaper. Fate will come to our aid. Two bands of Trolls are attacking the entrance to Grunkedash. They perhaps believe they can defeat the Dwarf warriors sent to meet them. The Trolls are decidedly very strong but very stupid creatures.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\005Debut3.txt	876
+//

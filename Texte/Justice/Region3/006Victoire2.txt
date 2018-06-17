@@ -1,0 +1,5 @@
+0
+Haazheel Thorn.?!!! But I slew him with my own hand; God is my witness!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\006Victoire3.txt	850//

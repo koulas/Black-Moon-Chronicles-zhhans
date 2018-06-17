@@ -1,0 +1,7 @@
+0
+Sorry to disturb your prayer, Parsifal, but bad news reaches us from Sysigia; the troops of Haazheel Thorn have started maneuvers to besiege the capital!
+
+We must act a fast as possible!//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\004Victoire3.txt	860//

@@ -1,0 +1,9 @@
+0
+What are you trying to do, wretch!
+You cannot do anything against my strength and power...
+I will crush you like a puny worm...
+You have no idea of the extent of my power...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region8\\003Event1_1.txt 865
+//

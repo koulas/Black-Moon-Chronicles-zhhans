@@ -1,0 +1,6 @@
+0
+Brothers, we have been betrayed, the blood spilt on this plain was spilt in vain. We must nevertheless continue to fight against the enemies of the Empire. I have pledged my oath to it.//
+
+[EVENEMENTS]	1
+IMAGE ..\\Images\\Ima_0016.tga
+//

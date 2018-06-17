@@ -1,0 +1,9 @@
+0
+Here you are at last Parsifal!
+The troops of the Black Moon are ready to attack, and Haazheel Thorn is at their head.
+
+God sends me to deliver his judgment on earth; evil must return to hell!....//
+
+[EVENEMENTS]	1
+ALLIANCE	1
+//

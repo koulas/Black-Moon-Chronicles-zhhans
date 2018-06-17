@@ -1,0 +1,10 @@
+2
+You help us break Dwarves? After, share booty?//
+Yes, of course, Troll chief. Let us crush the Dwarves and then we will share the booty.//
+We! We will help the Dwarves!//
+
+[EVENEMENTS]	2
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\005Debut3_1.txt	876
+//
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\005Debut3_2.txt	859
+//

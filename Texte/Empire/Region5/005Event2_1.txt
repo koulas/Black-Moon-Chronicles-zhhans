@@ -1,0 +1,14 @@
+2
+Finally, you accept what is quite plainly obvious... Our power!//
+I accept your gold in exchange for your life.//
+Accept the Emperor's authority and you will be able to continue to live peacefully... Or else I will raze your village to the ground...//
+
+[EVENEMENTS] 5
+ALLIANCE 1
+ALLIANCE 2
+ALLIANCE 3
+REQUESTER	..\\Texte\\Empire\\Region5\\005Event2_1_1.txt 861
+//
+REQUESTER	..\\Texte\\Empire\\Region5\\005Event2_1_2.txt 861
+//
+

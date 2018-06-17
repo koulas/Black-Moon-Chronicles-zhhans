@@ -1,0 +1,9 @@
+0
+另一个危险在等着我军!
+一队战龙降临在我们军队中!
+皇帝Haghendorf
+亲自带领他的骑士们攻击我军...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region3\\005Debut1_1_1_1_1.txt	862
+//

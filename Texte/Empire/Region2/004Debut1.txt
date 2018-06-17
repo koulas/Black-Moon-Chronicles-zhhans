@@ -1,0 +1,7 @@
+0
+我们的村庄受到精灵族战士的威胁.
+请快来帮助我们!//
+
+[EVENEMENTS]  1
+REQUESTER	..\\Texte\\Empire\\Region2\\004Debut1_1.txt 865
+//

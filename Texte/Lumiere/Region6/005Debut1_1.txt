@@ -1,0 +1,8 @@
+0
+我不需要你的帮忙, 大人.
+然而.拒绝会让我显得缺乏礼数。
+让我们合力对付这群盗匪，若合你意的话.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\005Debut1_1_1.txt	856
+//

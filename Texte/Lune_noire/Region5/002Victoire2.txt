@@ -1,0 +1,7 @@
+0
+We still have to clear up this story of treachery! It worries me! Fall in again. Re-form ranks and let us quicken our pace! We must go to the fortified camp of the Black Moon as quickly as possible.//
+
+[EVENEMENTS]	2
+GAINS_UNITES	10 2 1
+GAINS_UNITES	12 1 1
+//

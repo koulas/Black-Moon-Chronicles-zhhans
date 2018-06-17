@@ -1,0 +1,90 @@
+Nombre de lieux uniques : 6
+
+Nom : 001
+Necropolis
+Entree : 1
+x : 9
+y : 6
+Objet Graphique : 1288
+Nbr Frame : 1
+Lock : 0
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 0
+
+Nom : 002
+Church of the Just
+Entree : 1
+x : 30
+y : 5
+Objet Graphique : 1284
+Nbr Frame : 1
+Lock : 1
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 1
+0
+Message : ..\\Texte\\Justice\\Region1\\002.txt
+Messager : 857
+
+Nom : 003
+Black Moon
+Entree : 2
+x : 45
+y : 14
+Objet Graphique : 700
+Nbr Frame : 12
+Lock : 2
+Visite : 0
+Nouvel Etat : 3
+NbUnlock : 2
+0 1
+Message : toto.txt
+Messager : -1
+
+Nom : 004
+Lord of Negation
+Entree : 2
+x : 46
+y : 14
+Objet Graphique : 700
+Nbr Frame : 12
+Lock : 2
+Visite : 0
+Nouvel Etat : 3
+NbUnlock : 1
+2
+Message : toto.txt
+Messager : -1
+
+Nom : 005
+?
+Entree : 4
+x : 16
+y : 27
+Objet Graphique : 703
+Nbr Frame : 12
+Lock : 2
+Visite : 0
+Nouvel Etat : 3
+NbUnlock : 1
+3
+Message : toto.txt
+Messager : -1
+
+Nom : 006
+Sysigia
+Entree : 4
+x : 18
+y : 30
+Objet Graphique : 1269
+Nbr Frame : 12
+Lock : 1
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 3
+0 1 2
+Message : ..\\Texte\\Justice\\Region1\\006.txt
+Messager : 860
+
+Rep : 0 15

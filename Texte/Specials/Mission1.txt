@@ -1,0 +1,17 @@
+2
+Special missions
+
+                 Blood on the snow
+
+While you are going to the neighboring town via the snow-laden path over the mountain close to the Dragons' Pass, you find yourself in an unexpected situation!  Can you handle it?//
+Next mission//
+Play this mission//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Specials\\Mission2.txt	927
+//
+-
+//
+
+
+

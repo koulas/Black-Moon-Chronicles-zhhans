@@ -1,0 +1,12 @@
+2
+I greet you Baron of Moork!
+
+Lord Wismerhill! The Magister of Magistrya is asking you for an audience. He has proposals to make to you before the fighting begins.//
+I am listening carefully to you!//
+Your city will suffer the wrath of the armies of the Black Moon!//
+
+[EVENEMENTS]	2
+REQUESTER	..\\Texte\\Lune_noire\\Region5\\005Debut3.txt	857
+//
+REQUESTER	..\\Texte\\Lune_noire\\Region5\\005Debut4.txt	857
+//

@@ -1,0 +1,7 @@
+0
+I would never doubt your bravery nor that of your brothers, Parsifal. 
+Now return to your troops, and lead them to victory.... We have to win!//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\007Debut7.txt	860
+//

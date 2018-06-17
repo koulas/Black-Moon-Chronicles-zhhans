@@ -1,0 +1,7 @@
+1
+Chief, a traveler is being robbed beside the road. What do we do? Do we join the brigands or help the traveler? What we like is plundering and stealing...//
+No, a solitary traveler facing up to brigands must be a formidable fighter.  Let us help him.//
+
+[EVENEMENTS]	1
+ALLIANCE	1
+//

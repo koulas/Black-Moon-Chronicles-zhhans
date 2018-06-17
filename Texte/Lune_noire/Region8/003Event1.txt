@@ -1,0 +1,20 @@
+3
+Lord Wismerhill! We have already lost many of our men under the attacks of the Black Moon. The Empire's victory is jeopardized. At the hour of his defeat, nothing will protect us from your anger. We want to join forces with you for the victory against the Empire.
+
+In exchange for joining forces with you, we want to be protected from the plundering of the Orcs and not to suffer the consequences of our alliance of fortune with the Empire.
+
+What is your reply?//
+We will defeat the Empire together! (But that will not stop me afterwards getting you in my grasp!)//
+I accept your belated rallying. Serve me faithfully and you will be rewarded.//
+You will suffer defeat at the same time as the Empire you are defending.//
+
+[EVENEMENTS]		6
+DEFECTION		2
+REQUESTER		..\\Texte\\Lune_noire\\Region8\\003Event1_1.txt	929
+//
+ALLIANCE		2
+REQUESTER		..\\Texte\\Lune_noire\\Region8\\003Event1_2.txt	929
+//
+DEFECTION		2
+REQUESTER		..\\Texte\\Lune_noire\\Region8\\003Event1_3.txt	929
+//

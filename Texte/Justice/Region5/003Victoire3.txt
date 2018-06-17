@@ -1,0 +1,5 @@
+0
+It is a joy for me to receive this symbol of our alliance, rest assured I shall show myself worthy of it.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region5\\003Victoire4.txt	928//

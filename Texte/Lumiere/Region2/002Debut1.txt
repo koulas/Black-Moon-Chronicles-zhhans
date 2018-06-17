@@ -1,0 +1,17 @@
+0
+Wismerhill, 你必须保住Mornerives.
+这个据点可以掌控我们省区的南部边界.
+它对我们至关重要。
+不久之前，Mornerives是帝国的堡垒.
+如今我们和皇帝的关系变得紧张,
+我认为是时候占领它，
+出奇不意袭击该城，它就归我们了.
+据我看，自今起皇帝若从南方进攻，
+只有在Mornerives能阻挡他军队。
+你必须尽一切可能来拯救我们被围困的驻军.
+如果该城沦陷，那么就没有什么能阻止
+皇帝向Altenberg进军的了。//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region2\\002Debut1_1.txt	866
+//

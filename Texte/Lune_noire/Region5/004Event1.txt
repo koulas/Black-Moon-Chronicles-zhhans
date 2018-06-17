@@ -1,0 +1,6 @@
+0
+So there you are at last, Wismerhill! We have been observing you for a long time and we have been waiting impatiently for your coming.  In this sacred place, we choose you to be our messenger among men! May you never disappoint us since we are placing all our trust in you!//
+
+[EVENEMENTS]	1
+ALLIANCE	4
+//

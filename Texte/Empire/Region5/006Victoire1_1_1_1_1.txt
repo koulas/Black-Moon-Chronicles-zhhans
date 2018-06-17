@@ -1,0 +1,8 @@
+0
+So Murata, let us celebrate this alliance properly!
+And tomorrow we will set out again.  We must pacify this area for the Emperor...//
+
+[EVENEMENTS] 2
+GAIN_MURATA
+IMAGE	..\\Images\\Ima_0017.tga
+//

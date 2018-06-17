@@ -1,0 +1,6 @@
+0
+My very dear brothers! Justice commands us once again to protect widows and orphans! The Black Moon, represented by one of its worse henchmen, Greldinard, Baron of Moork, is preparing to attack a village. We must stop them and limit the death toll among the peasants. The Baron of Moork must also die!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Specials\\Village2Debut2.txt	858
+//

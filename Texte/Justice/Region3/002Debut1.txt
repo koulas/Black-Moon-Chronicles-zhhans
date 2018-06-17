@@ -1,0 +1,6 @@
+0
+We are too late, Sire, Light has already taken over this Krak; they appear to control the whole region!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\002Debut2.txt	855
+//

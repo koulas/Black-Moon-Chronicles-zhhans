@@ -1,0 +1,6 @@
+0
+Master! Our brothers are prisoners of Light. We must free them at all costs.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region5\\002Debut1_1.txt		874
+//

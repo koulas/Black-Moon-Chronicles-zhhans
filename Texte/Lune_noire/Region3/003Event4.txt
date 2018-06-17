@@ -1,0 +1,6 @@
+0
+Dvorak! We are suffering a humiliating defeat. If we had been only Dwarves fighting, the outcome would definitely have been different! It's these cursed Elves who do not fight properly. They are letting us pay the price of the battle with our lives and they will then take all the glory! It's unacceptable!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region3\\003Event4_1.txt	856
+//

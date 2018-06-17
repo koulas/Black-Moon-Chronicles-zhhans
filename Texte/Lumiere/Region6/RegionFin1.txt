@@ -1,0 +1,14 @@
+0
+"Tsaroth之战血流漂杵,
+而且同盟深受光明教背叛之苦.
+在经过帝国军帐篷内的激烈讨论后,
+Fratus Sinister和Wismerhill离开了
+前往他们岸边城堡的强行军部队.
+Murata, Hellaynnea
+和Ghorghor都追随他们."
+
+(光明教编年史 - XX, 17)//
+
+[EVENEMENTS] 1
+IMAGE	..\IMAGES\IMA_0022.tga
+\\

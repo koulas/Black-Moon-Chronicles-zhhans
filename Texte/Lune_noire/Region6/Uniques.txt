@@ -1,0 +1,88 @@
+Nombre de lieux uniques : 6
+
+Nom : 001
+Pass of the Dragons
+Entree : 2
+x : 6
+y : 29
+Objet Graphique : 699
+Nbr Frame : 12
+Lock : 0
+Visite : 0
+Nouvel Etat : 1 
+NbUnlock : 0
+
+Nom : 002 
+Castle of the Dragon Princes
+Entree : 0
+x : 13
+y : 33
+Objet Graphique : 1293
+Nbr Frame : 1
+Lock : 1
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 1
+0
+Message : ..\\Texte\\Lune_noire\\Region6\\002.txt
+Messager : 858
+
+Nom : 003 
+Medrow
+Entree : 0
+x : 17
+y : 14
+Objet Graphique : 710
+Nbr Frame : 1
+Lock : 1
+Visite : 0 
+Nouvel Etat : 1
+NbUnlock : 1
+1
+Message : ..\\Texte\\Lune_noire\\Region6\\003.txt
+Messager : 858
+
+Nom : 004
+The Oracle
+Entree : 2
+x : 48
+y : 13
+Objet Graphique : 1289
+Nbr Frame : 1
+Lock : 0
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 1
+2
+Message : ..\\Texte\\Lune_noire\\Region6\\004.txt
+Messager : 858
+
+Nom : 005 
+Grunkedash
+Entree : 0
+x : 24
+y : 35
+Objet Graphique : 1282
+Nbr Frame : 1
+Lock : 1
+Visite : 0
+Nouvel Etat : 1 
+NbUnlock : 1
+3
+Message : ..\\Texte\\Lune_noire\\Region6\\005.txt
+Messager : 858
+
+Nom : 006 
+The fault of Tsaroth
+Entree : 3
+x : 41
+y : 4
+Objet Graphique : 1281
+Nbr Frame : 1
+Lock : 2
+Visite : 0
+Nouvel Etat : 3 
+NbUnlock : 1
+4
+Message : ..\\Texte\\Lune_noire\\Region6\\006.txt
+Messager : -1

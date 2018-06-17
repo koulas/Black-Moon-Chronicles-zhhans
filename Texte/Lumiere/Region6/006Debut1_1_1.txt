@@ -1,0 +1,18 @@
+3
+作为矮人, 我们无法理解精灵的逻辑.
+因为宝藏是埋在土里的, 所有权该归我们.
+难道我们不是大地之子吗?//
+光明军决定宝藏所有权归精灵.//
+光明军决定宝藏属于矮人的利益.//
+为了绝对的公正,
+光明军将宝藏据为己有.//
+
+[EVENEMENTS]	5
+ALLIANCE	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\006Debut1_1_1_1.txt	856
+//
+ALLIANCE	2
+REQUESTER	..\\Texte\\Lumiere\\Region6\\006Debut1_1_1_2.txt	859
+//
+REQUESTER	..\\Texte\\Lumiere\\Region6\\006Debut1_1_1_3.txt	866
+//

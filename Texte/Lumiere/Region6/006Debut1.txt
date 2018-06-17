@@ -1,0 +1,9 @@
+0
+首领,
+侦察兵报告有一支精灵部队和一支矮人部队,
+都已与我军碰面
+他们各自派出一个使节要求接见.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\006Debut1_1.txt	856
+//

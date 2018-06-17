@@ -1,0 +1,7 @@
+0
+皇帝已死!
+我们将其从高处击落!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region3\\005Victoire1_1.txt	853
+//

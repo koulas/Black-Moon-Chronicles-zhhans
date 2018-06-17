@@ -1,0 +1,14 @@
+0
+当前是关键时刻. 如果今天这仗输了
+那么之前我军所有胜利成果都白费.
+Haazheel Thorn 本人,
+黑月军团的主宰,一直全力对抗我们.
+他的那些死者中冒起的军团，被我们所败
+他以此失败补偿我们的损失.
+我对Haazheel Thorn深恨之,
+Wismerhill.
+我要有人杀了他将他的心献给我!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region2\\006Debut1_1.txt	874
+//

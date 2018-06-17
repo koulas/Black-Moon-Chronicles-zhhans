@@ -1,0 +1,7 @@
+0
+If it means protecting the Empire, we are ready to fight, but if it means sacrificing my men and my siege engines, then Horker can again be the prey of the Black Moon, and all the region will be controlled by evil.
+I cannot reason myself to accept this choice.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\004Debut4.txt	860
+//

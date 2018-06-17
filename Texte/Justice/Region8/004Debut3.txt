@@ -1,0 +1,11 @@
+2
+Without your help, the task is impossible!//
+Shame on you, God will fling down his wrath on your heads!//
+A disunited Empire is no longer anything, anarchy will cause its slow decline then its fall.
+In refusing us your support, you betray the whole Empire!//
+
+[EVENEMENTS]			2
+REQUESTER ..\\Texte\\Justice\\Region8\\004Debut3_1.txt	868
+//
+REQUESTER ..\\Texte\\Justice\\Region8\\004Debut3_2.txt	868
+//

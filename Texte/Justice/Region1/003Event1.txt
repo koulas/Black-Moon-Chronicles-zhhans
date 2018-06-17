@@ -1,0 +1,5 @@
+0
+Heh.... Not come close, else us hit your head very hard!...//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\003Event2.txt	854//

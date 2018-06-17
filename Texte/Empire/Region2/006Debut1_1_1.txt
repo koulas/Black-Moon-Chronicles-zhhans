@@ -1,0 +1,13 @@
+0
+情况不错吧, Wismerhill!
+
+我方听说你在与光明教作战，我准备加入你.
+如果你同意结盟，我会帮助提升你部队士气
+并且在Altenberg最后决战时，
+我将带领部队作为你的援军.
+
+你觉得我的提议怎样?//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region2\\006Debut1_1_1_1.txt 865
+//

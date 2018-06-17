@@ -1,0 +1,9 @@
+0
+Greetings, Wismerhill.
+Just like you and the Emperor, we are fighting the forces of evil: the troops of the Black Moon.
+We propose an alliance... Haazheel Thorn is very powerful and it is going to take at least the two of us to defeat his evil creatures...
+You will have to decide quickly since my scouts tell me that a horde of the living-dead is approaching the village...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region8\\005Event1_1.txt 865
+//

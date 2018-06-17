@@ -1,0 +1,6 @@
+0
+All my thanks, your excellency, it was a pleasure to serve you!//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire5.txt	853
+//

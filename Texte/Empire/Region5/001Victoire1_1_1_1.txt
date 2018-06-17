@@ -1,0 +1,9 @@
+0
+I accept your proposal, your help will be very valuable...
+
+We can set off now... //
+
+[EVENEMENTS] 2
+GAIN_SUCCUBE
+IMAGE	..\\Images\\Ima_0015.tga
+//

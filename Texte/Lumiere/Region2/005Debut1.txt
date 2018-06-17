@@ -1,0 +1,11 @@
+0
+黑月军已经打开通往恶魔领地的门户。
+守卫遗址的部队是由Moork男爵指挥的.
+一个对立的领主在他那边战斗.
+他就是打开Abysses之门的人.
+大胆出击吧, Wismerhill,
+否则我们将被黑月军招来的恶魔军团淹没.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region2\\005Debut1_1.txt	866
+//

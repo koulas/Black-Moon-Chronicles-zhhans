@@ -1,0 +1,6 @@
+0
+The traitor goes off without so much as a word; that says much about his treachery! You acted well, Sire. Before this day, we have already been betrayed by Sinister, your disavowal is a just punishment for his infamous conduct.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire7.txt	853
+//

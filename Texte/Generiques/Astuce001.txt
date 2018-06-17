@@ -1,0 +1,13 @@
+2
+Tips & Tricks
+                            - Region Map -
+
+To take the best-defended strongholds, position several regiments around them and attack simultaneously!//
+Next trick//
+Play now//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Generiques\\Astuce002.txt	857
+//
+-
+//

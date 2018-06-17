@@ -1,0 +1,6 @@
+0
+AAHHH, at last! I was starting to be weary of cutting up everything that moved... I think I must have eaten something that didn't go down well!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\002Victoire3.txt	860//
+

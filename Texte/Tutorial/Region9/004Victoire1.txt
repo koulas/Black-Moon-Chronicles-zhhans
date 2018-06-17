@@ -1,0 +1,15 @@
+2
+早上好, 旅行者。 我是Grümfer 大师，
+光荣地代表矮人族铁匠。
+我正准备去南边交付订单。
+我听说那地方受到兽人不断袭击骚扰。
+若你知道些相关消息，可以告诉我吗？//
+是的, Grümfer大师,我可以告诉你南边最近发生的事//
+Grümfer大师,我对南边发生的事情一无所知
+就在帝国各处看看。//
+
+[EVENEMENTS]		2
+REQUESTER	..\\Texte\\Tutorial\\Region9\\004Victoire1_1.txt	865
+//
+REQUESTER	..\\Texte\\Tutorial\\Region9\\004Victoire1_2.txt	859
+//

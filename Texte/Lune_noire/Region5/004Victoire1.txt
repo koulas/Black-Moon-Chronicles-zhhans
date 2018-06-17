@@ -1,0 +1,6 @@
+0
+You are now an ally of the great lords of the winds. This is a great opportunity for you, my child... Now that a part of your destiny has been accomplished, continue your route towards Magistrya... Go! You still have a lot to do.//
+
+[EVENEMENTS]	1
+IMAGE		..\\Images\\Ima_0002.tga
+//

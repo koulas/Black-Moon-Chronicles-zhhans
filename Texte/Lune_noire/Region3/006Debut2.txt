@@ -1,0 +1,6 @@
+0
+Brother Paladins! The hour of the last judgment has arrived! Victory means eternal glory for you and for Justice! Defeat must not be considered! Our sole aim must be victory at all costs! Haazheel Thorn must not win!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region3\\006Debut3.txt	853
+//  

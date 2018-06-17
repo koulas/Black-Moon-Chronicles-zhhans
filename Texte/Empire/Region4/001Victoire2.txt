@@ -1,0 +1,6 @@
+0
+Count Wismerhill! Thanks to your heroic conduct, our city and our academy have been saved from destruction.  Thus, the Circle of Magi has unanimously decided to put two members of our academy at your service. They will be available for your next battle.//
+
+[EVENEMENTS]	1
+GAINS_UNITES	17 2 1
+//

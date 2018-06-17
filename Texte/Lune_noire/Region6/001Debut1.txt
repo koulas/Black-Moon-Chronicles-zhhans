@@ -1,0 +1,9 @@
+0
+Look Wismerhill! It is the legendary Pass of the Dragons. This is one of the rare entrances to the kingdom of the Great Worms. You will have to go through it and cross over the lava to enter their kingdom. This is a dangerous ordeal to which you must submit. Take good care of yourself since the fiery breath of the dragons is a dreadful weapon. However, if you succeed in inflicting heavy losses on The Lights without defying the Great Worm, perhaps it will let you past!
+
+I leave you to face this ordeal alone, my darling... See you later!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\001Debut1_1.txt	865
+//
+

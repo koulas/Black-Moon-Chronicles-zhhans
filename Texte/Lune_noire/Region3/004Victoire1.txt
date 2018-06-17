@@ -1,0 +1,9 @@
+0
+It was not an easy task, but we are finally masters of the cemetery. All these dead will make a magnificent army once they are called back by the Black Moon.//
+
+[EVENEMENTS]	4
+GAINS_UNITES	267 2 3
+GAINS_UNITES	265 2 3
+GAINS_UNITES	262 2 1
+GAINS_UNITES	341 2 3
+//

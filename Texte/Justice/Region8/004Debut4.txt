@@ -1,0 +1,12 @@
+2
+Of course, the task is hard, and death will be our guest...//
+I offer you 5000 pieces of gold to compensate for your losses and enable you to rebuild your army.//
+Think of your children, struck down by the shame of your defection, will you let them think you are a coward?//
+
+[EVENEMENTS]			4
+PERTES_OR			1000
+ALLIANCE			1
+REQUESTER ..\\Texte\\Justice\\Region8\\004Debut4_1.txt	868
+//
+REQUESTER ..\\Texte\\Justice\\Region8\\004Debut4_2.txt	868
+//

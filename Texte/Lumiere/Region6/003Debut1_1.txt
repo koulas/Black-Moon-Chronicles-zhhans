@@ -1,0 +1,9 @@
+0
+首领，现在的状况很混乱;
+这座城堡正被大批黑月军包围,
+他们本身的后方
+又受到来自山上一营矮人的攻击...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\003Debut1_1_1.txt	867
+//

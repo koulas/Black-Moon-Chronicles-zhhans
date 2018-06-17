@@ -1,0 +1,6 @@
+0
+Mmmhh, still as hotheaded, I see; you should never go against your temperament.
+Well, now, you are going to understand the power of the Black Moon. It will perhaps be me you will pray to afterwards?!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\007Event2_3.txt	860//

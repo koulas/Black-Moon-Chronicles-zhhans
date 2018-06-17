@@ -1,0 +1,6 @@
+0
+Good, we will no doubt have need of you.... Haazheel Thorn and his troops are ready to fight, what about yours, Prince?//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\007Debut5.txt	860
+//

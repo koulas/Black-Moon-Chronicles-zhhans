@@ -1,0 +1,8 @@
+0
+Oh, here you are, peers of the Empire.
+Unfortunately, you arrive too late to save our city, Kendrin, which is the prey of the traitors of the Black Moon.
+However, we are ready to die to save Aleim, our powerful master, who still struggles against these evil forces...
+Quick, help us to reestablish Imperial order over our city!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region4\\005Debut2.txt	865//

@@ -1,0 +1,7 @@
+0
+据说宝藏就藏在该地区魔力来源的附近.
+据说是很大一笔，足够用来加强我军的军力.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Empire\\Region2\\007Debut1_1.txt 868
+//

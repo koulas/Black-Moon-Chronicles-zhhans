@@ -1,0 +1,8 @@
+0
+敌军已经布阵在平原上,首领.
+其中央飘动着正义骑士团的旗帜,
+精灵在其右翼，矮人则在其左翼.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region3\\004Debut1_1.txt	862
+//

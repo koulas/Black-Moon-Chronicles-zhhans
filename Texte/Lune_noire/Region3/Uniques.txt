@@ -1,0 +1,100 @@
+Nombre de lieux uniques : 7
+
+Nom : 001
+Imperial fortress
+Entree : 6
+x : 25
+y : 6
+Objet Graphique : 1266
+Nbr Frame : 12
+Lock : 0
+Visite : 0
+Nouvel Etat : 1 
+NbUnlock : 0
+
+Nom : 002
+Imperial fortress
+Entree : 0
+x : 17
+y : 7
+Objet Graphique : 1266
+Nbr Frame : 12
+Lock : 1
+Visite : 0
+Nouvel Etat : 1 
+NbUnlock : 1
+0
+Message : ..\\Texte\\Lune_noire\\Region3\\002.txt
+Messager : 858
+
+Nom : 003
+Backup army
+Entree : 3
+x : 39
+y : 29
+Objet Graphique : 697
+Nbr Frame : 12
+Lock : 1
+Visite : 0
+Nouvel Etat : 1 
+NbUnlock : 1
+0
+Message : ..\\Texte\\Lune_noire\\Region3\\003.txt
+Messager : 858
+
+Nom : 004
+Cemetery of Bys
+Entree : -1 
+x : 49 
+y : 11
+Objet Graphique : 1288
+Nbr Frame : 1
+Lock : 1
+Visite : 0
+Nouvel Etat : 1 
+NbUnlock : 1
+0
+Message : ..\\Texte\\Lune_noire\\Region3\\004.txt
+Messager : 858
+
+Nom : 005
+Suburbs of Lhynn
+Entree : 0 
+x : 12 
+y : 20
+Objet Graphique : 1266
+Nbr Frame : 12
+Lock : 1
+Visite : 0
+Nouvel Etat : 1 
+NbUnlock : 3
+0 1 2
+Message : ..\\Texte\\Lune_noire\\Region3\\005.txt
+Messager : 858
+
+Nom : 006
+Citadel of Lhynn
+Entree : 6 
+x : 11 
+y : 20
+Objet Graphique : 1266
+Nbr Frame : 12
+Lock : 1
+Visite : 0
+Nouvel Etat : 1 
+NbUnlock : 1
+4
+Message : ..\\Texte\\Lune_noire\\Region3\\006.txt
+Messager : 858
+
+Nom : 007
+Devils' Fault
+Entree : -1
+x : 28  
+y : 36
+Objet Graphique : 1281
+Nbr Frame : 1
+Lock : 1
+Visite : 0
+Nouvel Etat : 1 
+NbUnlock : 0

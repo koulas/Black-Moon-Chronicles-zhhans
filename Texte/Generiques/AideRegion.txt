@@ -1,0 +1,12 @@
+0
+                      - Help (Region Map) -
+
+
+B : Access to the bestiary
+
+Left button  on mouse : Selections
+Right button on mouse : Orders/Actions
+
+Moving over the map : Arrows or Mouse pointer on the edges of the screen
+
+Escape : Interface/Quit//

@@ -1,0 +1,12 @@
+0
+向伟大的Wismerhill致以问候!
+
+我们拥有的破坏性武器
+可能会有助于你的征伐...
+
+我们将3个弹射器和4个吊索
+打包优惠价1000块金子给你，很划算的//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region3\\004Victoire1_1.txt 865
+//

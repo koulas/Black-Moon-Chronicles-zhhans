@@ -1,0 +1,13 @@
+1
+如今怎样! 跟不跟咱们走吧?
+麻利些，你跟你的军队都投降吧,
+加入威武的Ghorghor Bey的强大军队。
+否则, 凭这Dvorak的号角,
+你们全部都要死在我脚下。//
+好的, Ghorghor大人，
+我和我的人投降你。//
+
+[EVENEMENTS]		2
+ALLIANCE		3
+REQUESTER		..\\Texte\\Tutorial\\Region9\\009Debut1_1.txt	855
+//

@@ -1,0 +1,8 @@
+0
+我们赢了，光明教叛贼因为你的介入被击溃
+没有你的帮忙，无疑我们会被摧毁...
+为了酬谢你，请接受这1000块金...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region3\\008Victoire1_1.txt  865
+//

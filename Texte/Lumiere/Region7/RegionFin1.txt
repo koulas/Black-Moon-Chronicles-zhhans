@@ -1,0 +1,9 @@
+0
+"当时, Wismerhill平乱安抚后
+离开帝国中心省份，
+狼群和乌鸦跟随着他的军队，期待新的飨宴."
+(光明教编年史 VI -3)//
+
+[EVENEMENTS] 1
+IMAGE	..\IMAGES\IMA_0003.tga
+\\

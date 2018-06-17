@@ -1,0 +1,8 @@
+0
+We went the right way, even if the hounds of hell wait for us here, the Baron Greldinard, with neither faith nor king, is not awaiting us there with his troops.
+
+The way towards Moork becomes clearer. Now, for Justice, charge!//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\003Debut2.txt	865
+//

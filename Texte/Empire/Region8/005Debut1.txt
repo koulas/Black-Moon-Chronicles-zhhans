@@ -1,0 +1,8 @@
+0
+Baron,
+troops of Justice are stationed in a small village to the north of our positions...
+They are asking to speak to you...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region8\\005Debut1_1.txt 865
+//

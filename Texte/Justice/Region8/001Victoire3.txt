@@ -1,0 +1,7 @@
+0
+Yes, unfortunately we do need help to finish off the Barony of Moork.
+
+Could you help us in this combat which will seal the fate of the Empire?//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region8\\001Victoire4.txt	868//

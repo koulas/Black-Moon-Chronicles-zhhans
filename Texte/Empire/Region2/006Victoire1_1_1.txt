@@ -1,0 +1,14 @@
+0
+吾皇威名犹在.
+所有这些增援部队应该有足够力量恢复
+帝国的全部权威，至少我希望如此!
+
+继续进军!//
+
+[EVENEMENTS]  5
+GAINS_UNITES	23 2 2
+GAINS_UNITES	22 2 2
+GAINS_UNITES	21 2 2
+GAINS_UNITES	139 2 1
+GAINS_UNITES	141 2 1
+//

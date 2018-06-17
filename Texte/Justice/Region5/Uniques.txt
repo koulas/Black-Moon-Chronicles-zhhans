@@ -1,0 +1,99 @@
+Nombre de lieux uniques : 7
+
+Nom : 001
+Halgeist
+Entree : 6
+x : 6
+y : 6
+Objet Graphique : 1255
+Nbr Frame : 12
+Lock : 0
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 0
+
+Nom : 002
+Camp of the Black Moon
+Entree : 6
+x : 16
+y : 23
+Objet Graphique : 700
+Nbr Frame : 12
+Lock : 2
+Visite : 0
+Nouvel Etat : 3
+NbUnlock : 1
+0
+Message : toto.txt
+Messager : -1
+
+Nom : 003
+Peak of the Winds
+Entree : 0
+x : 29
+y : 32
+Objet Graphique : 1290
+Nbr Frame : 1
+Lock : 1
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 3
+0 1 5
+Message : ..\\Texte\\Justice\\Region5\\003.txt
+Messager : 857
+
+Nom : 004
+Treasure
+Entree : 4
+x : 23
+y : 3
+Objet Graphique : 703
+Nbr Frame : 12
+Lock : 2
+Visite : 0
+Nouvel Etat : 3
+NbUnlock : 1
+6
+Message : toto.txt
+Messager : -1
+
+Nom : 005
+Feyhin Lokcthat
+Entree : 0
+x : 18
+y : 7
+Objet Graphique : 1265
+Nbr Frame : 12
+Lock : 0
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 0
+
+Nom : 006
+Magistrya
+Entree : 0
+x : 37
+y : 36
+Objet Graphique : 1266
+Nbr Frame : 12
+Lock : 1
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 2
+0 1
+Message : ..\\Texte\\Justice\\Region5\\006.txt
+Messager : 857
+
+Nom : 007
+Dwarf axmen
+Entree : 2
+x : 9
+y : 32
+Objet Graphique : 702
+Nbr Frame : 12
+Lock : 0
+Visite : 0
+Nouvel Etat : 3
+NbUnlock : 0
+
+Rep : 0 0

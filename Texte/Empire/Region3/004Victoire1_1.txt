@@ -1,0 +1,11 @@
+2
+你们的天赋已被最伟大的战士认可//
+我接受你的报价：这1000块金子
+是付这些破坏性武器。//
+这真是太贵重了，承受不起。//
+
+[EVENEMENTS] 2
+REQUESTER ..\\Texte\\Empire\\Region3\\004Victoire1_1_1.txt 859
+//
+REQUESTER ..\\Texte\\Empire\\Region3\\004Victoire1_1_2.txt 859
+//

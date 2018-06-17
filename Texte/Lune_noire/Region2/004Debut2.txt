@@ -1,0 +1,8 @@
+0
+I am sorry to interrupt this brilliant strategists' discussion but to conquer this place through brute force seems to me difficult to achieve... Despite the peasants who have come in large numbers to find refuge, the Lights will fight to the last man rather than let us through...
+
+Would it not be better if the general in charge of defending the citadel were to open up the gates of the city himself, of his own free will?//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region2\\004Debut3.txt	865
+//

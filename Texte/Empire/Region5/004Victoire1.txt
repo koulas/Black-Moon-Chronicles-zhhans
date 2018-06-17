@@ -1,0 +1,6 @@
+0
+You have successfully protected us from being slaughtered.  Take these pieces of gold as our thanks; we have too many!//
+
+[EVENEMENTS] 1
+REQUESTER	..\\Texte\\Empire\\Region5\\004Victoire1_1.txt 865
+//

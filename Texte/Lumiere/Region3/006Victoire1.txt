@@ -1,0 +1,11 @@
+0
+我受了致命的伤害，生命正在流失...
+还有权力...这怎么可能，
+我的宏图伟业是铭记于星辰之中的
+啊, Wismerhill,
+未来数代人都会因你破坏这美丽的梦想
+诅咒你...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region3\\006Victoire1_1.txt	866
+//

@@ -1,0 +1,18 @@
+0
+Lord Wismerhill, you have commanded our Paladins of Justice brilliantly, I congratulate you on your valor as a fighter and a leader of men.
+I was not mistaken in calling you to help Justice and the Empire.
+
+You see, a great battle is being prepared against the Black Moon. The Empire and its allies will be opposed to Haazheel Thorn and his infamous cohort of devilish creatures.
+
+First we have to rally the troops of Light who will give us their support during this battle...
+
+Beware of them, I have but very little confidence in their chief, Fratus Sinister, I suspect him of wishing to betray the Emperor.
+As from today, I shall be at your side to help you distinguish good from evil.
+
+I know your affinity with the winds, Wismerhill, now this region shelters a rocky peak forged by them where they meet; it will perhaps be useful for you to go there to receive their teaching.
+
+We have to go now, destiny awaits us.//
+
+[EVENEMENTS]	1
+GAIN_PARSIFAL
+//

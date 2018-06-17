@@ -1,0 +1,9 @@
+0
+Lord, you send me a new trial! Give my arm the strength necessary to overcome.
+Although my heart is filled with anguish, we have to take the road again immediately for the region of Lhynn.
+
+General Ghorghor, assemble the men!//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\006Victoire5.txt	855
+//

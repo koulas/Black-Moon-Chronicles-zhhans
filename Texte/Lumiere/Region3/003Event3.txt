@@ -1,0 +1,25 @@
+2
+吾乃正义骑士团的圣骑士，
+忠于帝国之部队的总司令,
+想请光明教重归道义的道路.
+你们要知道自己已经犯了反叛和背誓之罪.
+尽管你们已经铸成大错，皇帝陛下还是
+授权我给予你们一个宽恕的机会.
+接受下列条件将让你们拥有和平:
+你们全军要马上撤回Altenberg.
+River Castle要塞还给帝国部队.
+Fratus Sinister必须放弃大宗师的头衔
+，并以皇帝指定者替代之.
+Fratus Sinister和Wismerhill需赤脚
+行至帝都Lhynn恳请陛下的赦免.
+基于这些条件，他们的性命可保.//
+还是让皇帝自己赤足前来，颈上套索
+向我们献出帝都Lhynn的钥匙吧!//
+圣骑士阁下,帝国江山明显不保.
+抛弃它，我方保证你的荣华富贵.//
+
+[EVENEMENTS]	2
+REQUESTER	..\\Texte\\Lumiere\\Region3\\003Event3_1.txt	873
+//
+REQUESTER	..\\Texte\\Lumiere\\Region3\\003Event3_1.txt	873
+//

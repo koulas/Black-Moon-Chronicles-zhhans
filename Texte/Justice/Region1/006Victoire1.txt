@@ -1,0 +1,8 @@
+0
+Sire, we have driven the enemy back!....
+
+Joy to our city, and peace to the souls of our dead brothers.//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\006Victoire2.txt	860
+//

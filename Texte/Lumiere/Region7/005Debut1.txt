@@ -1,0 +1,11 @@
+0
+我们到达了精灵和矮人领地的边界.
+这两个敌对族群的战争随时会爆发.
+如果我们想在离开后留下一个平静的地区
+我们必须结束这种情况.//
+
+[EVENEMENTS]	3
+DEFECTION	1
+DEFECTION	2
+REQUESTER	..\\Texte\\Lumiere\\Region7\\005Debut1_1.txt	859
+//

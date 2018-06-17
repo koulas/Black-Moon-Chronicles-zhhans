@@ -1,0 +1,7 @@
+0
+我军在这里对阵帝国军, Wismerhill.
+我军在此役必将遭受沉重的损失.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region3\\002Debut1_1.txt	874
+//

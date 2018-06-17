@@ -1,0 +1,9 @@
+0
+男爵大人,
+一个强大的死灵法师复活了
+被之前我军杀死的光明教徒。
+他们正向我方前来，无可避免会遭遇他们。//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region3\\Reg4_Debut1_1.txt 865
+//

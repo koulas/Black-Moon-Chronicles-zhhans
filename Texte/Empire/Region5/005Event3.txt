@@ -1,0 +1,7 @@
+0
+Baron, these brigands have hidden all their booty in their village... More than 3000 pieces of gold!...//
+
+[EVENEMENTS] 2
+GAINS_OR	2100
+REQUESTER	..\\Texte\\Empire\\Region5\\005Event3_1.txt 865
+//

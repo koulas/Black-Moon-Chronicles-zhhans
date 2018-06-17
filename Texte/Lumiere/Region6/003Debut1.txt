@@ -1,0 +1,9 @@
+0
+我看到龙王城堡的塔楼, Wismerhill.
+我方应派出使节去那重修旧好.
+你也该知道龙王是很反复无常的!
+首要的是，不要越过他们，我军需要他们!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\003Debut1_1.txt	874
+//

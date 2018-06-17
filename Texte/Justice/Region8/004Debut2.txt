@@ -1,0 +1,6 @@
+0
+Unfortunately, Prince, I cannot assure you of our support: Moork is said to be impregnable, all those who have tried to take it have failed and the forces that await us behind these walls are too powerful for our weakened army.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\004Debut3.txt	860
+//

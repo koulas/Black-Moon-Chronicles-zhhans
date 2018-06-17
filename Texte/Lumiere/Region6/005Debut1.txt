@@ -1,0 +1,9 @@
+0
+在森林的边缘,山丘之上
+我看见有一个战士独战一群盗匪.
+他的武艺不错.
+他是我军亟需招募的良将.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\005Debut1_1.txt	827
+//

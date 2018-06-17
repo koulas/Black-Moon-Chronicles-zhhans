@@ -1,0 +1,13 @@
+0
+我们的技艺能引起您的兴趣真是无比高兴，
+尊敬的阁下是矮人技艺的保护人。
+
+请来我们的村庄看看吧，
+我们还有其他武器向您展示。//
+
+[EVENEMENTS] 4
+PERTES_OR	1000
+GAINS_UNITES	139 4 1
+GAINS_UNITES	141 3 1
+REQUESTER ..\\Texte\\Empire\\Region3\\004Victoire1_1_1_1.txt 865
+//

@@ -1,0 +1,6 @@
+0
+No, my good man, here is gold for your needs, for you and yours.
+Justice has never abandoned people in need.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\005Defaite3.txt	861//

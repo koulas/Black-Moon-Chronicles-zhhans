@@ -1,0 +1,13 @@
+2
+Tips & Tricks
+                            - Battlefield -
+
+It is told that, at the battle of the Howling Skulls, 3,000 phalanxes of Justice destroyed an army of skeleton horsemen of over 10,000 men! It is true that phalanxes are particularly effective against cavalry.//
+Next trick//
+Play now//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Generiques\\Astuce020.txt	857
+//
+-
+//

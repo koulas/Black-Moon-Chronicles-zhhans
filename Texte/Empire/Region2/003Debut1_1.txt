@@ -1,0 +1,10 @@
+0
+毫不畏惧，卓越不凡，我军迄今为止所进行
+的战斗给我们带来信心和良好的判断力.
+
+我军已准备好:
+Fratus Sinister并不知道他即将面临的打击//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Empire\\Region2\\003Debut1_1_1.txt 862
+//

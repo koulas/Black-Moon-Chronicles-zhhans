@@ -1,0 +1,6 @@
+0
+Look, Wismerhill! There, on the great market place of Dis! It can only be your father!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Specials\\MpwDebut2.txt	865
+//

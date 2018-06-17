@@ -1,0 +1,8 @@
+0
+是的我军必须马上离开，
+以免光明教的军队重新组织起来.
+这我会派我一部分部队在这场战斗支持我军.//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Empire\\Region2\\006Victoire1_1_1.txt 865
+//

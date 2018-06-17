@@ -1,0 +1,13 @@
+2
+Tips & Tricks
+                            - Battlefield -
+
+The Standard-bearer is a veteran soldier, and he is the guardian of the morale among the troops!//
+Next trick//
+Play now//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Generiques\\Astuce022.txt	857
+//
+-
+//

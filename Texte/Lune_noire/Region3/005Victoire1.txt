@@ -1,0 +1,6 @@
+0
+This is magnificent, my child! We have entered Lhynn. We have taken the first steps towards the Emperor. Soon we will bring down the Empire...!//
+
+[EVENEMENTS]	1
+GAINS_UNITES	264 2 1
+//

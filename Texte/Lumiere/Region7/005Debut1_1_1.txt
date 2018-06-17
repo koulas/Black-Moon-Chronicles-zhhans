@@ -1,0 +1,24 @@
+3
+我是精灵族的使节.
+我并非不知道精灵族的射手已经
+在大湖城的城墙上与你交战过,
+但是他们不过是无家可归的雇佣军.
+而我们是皇帝陛下的忠诚臣民，
+我们也尊重光明教团.
+这就是为何我要忠告你
+要识破矮人的谎言.
+他们藐视律法想要侵占我们的领地.
+他们必须受到应有的惩罚!//
+光明教团军将站在精灵一边打击矮人.//
+光明教团军将站在矮人一边打击精灵.//
+光明教团军要令双方放下兵器.//
+
+[EVENEMENTS]		5
+ALLIANCE	1
+REQUESTER	..\\Texte\\Lumiere\\Region7\\005Debut1_1_1_1.txt	856
+//
+ALLIANCE	2
+REQUESTER	..\\Texte\\Lumiere\\Region7\\005Debut1_1_1_2.txt	859
+//
+REQUESTER	..\\Texte\\Lumiere\\Region7\\005Debut1_1_1_3.txt	874
+//

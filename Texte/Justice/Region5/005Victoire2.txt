@@ -1,0 +1,6 @@
+0
+You too are a rather fine blade; an ally such as you would be an advantage for us and for the destruction of the forces of the Black Moon!
+Will you join us?//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region5\\005Victoire3.txt	827//

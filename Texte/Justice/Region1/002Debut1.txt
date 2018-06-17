@@ -1,0 +1,7 @@
+0
+Sire, let us hurry, considerable devilish forces have taken over the region and are threatening this church, to the North.
+
+We have to protect this holy place!//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\002Debut2.txt	865//

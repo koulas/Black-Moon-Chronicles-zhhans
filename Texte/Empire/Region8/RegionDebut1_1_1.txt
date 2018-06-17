@@ -1,0 +1,7 @@
+0
+You should easily find the Leviathans in this region... They are very powerful and will be very useful to us during the fighting against the troops of the Black Moon...
+Then go to the fault of Tsaroth...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region8\\RegionDebut1_1_1_1.txt 865
+//

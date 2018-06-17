@@ -1,0 +1,10 @@
+0
+Master Dwarf! The Empire guarantees good understanding and safety between all! If the Elves attack you, the Empire must help you to repel this attack!
+
+Soldiers! We are going to charge to repel the Elves! I believe that if they lose one half of their numbers they will retreat. However, we must protect the Dwarves as much as possible from the Elves' blows!
+
+Soldiers! For the Emperor! Forward march!//
+
+[EVENEMENTS]	1
+ALLIANCE	1
+//

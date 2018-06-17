@@ -1,0 +1,7 @@
+0
+很好！他们从哪里来就滚回哪里去吧
+而且这次很好很清楚!帝国荣耀取决于此//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region3\\Reg4_Debut1_1_1.txt 868
+//

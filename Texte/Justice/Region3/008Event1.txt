@@ -1,0 +1,8 @@
+0
+Creatures of the shadows, I am your new leader, Haazheel Thorn was not worthy of your trust.
+It was by my hand that the Emperor died, it is by my hand that Wismerhill and his allies will die!
+
+Have faith, and kill, assassinate, exterminate them all!!!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\008Event2.txt	860//

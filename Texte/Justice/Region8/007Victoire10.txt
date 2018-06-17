@@ -1,0 +1,8 @@
+0
+It is a great sorrow for me not to see my wish fulfilled. However, I shall continue the task which falls to me by eradicating the Black Moon from these countries.
+
+I'm off to do so now!....//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire11.txt	860
+//

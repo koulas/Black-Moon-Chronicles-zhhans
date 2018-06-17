@@ -1,0 +1,6 @@
+0
+Count Wismerhill! In the name of the friendship that unites the Empire and the Dwarves, I request your assistance against an abominable attack by the Elves... For some time now, when we want to return to our mountains, the Elves post archers up on the heights and harass us with their sharp arrows. Many of us are killed every time, since we do not have any good crossbowmen. I beg you to escort us to the entrance to our city. Your efforts will of course be rewarded...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Empire\\Region4\\006Debut2.txt	865
+//

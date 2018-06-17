@@ -1,0 +1,7 @@
+0
+Ah, Sire, the situation is tricky, we are blocked here by hordes of trolls, orcs and giants.
+The only solution would be to reach the Imperial stables to the North, to gather our cavalry together.
+Although, in view of the help that you are bringing us, it will not perhaps be necessary to alert them!?...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\004Debut2.txt	855//

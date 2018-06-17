@@ -1,0 +1,6 @@
+0
+The villain, how did he work this miracle?... Surely a pact with the underworld!//
+
+[EVENEMENTS]	1
+GAINS_UNITES	340 1 1
+//

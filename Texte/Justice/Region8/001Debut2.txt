@@ -1,0 +1,6 @@
+0
+General, the Black Moon is there!! Living-dead and demons accompany it.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\001Debut3.txt	868
+//

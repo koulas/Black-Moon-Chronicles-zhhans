@@ -1,0 +1,6 @@
+0
+Thank you Baron!//
+
+[EVENEMENTS] 1
+REQUESTER    ..\\Texte\\Empire\\Region5\\006Debut1_1_1.txt   861
+//

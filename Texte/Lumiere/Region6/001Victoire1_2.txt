@@ -1,0 +1,10 @@
+0
+渎神呀! 诅咒你
+因你们满是血污的靴子玷污了圣地.
+背叛将如阴影般跟随你,
+无论这场战争结果如何,
+你的名字都是耻辱的!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\001Victoire1_2_1.txt	862
+//

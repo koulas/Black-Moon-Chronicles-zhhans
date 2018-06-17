@@ -1,0 +1,6 @@
+0
+Lord Wismerhill! This battle is not looking very good. We are faced with a fortress of Justice. The troops holding the ramparts are Paladins of the Order of Justice... What does that mean? I thought that the Empire had not granted Justice the right to establish Kraks...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region3\\002Debut2.txt	873
+// 

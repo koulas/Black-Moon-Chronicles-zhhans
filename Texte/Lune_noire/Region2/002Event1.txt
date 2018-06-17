@@ -1,0 +1,6 @@
+0
+Lord Wismerhill! We must submit to your orders and obey you like we do our master Haazheel Thorn! Your word is our command.//
+
+[EVENEMENTS]	1
+ALLIANCE	4
+//

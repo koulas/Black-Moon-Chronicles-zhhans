@@ -1,0 +1,84 @@
+Nombre de lieux uniques : 6
+
+Nom : 001
+Dwarf village
+Entree : 2
+x : 35
+y : 6
+Objet Graphique : 843
+Nbr Frame : 1
+Lock : 0
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 0
+
+Nom : 002
+Elf camp
+Entree : 4
+x : 46
+y : 13
+Objet Graphique : 1280
+Nbr Frame : 1
+Lock : 0
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 0
+
+Nom : 003
+Church of the Black Moon
+Entree : 4
+x : 30
+y : 23
+Objet Graphique : 1270
+Nbr Frame : 12
+Lock : 1
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 2
+0 1
+Message : ..\\Texte\\Justice\\Region4\\003.txt
+Messager : 857
+
+Nom : 004
+Harrak the Necromancer
+Entree : 6
+x : 20
+y : 20
+Objet Graphique : 700
+Nbr Frame : 12
+Lock : 2
+Visite : 0
+Nouvel Etat : 3
+NbUnlock : 1
+2
+Message : toto.txt
+Messager : -1
+
+Nom : 005
+Kendrin
+Entree : 2
+x : 23
+y : 36
+Objet Graphique : 1264
+Nbr Frame : 12
+Lock : 1
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 1
+3
+Message : ..\\Texte\\Justice\\Region4\\005.txt
+Messager : 857
+
+Nom : 006
+Northind
+Entree : 6
+x : 3
+y : 13
+Objet Graphique : 1265
+Nbr Frame : 12
+Lock : 0
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 0
+
+Rep : 26 0 

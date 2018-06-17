@@ -1,0 +1,5 @@
+0
+We have been told that the Trolls are not far away, Excellence, and that they seem to be very interested by these two farms to the North.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\005Debut2.txt	865//

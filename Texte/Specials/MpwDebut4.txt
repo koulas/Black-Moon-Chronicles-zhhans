@@ -1,0 +1,6 @@
+0
+Soldiers! We have at least found our target. The dark elf there in the middle of the market square... Kill him! Forward!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Specials\\MpwDebut5.txt	865
+//

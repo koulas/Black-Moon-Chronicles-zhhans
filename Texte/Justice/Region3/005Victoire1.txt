@@ -1,0 +1,7 @@
+0
+Thank you, Prince, you have helped us save our animals, we will be eternally in your debt for your goodness.
+
+We are poor people, but let us offer you a few precious objects; they are made of gold, you know!...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\005Victoire2.txt	865//

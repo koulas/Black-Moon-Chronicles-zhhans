@@ -1,0 +1,6 @@
+0
+That is an excellent choice in fact.  All these weapons will surely bring you victory. But be careful! We can only forward them to the battlefield of your next fight, whatever its importance. Choose well the battle that you want to fight!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\005Victoire5.txt	869
+//

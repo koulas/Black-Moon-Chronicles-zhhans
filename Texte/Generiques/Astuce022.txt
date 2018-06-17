@@ -1,0 +1,13 @@
+2
+Tips & Tricks
+                            - Battlefield -
+
+A priest can send a major warrior demon back to its world with the Vade Retro spell! This is an effective way of withstanding the demoniacal forces without losing too many units!//
+Next trick//
+Play now//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Generiques\\Astuce023.txt	857
+//
+-
+//

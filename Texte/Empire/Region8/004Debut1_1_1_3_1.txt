@@ -1,0 +1,9 @@
+0
+That is true!
+We will postpone our dispute with the Elves until later... For the time being, we, Elves and Dwarves, will not let you take possession of this mine! Prepare to know what defeat is!//
+
+[EVENEMENTS] 3
+DEFECTION 1
+DEFECTION 2
+GAINS_OR	1000
+//

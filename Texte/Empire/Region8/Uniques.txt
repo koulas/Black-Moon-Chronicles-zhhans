@@ -1,0 +1,84 @@
+Nombre de lieux uniques : 6
+
+Nom : 001
+?
+Entree :6
+x :10
+y :36
+Objet Graphique :703
+Nbr Frame :12
+Lock :0
+Visite :0
+Nouvel Etat :1
+NbUnlock :0
+
+Nom : 002
+Horker
+Entree :0
+x :26
+y :6
+Objet Graphique :1271
+Nbr Frame :12
+Lock :1
+Visite :0
+Nouvel Etat :1
+NbUnlock :2
+0 5
+Message : ..\\Texte\\Empire\\Region8\\002.txt
+Messager :853
+
+Nom :003 
+Moork
+Entree : 0
+x :41
+y :29
+Objet Graphique :1272
+Nbr Frame :12
+Lock :1
+Visite :0
+Nouvel Etat :1
+NbUnlock :3
+0 5 1
+Message : ..\\Texte\\Empire\\Region8\\003.txt
+Messager :853
+
+Nom :004 
+Gold mine
+Entree : 6
+x :5
+y :31
+Objet Graphique :1287
+Nbr Frame :1
+Lock :0
+Visite :0
+Nouvel Etat :1
+NbUnlock :0
+
+Nom : 005
+Small Village 
+Entree : 2
+x : 16
+y : 8
+Objet Graphique : 843
+Nbr Frame :1
+Lock :0
+Visite :0
+Nouvel Etat :1
+NbUnlock :0
+
+Nom : 006
+Fault of Tsaroth
+Entree :0
+x :23
+y :32
+Objet Graphique :1281
+Nbr Frame :1
+Lock :1
+Visite :0
+Nouvel Etat :1
+NbUnlock :1
+0
+Message : ..\\Texte\\Empire\\Region8\\006.txt
+Messager :853
+
+Rep :0 8

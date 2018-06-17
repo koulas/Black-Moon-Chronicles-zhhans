@@ -1,0 +1,6 @@
+0
+Wismerhill, we're coming to you...//
+
+[EVENEMENTS]	1
+ALLIANCE	1
+//	

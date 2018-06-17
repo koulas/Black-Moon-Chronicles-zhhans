@@ -1,0 +1,8 @@
+0
+敌人已经丧失所有部队，该地区动乱平息.
+我军已经完成任务，
+皇帝陛下知道我们的进展亦会满意的.//
+
+[EVENEMENTS]  1
+REQUESTER	..\\Texte\\Empire\\Region2\\001Victoire1_1.txt 868
+//

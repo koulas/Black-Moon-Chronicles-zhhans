@@ -1,0 +1,9 @@
+0
+We have won the victory, and taken over control of the region!
+I still do not know if we should put our trust in Light. The disavowal of Fratus Sinister would be synonymous with victory to save the Empire. I cannot dare hope for such a happy outcome!
+
+Once we have reached Lhynn, we will be advised if there is a basis for this hope.//
+
+[EVENEMENTS]	1
+IMAGE ..\\Images\\Ima_0011.tga
+//

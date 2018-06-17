@@ -1,0 +1,6 @@
+0
+Lord Wismerhill! We are pursued by the knights of the Empire... What shall we do?//
+
+[EVENEMENTS]		1
+REQUESTER		..\\Texte\\Lune_noire\\Region8\\001Debut1_1.txt	865
+//

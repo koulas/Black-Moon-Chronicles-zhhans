@@ -1,0 +1,6 @@
+0
+Hell hounds of Absolute Evil! Degenerate creatures of the abominable Haazheel Thorn! Wretched puppets! Retreat in the name of Justice! Justice, despite the Emperor's tricks, cannot let the Empire fall under the devilish blows of the Black Moon. We are fighting with the Empire to put a final end to your actions. For as long as we keep this citadel, no other flag than that of Justice will float over the ramparts. It is time for the destructive wars of the Black Moon to stop for ever so that Justice finally shines over the world.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region3\\002Debut3.txt	858
+// 

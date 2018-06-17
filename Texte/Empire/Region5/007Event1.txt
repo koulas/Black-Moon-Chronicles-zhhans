@@ -1,0 +1,7 @@
+0
+We have found a treasure of 2000 pieces of gold...//
+
+[EVENEMENTS] 2
+GAINS_OR     2000
+REQUESTER ..\\Texte\\Empire\\Region5\\007Event1_1.txt 851
+//

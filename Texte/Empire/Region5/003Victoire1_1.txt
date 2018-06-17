@@ -1,0 +1,11 @@
+0
+I am very pleased to accept you in our armies.
+
+We can resume our march now. Our enemies are just waiting to be slain!...//
+
+[EVENEMENTS] 4
+GAINS_UNITES 20 1 2
+GAINS_UNITES 13 1 2
+GAINS_UNITES 19 1 1
+GAINS_OR 500
+//

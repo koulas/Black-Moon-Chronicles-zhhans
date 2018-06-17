@@ -1,0 +1,14 @@
+2
+打赢了! 粮仓是我们的.
+我们现在能够让我军得到补给了。
+不过我们只发现3个金币，贼赃有点少...
+让我们严刑拷问下囚犯们，
+让他们说出收藏宝藏的地方.//
+那就烧一下囚犯的脚，他们会开口的.//
+我们的声誉胜过黄金，应该对他们人道些//
+
+[EVENEMENTS]		2
+REQUESTER	..\\Texte\\Lumiere\\Region7\\002Victoire1_1.txt	862
+//
+REQUESTER	..\\Texte\\Lumiere\\Region7\\002Victoire1_2.txt	874
+//

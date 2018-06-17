@@ -1,0 +1,16 @@
+0
+Dear Wismerhill, my son... After your victory at Moork, I invite you to measure up to an old opponent: Fratus Sinister, Grand Master of the Order of Light. I am sure you are going to like this confrontation.
+
+You will go into the region with the troops you have raised. I have opened a teleportation gate to the North of the region. You must go there quickly to receive the reinforcements I will send you.
+
+Then you will have to destroy the army of Fratus Sinister. This will not be an easy task but I am sure you can do it.
+
+Once Light admits that it has been beaten and defeated under our attacks, you will go towards the south and you will attack the first strongholds of the Empire. The more you weaken the Empire, the more the future campaign will be made easier.
+
+I will not take any direct action in the fighting since I must prepare myself a little longer before measuring myself with the Emperor. You will have Greldinard with you to help you during the operations.
+
+Go! You still have a lot to do!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region2\\RegionDebut2.txt 858
+//

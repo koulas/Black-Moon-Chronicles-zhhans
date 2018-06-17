@@ -1,0 +1,10 @@
+2
+What do you mean? Light is a religious order that is both submissive and loyal to the Empire. If that was not the case, why would our great Emperor have granted them the immense privilege of establishing kraks in the Empire? I demand that you explain!//
+Light has formed an alliance with the Dragon Princes to revolt against the Emperor...//
+It is a matter between the Black Moon and Light. In the name of Haazheel Thorn: open up!//
+
+[EVENEMENTS]	2
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\003Debut1_1_1_1.txt	868
+//
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\003Debut1_1_1_2.txt	868
+//

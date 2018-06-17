@@ -1,0 +1,8 @@
+0
+What a tragedy, your families have been decimated, you were unable to protect them.
+
+Now, you have to assume the wrath of God!....//
+
+[EVENEMENTS]	1
+DEFECTION	1
+//

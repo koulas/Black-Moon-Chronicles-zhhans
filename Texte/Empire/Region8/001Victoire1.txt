@@ -1,0 +1,8 @@
+0
+We have succeeded in capturing the Leviathans. By the time we reach the fault of Tsaroth, the two Leviathans will have been trained and our forces will be strengthened.
+
+We can now go towards the fault.//
+
+[EVENEMENTS] 1
+GAINS_UNITES	16 2 1
+//

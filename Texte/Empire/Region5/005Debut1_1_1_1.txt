@@ -1,0 +1,10 @@
+0
+Baron, we do not recognize the Emperor's authority here!
+We built this village to be free. We do not want to be anyone's vassals!
+There is nothing for you here, we will not let ourselves be massacred just like that...
+
+Prepare to die!//
+
+[EVENEMENTS] 1
+REQUESTER	..\\Texte\\Empire\\Region5\\005Debut1_1_1_1_1.txt 865
+//

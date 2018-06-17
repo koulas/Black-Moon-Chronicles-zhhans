@@ -1,0 +1,11 @@
+2
+Have mercy, Wismerhill, I surrender... Spare me! Why kill each other when we are pursuing a common goal? Spare me and I will faithfully enter your service! We will bring down the Empire together. Think carefully!
+You will need the support of my knight companions and the few dragons I have left!//
+You are just a foul worm with no honor, sinister clown! Put him to death of the worst kind there is!//
+Your proposal is attractive, Sinister! Explain this all to me in more detail...//
+
+[EVENEMENTS]	2
+REQUESTER	..\\Texte\\Lune_noire\\Region2\\005Victoire1_1.txt	852
+//
+REQUESTER	..\\Texte\\Lune_noire\\Region2\\005Victoire2.txt	862
+//

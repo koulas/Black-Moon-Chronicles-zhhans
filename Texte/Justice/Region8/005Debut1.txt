@@ -1,0 +1,6 @@
+0
+We arrive just in time, master: several of our brothers are held prisoner by the thugs of Light.
+We must take action as fast as possible.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\005Debut2.txt	865//

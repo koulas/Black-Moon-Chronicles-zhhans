@@ -1,0 +1,12 @@
+2
+大人，敌军巨魔已死，敌人亦作鸟兽散.
+仗打赢了，我军已经控制圣域周围地区.//
+好的，按照惯例,
+我将耐心等待来自神谕的召唤.//
+让我军冲进庙门，我要马上接收!//
+
+[EVENEMENTS]	2
+REQUESTER	..\\Texte\\Lumiere\\Region6\\001Victoire1_1.txt	857
+//
+REQUESTER	..\\Texte\\Lumiere\\Region6\\001Victoire1_2.txt	857
+//

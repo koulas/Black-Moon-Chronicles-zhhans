@@ -1,0 +1,8 @@
+0
+怎么可能?
+
+我方击败黑月军杀死了Haazheel Thorn...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region3\\002Event1_1_1.txt 869
+//

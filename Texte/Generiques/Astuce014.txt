@@ -1,0 +1,13 @@
+2
+Tips & Tricks
+                            - Battlefield -
+
+Justice is certain that its cause is just, and that God is on its side! That is why it will fight to the death and will never leave the battlefield. Don't count on morale to vanquish an army of Justice!//
+Next trick//
+Play now//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Generiques\\Astuce015.txt	857
+//
+-
+//

@@ -1,0 +1,6 @@
+0
+But what is Light doing? They were supposed to cover our right flank!//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\007Event2_2.txt	862
+//

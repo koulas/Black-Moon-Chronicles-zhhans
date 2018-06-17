@@ -1,0 +1,6 @@
+0
+Thank you, my lords, your order has never so well deserved its name. Justice has been rendered. We can live once more in peace.//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region4\\005Victoire2.txt	860
+//

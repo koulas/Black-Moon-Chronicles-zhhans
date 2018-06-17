@@ -1,0 +1,7 @@
+0
+You should never have touched this treasure...
+From now on I will show no mercy... I will make you suffer slowly and I will enjoy your pain!...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region5\\007Event1_1_1.txt 863
+//

@@ -1,0 +1,10 @@
+0
+We have won the victory not without difficulty. We have suffered heavy losses. However, the Empire has lost an extremely important fortress and we have opened the road to the heart of the region. Thanks to this victory, the reinforcements will be able to reach us for the next battles.
+
+We can be satisfied with this day of bloody fighting.//
+
+[EVENEMENTS]	3
+GAINS_UNITES	10 2 3
+GAINS_UNITES	12 1 1
+GAINS_UNITES	8 1 1
+//

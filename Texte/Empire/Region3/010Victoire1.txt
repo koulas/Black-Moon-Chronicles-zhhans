@@ -1,0 +1,9 @@
+0
+光明教的叛贼们已投降
+我军已经控制龙饲养场，
+龙还太小，但很快他们将接受训练加入我军
+他们将成为吾皇Haghendorf的骄傲.//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region3\\010Victoire1_1.txt 865
+//

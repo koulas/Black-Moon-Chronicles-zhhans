@@ -1,0 +1,10 @@
+2
+You are a reasonable man, Wismerhill. We can only agree... Here is my proposal: spare me and I will enter your service! To convince you, I contribute my capacity to command an army and the few troops who will want to accompany me in this adventure. In exchange, I want to participate in all the fighting against the Empire, I want to be the first to enter the Imperial palace and I want to be given a great army command after the final victory. What is your answer?//
+I accept, Sinister, ex Grand Master of the Order of Light and new servant of the Black Moon.//
+I refuse! I leave you with Hellaynnea... You will enjoy yourself a lot together.//
+
+[EVENEMENTS]	1
+GAIN_FRATUS
+//
+-
+//

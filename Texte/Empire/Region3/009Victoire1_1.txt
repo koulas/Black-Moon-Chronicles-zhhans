@@ -1,0 +1,7 @@
+0
+很好! 下来我军向帝都Lhynn出发...
+如果我军不快点的话，那里有可能沦陷.//
+
+[EVENEMENTS] 1
+IMAGE	..\\Images\\Ima_0006.tga
+//

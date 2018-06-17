@@ -1,0 +1,7 @@
+0
+I do not like the riot of infernal forces in our countries. We have indeed won another victory over evil, but I suspect that Haazheel Thorn and his cursed troops are preparing a much darker future for us.
+
+Let us hope we manage to prevent him wreaking more harm!//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\001Victoire3.txt	865//

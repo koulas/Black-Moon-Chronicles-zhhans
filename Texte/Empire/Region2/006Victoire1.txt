@@ -1,0 +1,8 @@
+0
+多谢你的援助,Parsifal大人,
+我军部队再次投入战斗并打败敌军.
+让我们继续进军到Altenberg.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Empire\\Region2\\006Victoire1_1.txt 860
+//

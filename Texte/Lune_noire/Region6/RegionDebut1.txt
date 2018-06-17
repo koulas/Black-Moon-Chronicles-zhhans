@@ -1,0 +1,14 @@
+0
+Lord Wismerhill! You have proved your valor by bringing us victory during your first battles. So my master Haazheel Thorn was not mistaken about you. Indeed, how could he be wrong?
+
+We wish to extend the shadow of the Black Moon to this essential region: it is indeed here that the Oracle is located. Our master believes that by threatening this region we will push the Empire into sending many troops. This will weaken it, particularly for the great battle that is being prepared! You will have to go to the Oracle to learn more about your destiny.
+
+What is more, according to our spies and rumor, Light is being very active on both the diplomatic and the military front in this region. You will have to elucidate this!
+
+Finally you will have to negotiate the Dwarves' weapons and siege engines at the most advantageous prices. They do not much like the Black Moon but I am convinced that gold will silence all their scruples for trading with us.
+
+For the time being, let yourself be guided by Hellaynnea... I am convinced that she will be an excellent advisor for you.//
+
+[EVENEMENTS]		1
+REQUESTER		..\\Texte\\Lune_noire\\Region6\\RegionDebut2.txt	852
+//   

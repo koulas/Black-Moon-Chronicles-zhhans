@@ -1,0 +1,6 @@
+0
+Your hostile attitude is also unacceptable! You attack the Dwarves' merchant convoys and by pushing them to take up weapons you create profound disorder in the Empire. It is time that it stopped... voluntarily or by force! Choose immediately!//
+
+[EVENEMENTS]	1
+REQUESTER 	..\\Texte\\Empire\\Region4\\003Event3_2.txt	856
+//
