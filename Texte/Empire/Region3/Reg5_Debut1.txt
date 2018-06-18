@@ -1,1 +1,7 @@
 0
+伏击! 伏击!
+光明教团军在帝都Lhynn前埋伏等候我军!//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region3\\Reg5_Debut1_1.txt 865
+//
