@@ -1,8 +1,19 @@
 0
-Count Wismerhill! I am asking you to carry out a mission of trust. Serious troubles are disturbing the region of Northind.  The Elves and the Dwarves are fighting against each other more and more brutally, creating a strong climate of war in the region.  In addition, there are more and more signs that the arrival of a powerful army of the Black Moon is imminent: the Orcs are making increasingly daring raids, the graveyards are overflowing with the living-dead. It all seems to indicate that a major battle is being prepared.  That is why I really need you! Go there and reorganize everything... Stop the fighting between the Dwarves and the Elves and rally the main garrisons of the region to gather together a great army for the campaign.
+Wismerhill伯爵!
+我要求你基于信任要履行任务.
+帝国的Northind地区有严重骚乱。
+矮人和精灵族的相互冲突越来越激烈了,
+该地区已经战云密布了.
+此外，越来越多迹象表明黑月军的强大部队
+即将到来: 兽人的入侵日益嚣张,
+活死人不断从各处墓地涌出.
+这一切都表明一场大战正在酝酿之中.
+这就是为什么我需要你去重整一切，
+终止矮人和精灵间的冲突，集结该地区的部队，
+为这场战役准备一支伟大的军队.
 
-Go and use wisely the power that I have placed in your hands!//
+去吧，明智地使用我授予给你的权力!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Empire\\Region4\\RegionDebut2.txt	868
-// 
+//
