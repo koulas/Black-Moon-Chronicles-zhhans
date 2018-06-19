@@ -1,5 +1,7 @@
 0
-The Emperor is generous towards those who serve him well! That is unquestionable! Now, let us repel the hordes of the Black Moon using a few spells... //
+皇帝陛下对于听命于他的人都很慷慨!
+这是毋庸置疑的!
+现在让用几个法术击退这成群的黑月军 //
 
 [EVENEMENTS]	1
 ALLIANCE	3

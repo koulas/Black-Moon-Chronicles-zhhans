@@ -1,5 +1,12 @@
 0
-How could you understand the power of the mysteries? You are just a simple warrior, and only very recently ennobled at that! The Archmage Haazheel Thorn, a connoisseur, will respect our magical knowledge. We will have an excellent relationship with him once the city has fallen thanks to our treachery... Ha! Ha! Ha!//
+你怎么能理解奥秘的力量?
+你只不过就是一个战士,
+只是最近才获得高贵的身份地位!
+大法师Haazheel Thorn,是真正的行家,
+会尊重我们的魔法知识.
+只要我们发动叛变让城市陷落
+我们就能和他建立良好关系...
+哈! 哈! 哈!//
 
 [EVENEMENTS]	1
 DEFECTION	3

@@ -1,4 +1,11 @@
 0
-This is the situation, Count Wismerhill: the Black Moon is threatening Kendrin and Northind, the two main cities of the region.  The Elves are also regularly attacking the Dwarves' trade routes.  In retaliation, the Dwarves are taking up arms and organizing deadly raids against the Elves' woods. Finally the region is overrun with bands of Orcs and brigands that plunder and disorganize everything in their path.
+Wismerhill伯爵，目前状况是:
+黑月军正在威胁Kendrin城和Northind城,
+该地区的两大城市. 精灵族也在频繁攻击
+矮人的贸易线路.为了报复.矮人正准备
+拿起武器，组织针对精灵树林的致命袭击。
+最后更糟糕的是本地区遍布兽人和强盗匪帮
+他们掠夺和破坏他们路过的一切地方。
 
-I advise you to go to Kendrin where there is a great school of magicians. Perhaps you will be given their help!//
+我劝你最好去Kendrin城，那里有一座
+伟大的魔法学校，你或许会得到他们的帮助!//

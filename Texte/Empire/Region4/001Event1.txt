@@ -1,8 +1,9 @@
 0
-Greetings, oh holders of the magical mysteries! My mission is to protect your city and your academy against the Black Moon. Join me so that this city does not fall into the hands of the Black Moon.//
+问安好,魔法奥秘的持有者们
+我受命保护你的城市和你的学院
+免受黑月军侵害.
+请加入我们，让这城市不会落入黑月军手中.//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Empire\\Region4\\001Event2.txt	857
-// 
-
- 
+//
