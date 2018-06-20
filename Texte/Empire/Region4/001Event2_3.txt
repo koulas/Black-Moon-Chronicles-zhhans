@@ -1,5 +1,9 @@
 0
-You're right! We have tried not to get involved in the fighting of this world but alas we have failed! We can but use our spells and repel the hordes of the Black Moon to make you forget our lack of bravery and our cowardice. Be merciful with us... we beg you!//
+你是对的! 我们试图不参与这世上的纷争
+但是...唉，我们失败了。
+现在我们只能用我们的法术击退这群黑月军
+籍此让你淡忘我们的缺乏勇气和胆怯，
+请宽恕我们，我们乞求你!//
 
 [EVENEMENTS]	1
 ALLIANCE	3

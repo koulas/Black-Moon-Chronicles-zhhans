@@ -1,6 +1,12 @@
 3
-Count Wismerhill, The Circle of Magi greets you! The Emperor has granted us many privileges.  One of them is that we can only follow his direct orders. Now, you are just a count among many others. What do you offer us to join you?//
-If the city falls, you will also fall! Join me to defend the city!//
+Wismerhill伯爵,
+我们魔法圈人士集体向你问安!
+皇帝陛下授予我们很多特权.
+其中一项就是我们只直接听命于他.
+现如今你不过是众多勋贵中的一位伯爵.
+你凭什么要求我们加入你呢?//
+如果城市沦陷，你们也一样会灭亡!
+加入我们一起保卫城市!//
 Would a generous Imperial donation of 2500 gold crowns be sufficient to change your mind?//
 These privileges are imaginary! The Emperor will be informed of your actions!//
 
