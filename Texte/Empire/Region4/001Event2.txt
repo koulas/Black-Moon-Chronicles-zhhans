@@ -7,8 +7,10 @@ Wismerhill伯爵,
 你凭什么要求我们加入你呢?//
 如果城市沦陷，你们也一样会灭亡!
 加入我们一起保卫城市!//
-Would a generous Imperial donation of 2500 gold crowns be sufficient to change your mind?//
-These privileges are imaginary! The Emperor will be informed of your actions!//
+如果帝国愿意捐赠2500金克朗
+你们是否会改变主意?//
+这些特权都是虚构而已，
+你们的作为会被告知皇帝陛下的!//
 
 [EVENEMENTS]	4
 REQUESTER 	..\\Texte\\Empire\\Region4\\001Event2_1.txt	857

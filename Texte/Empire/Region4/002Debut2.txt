@@ -1,7 +1,11 @@
 0
-Count Wismerhill! I am the chief of the Dwarf village of Palin and I demand the help of the Empire against the Elves' raids. They have been attacking us for some time and inflicting heavy losses on us. The Empire must stop these attacks!//
+Wismerhill伯爵大人!
+我是Palin矮人村的村长
+我请求帝国帮助对抗精灵族的袭击.
+他们最近一段时间一直攻击我们
+给我们造成严重损失.
+帝国应该阻止这种攻击!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Empire\\Region4\\002Debut3.txt	865
-// 
- 
+//

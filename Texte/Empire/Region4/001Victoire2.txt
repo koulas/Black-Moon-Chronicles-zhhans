@@ -1,5 +1,10 @@
 0
-Count Wismerhill! Thanks to your heroic conduct, our city and our academy have been saved from destruction.  Thus, the Circle of Magi has unanimously decided to put two members of our academy at your service. They will be available for your next battle.//
+Wismerhill伯爵!
+多谢您的奋勇作战,
+我们的城市和学院才免于战火的破坏。
+因此, 魔导师团一致决定派遣两位
+我们学院的成员加入您的麾下效力.
+他们在您下一场战事可以上阵.//
 
 [EVENEMENTS]	1
 GAINS_UNITES	17 2 1

@@ -1,5 +1,8 @@
 0
-Victory! Long live the Empire! Long live Haghendorf! The Orcs have been repelled with heavy losses.  They have even abandoned a few of their siege engines. We have saved the city! The Emperor will be satisfied.//
+胜利!帝国万岁!吾皇Haghendorf万岁!
+兽人们已经遭受严重损失.他们甚至抛弃
+一些攻城机. 我军拯救了城市!
+皇帝陛下会很满意的.//
 
 [EVENEMENTS]	3
 GAINS_UNITES	139 1 1

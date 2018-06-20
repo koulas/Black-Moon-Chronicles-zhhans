@@ -1,9 +1,14 @@
 0
-Master Dwarf! The Empire guarantees good understanding and safety between all! If the Elves attack you, the Empire must help you to repel this attack!
+矮人族的首领!
+帝国保证各方都能相互理解和安全！
+如果精灵族攻击你们，
+帝国必会帮助你们击退这次攻击!
 
-Soldiers! We are going to charge to repel the Elves! I believe that if they lose one half of their numbers they will retreat. However, we must protect the Dwarves as much as possible from the Elves' blows!
+士兵们!我军要出击打退精灵族!
+我相信只要他们丧失过半就肯定会退军的.
+且我军必须尽可能保护矮人免受精灵袭击!
 
-Soldiers! For the Emperor! Forward march!//
+士兵们! 为了皇帝! 向前进军!//
 
 [EVENEMENTS]	1
 ALLIANCE	1

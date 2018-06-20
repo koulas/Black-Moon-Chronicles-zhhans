@@ -1,9 +1,14 @@
 0
-Count Wismerhill! We are in sight of the Dwarf village of Palin, where the Empire has established a small detachment! We are coming here to take these troops with us to prepare for the great battle that is coming. All the men will be of use during the fighting!
+Wismerhill伯爵大人!
+我们已经看见Palin的矮人村庄,
+帝国在这里建立了一支小分队!
+我军到这里来就是要收编这些部队，
+以为即将到来的大战作准备.
+全员都会投入到战事中!
 
-Wait! What is this disturbance! A Dwarf is coming towards us.//
+等一下!分部队在哪!
+有一个矮人正向我军走来.//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Empire\\Region4\\002Debut2.txt	859
-// 
-
+//
