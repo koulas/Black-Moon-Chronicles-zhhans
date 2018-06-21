@@ -1,5 +1,9 @@
 0
-Your hostile attitude is also unacceptable! You attack the Dwarves' merchant convoys and by pushing them to take up weapons you create profound disorder in the Empire. It is time that it stopped... voluntarily or by force! Choose immediately!//
+你们敌对的态度是难以接受的！
+你们攻击矮人族商人的车队，
+并且致使他们拿起武器，你们造成帝国
+境内的极度混乱。是时候让其终止了，
+自动自觉还是武力强制，你们抉择吧!//
 
 [EVENEMENTS]	1
 REQUESTER 	..\\Texte\\Empire\\Region4\\003Event3_2.txt	856

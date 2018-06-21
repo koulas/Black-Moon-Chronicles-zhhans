@@ -1,5 +1,14 @@
 0
-Count Wismerhill! In the name of the friendship that unites the Empire and the Dwarves, I request your assistance against an abominable attack by the Elves... For some time now, when we want to return to our mountains, the Elves post archers up on the heights and harass us with their sharp arrows. Many of us are killed every time, since we do not have any good crossbowmen. I beg you to escort us to the entrance to our city. Your efforts will of course be rewarded...//
+Wismerhill伯爵大人，为了帝国与矮人的
+友谊与联盟，我请求您帮忙反击精灵的可恶
+攻击。最近一段时间以来，当我们要回到
+我们的山里时，精灵族布置的弓箭手在高处
+，用锋利的弓箭不断袭击我们。每次我们
+不少人会被杀死，由于我们没有好弓箭手。
+我乞求您派人保护我们去到我们城市入口，
+您的辛劳一定会有回报的。
+
+//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Empire\\Region4\\006Debut2.txt	865

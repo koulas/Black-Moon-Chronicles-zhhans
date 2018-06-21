@@ -1,6 +1,14 @@
 0
-Count Wismerhill! An army of the Black Moon has been besieging Northind for a few days. They have powerful siege engines which are pouring fire and death onto the city. The city's ramparts have been damaged! A breach has been opened in the ramparts! We must act quickly or else the city will fall into the hands of the hordes of the Black Moon because they are preparing for a massive assault!
+Wismerhill伯爵大人!
+一支黑月军队已经包围Northind城数天了。
+他们拥有威力强大的攻城机，向这城市
+倾泻着火焰和死亡。城市的城墙已经被毁坏，
+城墙出现一个突破口。我军必须迅速行动，
+否则这城市会落入成群的黑月军手中，
+因为他们已经在筹备大规模进功了。
 
-To lift the siege, we must prevent them entering the second surrounding wall of the city and inflict heavy losses on them!
+为了解围，我军必须阻止他们进入
+城市的第二层围墙，并且给他们重击
+造成巨大损失!
 
-The Empire should be proud of our actions today!//
+帝国会以我们今天的作战为傲!//

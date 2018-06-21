@@ -1,5 +1,10 @@
 0
-Victory! The Elves' camp is burning and the Elf emissaries are fleeing or have been killed! The Elves did indeed see that the Empire would not let this wind of disturbance upset the region for long. I am convinced that the Elves will stop their attacks, for fear of a large Imperial army coming to restore order here!//
+胜利！精灵的营寨已被烧。
+精灵的使节们要么在逃亡，要么被杀死。
+精灵们应该明白帝国不会允许这场动乱在
+在该地区持续太久。我确信精灵会停止他们
+的攻击，因为他们会担忧大批帝国军会到来
+恢复这里的秩序!//
 
 [EVENEMENTS]	1
 REQUESTER 	..\\Texte\\Empire\\Region4\\003Victoire2.txt	859

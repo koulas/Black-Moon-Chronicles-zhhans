@@ -1,5 +1,11 @@
 0
-Welcome, Count Wismerhill. I will not take up much of your time! The Dwarves are using you against us. They want to obtain a truce in the conflict between our two races to reinforce and then overcome us afterwards. It is unacceptable that the Empire should get involved in our quarrels with the Dwarves. Stop supporting them or you'll regret it!//
+欢迎你，Wismerhill伯爵。
+我不会占用你太多时间的。
+矮人族正在利用你来对付我们。
+他们希望在这场两族冲突中获得停战机会
+好让他们能在加强力量之后来战胜我们，
+帝国介入我们与矮人的冲突是难以接受的，
+你应该停止支持他们，否则你会后悔的!//
 
 [EVENEMENTS]	1
 REQUESTER 	..\\Texte\\Empire\\Region4\\003Event3_1.txt	865

@@ -1,5 +1,8 @@
 0
-Count Wismerhill! The Dwarves greatly appreciated your help! We reward you by offering you a thousand gold crowns but also by promising you to send troops for your next battle!//
+Wismerhill伯爵大人，矮人万分感激
+您的帮助，我们将提供1000金克朗作为
+对您的回报，此外我们承诺在您的下一次
+战事，会派出部队服务您！//
 
 [EVENEMENTS]	3
 GAINS_UNITES	47 2 1

@@ -1,5 +1,6 @@
 0
-So we will settle this matter by the sword and by fire! So be it!//
+那么我们就用剑与火来解决这事情，
+就这样吧!//
 
 [EVENEMENTS]	3
 DEFECTION	1

@@ -1,7 +1,12 @@
 0
-Victory! The hordes of the Black Moon are fleeing! They are lifting the siege at Northind having suffered heavy losses as well! Look! They have abandoned some of their siege engines and their camp. Plundering their camp will surely bring in a good thousand gold crowns!
+胜利!成群的黑月军已经败逃！
+他们在遭受严重损失后，
+开始解除对Northind城的围困。
+他们抛弃一些攻城机和营寨，
+搜刮他们的营寨肯定能缴获上千金克朗。
 
-The Empire should be proud of its fighters! The Emperor will be satisfied with our action!//
+帝国将以其战士们为傲!
+皇帝肯定会对我们的战斗满意!//
 
 [EVENEMENTS]		3
 GAINS_OR		2000
