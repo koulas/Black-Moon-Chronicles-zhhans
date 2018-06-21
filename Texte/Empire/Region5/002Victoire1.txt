@@ -1,5 +1,5 @@
 0
-All our enemies have been wiped out.//
+我们的全部敌人都已被清除。//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region5\\002Victoire1_1.txt 928

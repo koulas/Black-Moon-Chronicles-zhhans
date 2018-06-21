@@ -1,6 +1,8 @@
 0
-From now on, you will speak in our name...
-In memory of her, and because we have chosen you, receive our power, priest of the winds, and may you never disappoint us!//
+从现在起，你将以我们的名义发言。
+为了纪念她，因此我们选择了你，
+接受我们的力量，风之祭司，
+你应该永不会让我们失望的!//
 
 [EVENEMENTS] 1
 ALLIANCE 3

@@ -1,6 +1,6 @@
 0
-Thank you for your concern. I will try to be worthy of your trust!
-Now we can resume our march...//
+感谢你的关心，我会尽力配得上你的信任!
+现在我军可以继续我们的进军了...//
 
 [EVENEMENTS] 1
 IMAGE	..\\Images\\Ima_0002.tga

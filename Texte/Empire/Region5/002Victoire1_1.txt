@@ -1,6 +1,7 @@
 0
-You have been very brave and you have fought courageously, Wismerhill.
-You deserve the trust that we placed in you.//
+你很有勇气且作战一直勇敢，Wismerhill。
+你应该得到我们的信任。//
+
 
 [EVENEMENTS] 2
 REQUESTER ..\\Texte\\Empire\\Region5\\002Victoire1_1_1.txt 865

@@ -1,6 +1,6 @@
 0
 Wismerhill,
-Your mother gave you to us to look after a long time ago!//
+你的母亲很久以前将你托付给我们照顾!//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region5\\002Event4_1.txt 865
