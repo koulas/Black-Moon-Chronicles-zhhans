@@ -1,6 +1,9 @@
 0
-Count Wismerhill! This continuing war against the Elves must stop since we have no strength left.  Please go to see the Elves to negotiate a truce so we can recover!//
+Wismerhill伯爵大人!我军已无余力再战
+这场针对精灵族的持续战争必须停止。
+请去尝试与精灵族谈判休战，
+好让我军得以恢复!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Empire\\Region4\\002Victoire3.txt	865
-// 
+//

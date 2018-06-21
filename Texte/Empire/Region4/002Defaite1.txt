@@ -1,6 +1,9 @@
 0
-Despite the Empire's fighting alongside the Dwarves, we managed to inflict heavy losses on the Dwarves. Soon, thanks to these unceasing raids, they will be forced to leave the region! Good riddance!//
+虽然帝国站在矮人一边，助其作战。
+但是我们仍然设法让矮人们蒙受重大损失。
+很快，由于频繁的袭击，他们将离开该地区
+庆幸可以摆脱麻烦!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Empire\\Region4\\002Defaite2.txt	859
-// 
+//

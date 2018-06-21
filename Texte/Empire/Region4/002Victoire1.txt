@@ -1,7 +1,6 @@
 0
-Victory! The Elves are fleeing under the blows of the Imperial armies!//
+胜利! 精灵族在帝国军的冲击下溃逃了!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Empire\\Region4\\002Victoire2.txt	859
-// 
- 
+//

@@ -1,8 +1,16 @@
 0
-Thank you Count Wismerhill for your assistance. It came at the right time for we were weak compared with the Elves! Most of our people are in the mines, or on the roads bringing our goods to our customers, or have taken up arms to wage war against the Elves!
+感谢您的援助，Wismerhill伯爵大人
+这真是来得及时，
+要知道我们和精灵族比起来是弱势的，
+我们的人要不大多数在挖矿，
+要不就在把货物送到客户的路上，
+此外的都拿起兵器和精灵族战斗了!
 
-This continuing war against the Elves must stop for we have no strength left. Please go to see the Elves to negotiate a truce to let us recover!//
+这场对抗精灵族的持续战争必须终止，
+因为我们已经没有力量支撑了。
+请去看看能不能和精灵族谈判休战，
+好让我们能休养恢复!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Empire\\Region4\\002Victoire3.txt	865
-// 
+//
