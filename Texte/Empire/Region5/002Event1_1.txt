@@ -1,6 +1,6 @@
 0
-Soldiers, deal with these grim greeny creatures!
-I must go to the Peak of the Winds...//
+士兵们!干掉这些冷酷的绿色生物。
+我必须去风顶之处...//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region5\\002Event1_1_1.txt 863

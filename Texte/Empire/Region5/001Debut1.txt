@@ -1,5 +1,5 @@
 0
-We have arrived at Magistrya...//
+我军已经到达Magistrya城...//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region5\\001Debut1_1.txt 863

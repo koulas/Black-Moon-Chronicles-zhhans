@@ -1,5 +1,6 @@
 0
-Baron, a horde of Orcs is approaching... There are very many of them and their intentions probably do not bear thinking about!//
+男爵大人，有一群兽人正要到来...
+他们人数众多，但是他们的意图是很难琢磨!//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region5\\002Debut1_1_1.txt 865

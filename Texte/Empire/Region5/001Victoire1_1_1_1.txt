@@ -1,7 +1,8 @@
 0
-I accept your proposal, your help will be very valuable...
+我接受你的建议，
+你的帮助将是非常有价值。
 
-We can set off now... //
+我军现在可以出发了... //
 
 [EVENEMENTS] 2
 GAIN_SUCCUBE
