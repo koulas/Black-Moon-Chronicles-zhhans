@@ -1,8 +1,9 @@
 0
-Baron!
-Mercenaries are once again attacking us!
-They are to the north of the city...
-Only one stranger is helping us fight them. Hurry because he will not last for ever on his own...//
+男爵大人!
+雇佣军再次攻击了我们!
+他们在城市的北方..
+只有一个陌生人在帮我们对抗他们。
+请快点援助，他自己一个人不能撑太久。//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region5\\006Debut1_1_1_1.txt	865

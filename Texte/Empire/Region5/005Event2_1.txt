@@ -1,7 +1,9 @@
 2
-Finally, you accept what is quite plainly obvious... Our power!//
-I accept your gold in exchange for your life.//
-Accept the Emperor's authority and you will be able to continue to live peacefully... Or else I will raze your village to the ground...//
+最后你们接受的是什么，显而易见，
+就是我们的力量!//
+我接受你们用黄金换得活命。//
+接受皇帝的权威，你们还能继续和平的生活
+否则我会将你们村子夷为平地...//
 
 [EVENEMENTS] 5
 ALLIANCE 1
@@ -11,4 +13,3 @@ REQUESTER	..\\Texte\\Empire\\Region5\\005Event2_1_1.txt 861
 //
 REQUESTER	..\\Texte\\Empire\\Region5\\005Event2_1_2.txt 861
 //
-

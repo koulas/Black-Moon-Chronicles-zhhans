@@ -1,9 +1,10 @@
 0
-Here we are back at Feyhin again!
-We will be able to take a well-deserved rest...
-Soldiers! The night is yours; drink, sing, sleep and enjoy yourselves...
+我们又再次回到Feyhin城!
+我军可以休整一下了...
+士兵们! 今晚属于你们;
+畅饮，欢歌，上床 要玩得尽兴...
 
-Tomorrow we will be going on our way!//
+明天我军将继续我们行程!//
 
 [EVENEMENTS] 1
 REQUESTER   ..\\Texte\\Empire\\Region5\\006Debut1_1.txt	863

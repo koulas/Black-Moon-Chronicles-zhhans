@@ -1,5 +1,6 @@
 0
-Baron, these brigands have hidden all their booty in their village... More than 3000 pieces of gold!...//
+男爵大人，这帮盗匪把战利品藏在他们村里
+...估计超过3000金。//
 
 [EVENEMENTS] 2
 GAINS_OR	2100
