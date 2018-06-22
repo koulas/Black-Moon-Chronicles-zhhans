@@ -1,5 +1,5 @@
 0
-Who are you to speak to me in that way? Do you know who I am?//
+你以这种方式跟我说话，你知道我是谁?//
 
 [EVENEMENTS] 1
 REQUESTER	..\\Texte\\Empire\\Region5\\005Debut1_1_1_1_1_1.txt 861

@@ -1,6 +1,7 @@
 0
-That's right... Surrender immediately and recognize the sovereignty of the Empire!!
-Or else my troops will slaughter you and your followers...//
+那就对了... 
+马上投降并且承认帝国的权威!!
+否则我的军队就把你和你的从党都杀光。//
 
 [EVENEMENTS] 1
 REQUESTER	..\\Texte\\Empire\\Region5\\005Debut1_1_1_1_1_1_1_1.txt 861

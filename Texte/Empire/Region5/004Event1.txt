@@ -1,6 +1,6 @@
 0
-Baron,
-We are being attacked by a horde of bandits... Protect us before we are all wiped out!//
+男爵大人，我们正在被一群匪帮攻击，
+求你在我们被杀光前保护我们!//
 
 [EVENEMENTS] 1
 DEFECTION 1

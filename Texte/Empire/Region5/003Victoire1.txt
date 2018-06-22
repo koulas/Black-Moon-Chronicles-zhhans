@@ -1,8 +1,10 @@
 0
-Thank you for your help.
-All the enemies have been wiped out thanks to you.  However our outpost must be abandoned.
-The troops of the Black Moon are approaching and there are no longer enough of us to stand up to them.
-We can help you for your next assault.//
+感觉您的帮忙.
+多亏您，所有的敌人都被消灭
+但是我军的前哨必须放弃。
+黑月军正在逼近，但我军已经不再有足够
+力量抵抗他们了。
+我军会在您的下一次进攻时帮助您.//
 
 [EVENEMENTS] 1
 REQUESTER	..\\Texte\\Empire\\Region5\\003Victoire1_1.txt 865

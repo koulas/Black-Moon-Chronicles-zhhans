@@ -1,7 +1,9 @@
 0
-They're more like tenderfeet!!! They will bear the marks of the Imperial power on their bodies!...
-Soldier, gather our forces together and let us go and attack this village of brigands.  It is overflowing with riches that they have plundered in Feyhin...
-We must capture it at all costs...//
+他们更多不过都是些菜鸟!!!
+他们将在他们自己身上留下帝国权力的印记!
+士兵们，我军集结，让我军攻打这强盗村。
+他们掠夺Feyhin城的财富，富得流油。
+我军必须不计代价攻占它...//
 
 [EVENEMENTS] 1
 REQUESTER	..\\Texte\\Empire\\Region5\\005Debut1_1_1.txt 863

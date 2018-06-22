@@ -1,7 +1,9 @@
 0
-We have arrived at Feyhin Lokcthat, the city of gladiators and gambling.
-In this city, itinerants do not pay any taxes, so it is a sanctuary for many adventurers and merchants...
-We would be unlucky not to fill our pockets here!//
+我们已经到达Feyhin Lokcthat城,
+这座城市充斥着角斗士和博彩业.
+在这座城市，行商们完全不必缴任何税款，
+所以这里是冒险家和商人们的圣地。
+如果我们不能满载而归那就太倒霉了!//
 
 [EVENEMENTS] 1
 REQUESTER	..\\Texte\\Empire\\Region5\\004Debut1_1.txt 857

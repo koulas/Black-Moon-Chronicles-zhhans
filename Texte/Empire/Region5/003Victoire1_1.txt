@@ -1,7 +1,8 @@
 0
-I am very pleased to accept you in our armies.
+我很高兴接受你进入我军。
 
-We can resume our march now. Our enemies are just waiting to be slain!...//
+我们可以继续行军了，
+我们的敌人正在等待我们去结果...//
 
 [EVENEMENTS] 4
 GAINS_UNITES 20 1 2

@@ -1,6 +1,7 @@
 0
-Thank you, my good man... 
-Good, now that we have slain them all, we can take our leave.//
+感谢，我的好人...
+好了,现在我们已经杀光他们了。
+我们可以离开.//
 
 [EVENEMENTS] 1
 REQUESTER	..\\Texte\\Empire\\Region5\\004Victoire1_1_1.txt 861

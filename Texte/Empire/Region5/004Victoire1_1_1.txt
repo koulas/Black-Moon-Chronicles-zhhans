@@ -1,7 +1,9 @@
 0
-No, Baron!
-Most of these brigands fled... They have gone to take refuge in the woods.
-If you catch them in time, you will be able to get back all the goods that they have just stolen from us.//
+不, 男爵大人!
+许多匪徒已经四散逃逸...
+他们已经逃入森林里面躲避。
+如果你能及时抓住他们，那你就能找回
+刚才他们从我们这盗窃的所有货物。//
 
 [EVENEMENTS] 1
 REQUESTER	..\\Texte\\Empire\\Region5\\004Victoire1_1_1_1.txt 865

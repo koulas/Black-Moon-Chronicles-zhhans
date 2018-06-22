@@ -1,6 +1,6 @@
 0
-No, never!
-So we will have to fight to the last breath.//
+不，绝不!
+那么我们要战斗到最后一口气.//
 
 [EVENEMENTS] 1
 DEFECTION 3//

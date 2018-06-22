@@ -1,9 +1,11 @@
 0
-Baron, we do not recognize the Emperor's authority here!
-We built this village to be free. We do not want to be anyone's vassals!
-There is nothing for you here, we will not let ourselves be massacred just like that...
+男爵，我们这里不承认帝国的权威!
+我们建立的这个村子是自由的，
+我们不想要成为任何人的附庸!
+在这里你不会得到什么，我们不会
+让自己束手待毙的。
 
-Prepare to die!//
+准备去死吧!//
 
 [EVENEMENTS] 1
 REQUESTER	..\\Texte\\Empire\\Region5\\005Debut1_1_1_1_1.txt 865

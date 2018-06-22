@@ -1,7 +1,9 @@
 0
-Baron, we have found the lair of these brigands!
-There are very many of them and our scouts tell us that they have made an alliance with the Elves and the troops of the Black Moon!
-It will be difficult to overcome them: they are well prepared and are ready and waiting for us...//
+男爵大人, 我军已经发现匪帮的巢穴!
+他们人数众多，且我军探子报告称
+他们已经与精灵族及黑月军结成联盟!
+他们已经做好准备来等候我军，
+要想攻克他们是挺困难的...//
 
 [EVENEMENTS] 1
 REQUESTER	..\\Texte\\Empire\\Region5\\005Debut1_1.txt 865

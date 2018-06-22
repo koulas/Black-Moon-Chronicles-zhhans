@@ -1,5 +1,7 @@
 0
-You have successfully protected us from being slaughtered.  Take these pieces of gold as our thanks; we have too many!//
+你成功保护我们免于被屠杀。
+请收下这些金币作为我们的谢礼，
+这些对我们不算什么!//
 
 [EVENEMENTS] 1
 REQUESTER	..\\Texte\\Empire\\Region5\\004Victoire1_1.txt 865
