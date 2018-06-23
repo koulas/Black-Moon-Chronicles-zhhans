@@ -1,6 +1,6 @@
 0
-You too fight well...
-I accept your offer, Wismerhill....//
+你也很能打...
+我接受你的邀请, Wismerhill。//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region5\\006Victoire1_1_1.txt   865

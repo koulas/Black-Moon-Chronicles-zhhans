@@ -1,6 +1,7 @@
 0
-So Murata, let us celebrate this alliance properly!
-And tomorrow we will set out again.  We must pacify this area for the Emperor...//
+好 Murata,我们真该庆祝这次联手!
+明天我军将再次开拔，
+我军须为皇帝陛下安抚这个地区...//
 
 [EVENEMENTS] 2
 GAIN_MURATA

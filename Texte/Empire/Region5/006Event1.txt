@@ -1,7 +1,7 @@
 0
-Take care, stranger!
-Another horde of brigands is arriving to plunder this city!
-We must take action before they achieve their objective...//
+小心，陌生人!
+另有一群匪帮要到这城里掠夺!
+我们必须在他们得手前采取行动...//
 
 [EVENEMENTS] 3
 DEFECTION 3

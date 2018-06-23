@@ -1,5 +1,5 @@
 0
-Who dares to disturb my sleep?!//
+谁敢打扰我的安眠?!//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region5\\007Debut1_1.txt 863

@@ -1,7 +1,8 @@
 0
-You fight well, stranger, very well...
-Would you agree to becoming a member of my forces?
-A fighter as efficient as you would be an advantage in my army...//
+你打得漂亮，陌生人，很厉害嘛...
+你愿意加入成为我军一员吗?
+像你这么厉害的战士可以成为
+我军一大优势...//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region5\\006Victoire1_1.txt	827
