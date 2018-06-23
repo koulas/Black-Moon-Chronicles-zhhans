@@ -1,5 +1,5 @@
 0
-We have found a treasure of 2000 pieces of gold...//
+我们找到了一笔2000块黄金的财宝。//
 
 [EVENEMENTS] 2
 GAINS_OR     2000

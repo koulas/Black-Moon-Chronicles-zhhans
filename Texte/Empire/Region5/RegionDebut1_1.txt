@@ -1,6 +1,6 @@
 0
-我必不会让您失望，吾皇!
-我会安定好该地区。//
+锟揭必诧拷锟斤拷锟斤拷锟斤拷失锟斤拷锟斤拷锟斤拷锟斤拷!
+锟揭会安锟斤拷锟矫该碉拷锟斤拷锟斤拷//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region5\\RegionDebut1_1_1.txt  853

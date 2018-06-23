@@ -1,7 +1,7 @@
 2
-Baron, these demons are very powerful...//
-Let us go, the underworld is too powerful for the living!//
-We must wipe them out whatever the price we have to pay!//
+男爵大人，这些恶魔非常强大...//
+我们离开吧，地府的力量强过活人太多!//
+我军必须消灭他们，无论付出什么代价!//
 
 [EVENEMENTS] 2
 ALLIANCE 1

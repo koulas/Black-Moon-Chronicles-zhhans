@@ -1,6 +1,8 @@
 0
-You should never have touched this treasure...
-From now on I will show no mercy... I will make you suffer slowly and I will enjoy your pain!...//
+你决不应接触这些财宝..
+从现在起，我不再会宽恕。
+我会让你慢慢遭受折磨，
+我会很享受你痛不欲生!...//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region5\\007Event1_1_1.txt 863

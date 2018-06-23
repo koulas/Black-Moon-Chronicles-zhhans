@@ -1,6 +1,6 @@
 0
-I'm not afraid of your threats, demon!
-Prepare to die!//
+魔鬼，我不会怕你的!
+准备受死吧!//
 
 [EVENEMENTS] 1
 DEFECTION 2
