@@ -1,5 +1,5 @@
 0
-But what must I do?//
+那么我必须做什么?//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region8\\RegionDebut1_1_1.txt 853

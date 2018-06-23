@@ -1,7 +1,10 @@
 0
-We have succeeded in capturing the Leviathans. By the time we reach the fault of Tsaroth, the two Leviathans will have been trained and our forces will be strengthened.
+我军已经成功抓住利维坦。
+当我军到达Tsaroth的断层时,
+这两只利维坦会被训练好，
+那么我军的实力就会加强。
 
-We can now go towards the fault.//
+现在我军可以前往断层.//
 
 [EVENEMENTS] 1
 GAINS_UNITES	16 2 1
