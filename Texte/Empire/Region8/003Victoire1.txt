@@ -1,6 +1,7 @@
 0
-Haazheel Thorn is no more... The troops of the Black Moon have been routed...
-Victory is ours...//
+Haazheel Thorn不在了...
+黑月军已经被击溃。
+胜利属于我军...//
 
 [EVENEMENTS] 1
 IMAGE	..\\Images\\Ima_0013.tga

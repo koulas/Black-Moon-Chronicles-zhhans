@@ -1,5 +1,7 @@
 0
-The enemy has been wiped out and we will also recover the gold that they stole from us. Let us go now to conquer Moork!//
+敌军已经消灭，我们也收回
+我方被他们盗走的黄金。
+现在我军出发去征服Moork!//
 
 [EVENEMENTS] 1
 IMAGE	..\\Images\\Ima_0010.tga

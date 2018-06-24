@@ -1,7 +1,8 @@
 0
-Yes, Wismerhill!
-You fought valiantly... We just have to raze this city to the ground and eradicate completely the forces of the Black Moon...
-Peace will then be reestablished in the Empire...//
+是的, Wismerhill大人!
+你作战勇猛...我军只要把该城夷为平地
+就能彻底根除黑月军的势力。
+然后由帝国重建和平...//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region8\\003Debut1_1_1.txt 865

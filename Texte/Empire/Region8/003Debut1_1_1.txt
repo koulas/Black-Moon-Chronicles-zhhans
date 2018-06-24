@@ -1,7 +1,8 @@
 0
-The fighting will be fierce...
+这场战斗会很激烈...
 
-General! Kill Haazheel Thorn and victory will be ours...//
+将军! 杀死Haazheel Thorn
+胜利将属于我军...//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region8\\003Debut1_1_1_1.txt 868

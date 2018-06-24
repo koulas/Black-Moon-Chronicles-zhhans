@@ -1,2 +1,3 @@
 0
-The maneuvers of the Black Moon have been much more efficient than yours. It wins the battle and puts an end to your conquest.//
+黑月军的策略比你的更高明，
+所以他们赢得胜利并结束了你的征服.//
