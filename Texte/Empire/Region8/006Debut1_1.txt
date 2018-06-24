@@ -1,5 +1,5 @@
 0
-I am ready to fight them....//
+我准备好与他们作战....//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region8\\006Debut1_1_1.txt 853

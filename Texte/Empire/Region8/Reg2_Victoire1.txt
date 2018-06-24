@@ -1,7 +1,8 @@
 0
-The most powerful vassal of Haazheel Thorn is dead, along with his men...
-We just have to take the fortified city of Moork...//
+Haazheel Thorn最强大的臣下死了,
+和他的士兵一起...
+我军只需据守Moork城...//
 
 [EVENEMENTS] 1
 GAINS_OR 1000
-// 
+//

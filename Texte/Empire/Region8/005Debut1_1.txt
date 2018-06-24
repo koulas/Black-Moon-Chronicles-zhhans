@@ -1,9 +1,11 @@
 0
-The soldiers of Justice are great fighters...
-They are the Emperor's allies... We can go to this meeting without worrying about their intentions...
+正义骑士团的士兵都是杰出的战士
+他们是帝国的同盟者。
+我们可以去参加这次会见，
+不必担心他们的意图。
 
-General, you can line up your men in marching order...
-We are leaving...//
+将军, 你可命令你的士兵列队依序前进。
+我军正在离开...//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region8\\005Debut1_1_1.txt 868

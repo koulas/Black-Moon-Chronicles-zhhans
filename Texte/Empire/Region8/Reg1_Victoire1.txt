@@ -1,7 +1,9 @@
 0
-You fought valiantly, Wismerhill!
-I am sending you reinforcements of a few troops who will join you before Moork...
-Try to command them as you have done so far and victory will be ours...//
+你作战勇猛, Wismerhill!
+我会派出几支增援部队，
+他们会在你到Moork前加入你的...
+就像你已经做到的那样指挥他们，
+胜利属于我们...//
 
 [EVENEMENTS] 3
 GAINS_UNITES 17 1 1

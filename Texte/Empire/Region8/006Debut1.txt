@@ -1,8 +1,13 @@
 0
 Wismerhill,
-here you are at last at the Fault of Tsaroth... I was just waiting for you to launch the assault against the troops of the Black Moon...
-The Paladins of Justice and the Knights of Light have joined together to wipe out Haazheel Thorn and his troops...
-The battle will be dreadful and there will be many dead... Expect to suffer heavy losses... but always be unyielding in your duty as a fighter!//
+你终于到了这里，Tsaroth的断层
+我就是在这等候你发动对黑月军的进攻。
+正义骑士团的圣骑士和光明教的骑士
+已联合起来消灭Haazheel Thorn
+和他的军队...
+这场战斗很可怖也会很多人死亡...
+估计会遭受很严重损耗...
+不过作为一个战士的职责就该不屈不挠!//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region8\\006Debut1_1.txt 865
