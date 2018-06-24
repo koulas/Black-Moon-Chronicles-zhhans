@@ -1,6 +1,8 @@
 0
-That is true!
-We will postpone our dispute with the Elves until later... For the time being, we, Elves and Dwarves, will not let you take possession of this mine! Prepare to know what defeat is!//
+这样好呀!
+我们会暂且先把与精灵们的争端搁置...
+我们, 精灵和矮人,不会让你占有这矿!
+准备试下什么是失败吧!//
 
 [EVENEMENTS] 3
 DEFECTION 1

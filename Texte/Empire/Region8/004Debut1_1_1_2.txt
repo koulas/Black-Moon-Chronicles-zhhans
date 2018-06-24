@@ -1,7 +1,8 @@
 0
-Traitor!
-We will not let you and these Elves take our gold mine so easily.
-Prepare to die!//
+背信弃义的人!
+我们不会让你和这帮精灵
+那么轻易就夺取到我们的金矿.
+准备受死!//
 
 [EVENEMENTS] 3
 ALLIANCE 2

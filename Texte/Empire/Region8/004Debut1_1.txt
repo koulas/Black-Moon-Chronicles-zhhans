@@ -1,8 +1,10 @@
 0
-That is not true!
-Do not listen to this liar, Baron...
-The gold mine has belonged to our people for generations... The proof is that the gold mine is in the forest... right in the middle of Elf territory.
-Helps us to overcome these Dwarves...//
+这不是真的!
+不要听信这些谎言, 男爵大人...
+这座金矿属于我们人民已经好多代人...
+证据就是金矿位于森林里...
+正是在精灵领地的中间。
+帮助我们击败这些矮人吧...//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region8\\004Debut1_1_1.txt 865

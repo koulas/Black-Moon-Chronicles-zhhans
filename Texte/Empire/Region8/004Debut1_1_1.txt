@@ -1,9 +1,12 @@
 3
-You are asking me to make a difficult choice... I do not know the situation exactly...
-I have however decided to://
-form an alliance with the Dwarves...//
-form an alliance with the Elves...//
-not to form an alliance with either of you... This gold mine belongs to the Emperor... Prepare to die...//
+你们令我很难去作出抉择呀
+我并不知道准确的状况...
+不过我还是要做一个决策://
+与矮人们结盟...//
+与精灵们结盟...//
+不和你们任何一方结盟...
+这座金矿是属于帝国的...
+要不就去死...//
 
 [EVENEMENTS] 3
 REQUESTER ..\\Texte\\Empire\\Region8\\004Debut1_1_1_1.txt 856

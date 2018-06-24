@@ -1,8 +1,8 @@
 0
-Baron,
-We do not agree with the Elves about a gold mine which is on our territory!
-This gold mine has belonged to our people since the dawn of time...
-We ask you to intervene for us to settle the problem once and for all...//
+男爵大人,
+我们不同意精灵族打我们领地上金矿的主意!
+这座金矿自古以来属于我们的人民...
+我们请求您介入，一劳永逸地解决这问题。//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region8\\004Debut1_1.txt 856

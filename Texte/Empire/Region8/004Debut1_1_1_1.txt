@@ -1,7 +1,8 @@
 0
-Traitor!
-We will not let you and these Dwarves take our gold mine so easily.
-Prepare to die!//
+背信弃义之人!
+我们不会让你和这帮矮人
+那么轻易就夺取到我们的金矿.
+准备受死!//
 
 [EVENEMENTS] 3
 ALLIANCE 1
