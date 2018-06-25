@@ -1,7 +1,8 @@
 0
-Sire, let us hurry, considerable devilish forces have taken over the region and are threatening this church, to the North.
+大人，我们要赶快。相当多的恶魔部队
+已经占领这个地区，并威胁到北部的教会。
 
-We have to protect this holy place!//
+我们必须保护这块圣地!//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\002Debut2.txt	865//

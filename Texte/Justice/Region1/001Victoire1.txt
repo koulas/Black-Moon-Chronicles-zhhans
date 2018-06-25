@@ -1,6 +1,7 @@
 0
-VICTORY!! We have won over evil, Prince.
-Furthermore, we have found a treasure in the necromancer's crypt. That will help us to continue our struggle!//
+胜利!! 我军干掉这些恶魔, 王子。
+此外，我军在死灵的隐藏巢穴里发现宝藏，
+这些有助于我军继续我们的斗争!//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\001Victoire2.txt	860//

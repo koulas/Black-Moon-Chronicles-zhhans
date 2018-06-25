@@ -1,5 +1,6 @@
 0
-AARH AAARH We are going to hurl your entrails into the unfathomable depths!//
+AARH AAARH
+我们要把你的内脏扔到深不可测的深渊里!//
 
 [EVENEMENTS]	1
 DEFECTION	3

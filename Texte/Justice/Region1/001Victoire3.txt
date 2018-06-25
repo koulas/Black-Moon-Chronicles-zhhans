@@ -1,7 +1,9 @@
 0
-You don't know how truly you speak, Prince; a scout has just told me of intense devilish activity around a chapel to the east of here.
+王子，你不知道你说得有多准;
+一个探子刚报告我这里东边的一座小教堂
+有强烈的魔物活动迹象。
 
-We should go there as soon as possible.//
+我军应尽快赶去那里。//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\001Victoire4.txt	860//

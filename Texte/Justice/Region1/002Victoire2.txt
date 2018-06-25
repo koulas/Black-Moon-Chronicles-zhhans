@@ -1,6 +1,8 @@
 0
-Many thanks, Lord, in the name of the whole Church.
-The gifts of the parishioners are brought to us to defend just causes; yours is such a cause above all, so let me leave you a little... This is truly modest, but it is offered with a willing heart.//
+大人，以神圣的教会之名，十分感激你。
+我们带来了教区民众的礼物，献给捍卫者，
+你是首当其冲的，所以我留给你一些
+虽然很微薄，但这都是出自诚挚的心。//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\002Victoire3.txt	865

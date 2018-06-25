@@ -1,7 +1,8 @@
 0
-VICTORY!!!
+赢了!!!
 
-The demons have taken their last breath and have returned to see their master in hell.//
+这些魔鬼快完蛋了，
+就要回去地狱见他们的主人。//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\002Victoire2.txt	926

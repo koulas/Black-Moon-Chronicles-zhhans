@@ -1,7 +1,10 @@
 0
-I do not like the riot of infernal forces in our countries. We have indeed won another victory over evil, but I suspect that Haazheel Thorn and his cursed troops are preparing a much darker future for us.
+我不想地狱的势力在我国引发动乱。
+我军确实取得另一次对恶魔的胜利,
+我怀疑Haazheel Thorn和他该死的部队
+正准备对我们施加更黑暗的未来。
 
-Let us hope we manage to prevent him wreaking more harm!//
+希望我们能设法阻止他造成更多伤害!//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\001Victoire3.txt	865//

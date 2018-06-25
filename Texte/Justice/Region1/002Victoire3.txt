@@ -1,7 +1,10 @@
 0
-Let me thank you in return, father, we will show ourselves worthy of this sacred gift.
+谢谢神父,作为回报。
+我们会展示我们能够匹配这些神圣的礼物。
 
-The strong concentration of demons and living-dead in the area does not inspire me with confidence; do you have any idea about the situation in these parts?//
+这个地区的恶魔和活死人的聚集程度
+让我很不安心，
+这部分的情况你有什么想法吗?//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\002Victoire4.txt	926
