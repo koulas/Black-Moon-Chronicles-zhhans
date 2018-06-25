@@ -1,6 +1,12 @@
 0
-Do not get excited too quickly... The fight against the Black Moon has not finished...
-Haazheel Thorn has managed to flee... What is more, the troops of Light did not take part in the battle... They are rebelling against my authority! Pursue Haazheel to Horker and be wary of the troops of Light... I do not know if they are still our allies....//
+不用激动得太早...
+与黑月军的战斗还没结束。
+Haazheel Thorn准备设法逃跑...
+更重要的是, 光明教团军没有参战。
+他们准备反叛我的权威!
+追击Haazheel到Horker城
+并且要警惕光明教团军...
+我没法确认他们还是不是我们的盟友。//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region8\\006Victoire1_1_1.txt 865

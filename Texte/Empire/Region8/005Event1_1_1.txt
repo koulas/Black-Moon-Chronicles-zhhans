@@ -1,6 +1,10 @@
 0
-You have made the right choice... By allying our forces we should easily crush the troops of the Black Moon...
-Our forces are on the way to Horker and Moork... They will wait for you before attacking and smashing Haazheel Thorn to pieces.//
+你做出了正确的选择...
+靠我们军力的联合，
+我们应该能轻易打垮黑月军...
+我们军队正在去Horker和Moork。
+在攻打粉碎Haazheel Thorn之前
+他们会等待你。//
 
 [EVENEMENTS] 5
 DEFECTION 2

@@ -1,7 +1,7 @@
 0
-Baron,
-we were ambushed by the Black Moon...
-The troops are by the bridge that we have to cross to reach Moork...//
+男爵大人,
+我军被黑月军伏击...
+这些部队在我军通往Moork必经的桥上。//
 
 [EVENEMENTS] 1
 REQUESTER ..\\Texte\\Empire\\Region8\\Reg1_Debut1_1.txt 865

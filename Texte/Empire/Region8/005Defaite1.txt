@@ -1,2 +1,4 @@
 0
-You fought bravely, Wismerhill! But you overestimated your forces... You will not be going any further...//
+你作战勇猛，Wismerhill!
+但是你过高估计你的力量，
+你不会再前进了。//
