@@ -1,6 +1,10 @@
 0
-We are not as wrong as you think, Paladin...
+我们并没如你想得那么错,圣骑士。
 
-Mmhh, I feel their presence, I feel HIS presence; the evil being who controls the living-dead is not far away, we will find him to the east, I'm sure.
+额,我感觉他们的存在,我感觉他的存在;
+控制活死人的邪魔应该离得不远,
+我敢肯定，我们可以在东边找到他。
 
-Let us cross this territory as quickly as possible, General Ghorghor, you will lead our troops to a safe haven.//
+我军要尽快穿过这片邻土,
+Ghorghor将军,
+你带邻我军到一个安全的避风港。//

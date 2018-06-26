@@ -1,5 +1,6 @@
 0
-Heh.... Not come close, else us hit your head very hard!...//
+啊.... 不要太靠近了
+否则我们很难打中你的头!//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\003Event2.txt	854//

@@ -1,5 +1,8 @@
 0
-Prince, here we are at last at the source of the evil that threatens the region. A Lord of Negation is hiding in a small cemetery on this hill, to the east.//
+王子,
+在这我们终于发现威胁这个地区的邪恶源头。
+否定之主就藏在山上的一小坟墓里,
+往东去.//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\004Debut2.txt	860//

@@ -1,7 +1,8 @@
 0
-Lord, we are mistaken, the chief leading the devilish forces of the region is not here!
+大人，我们搞错了
+指挥这个地区恶魔势力的首领并不在这里!
 
-In this area there are just creatures looking for a fight.//
+这个地区只有魔物在寻找战斗.//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\003Debut2.txt	860//
