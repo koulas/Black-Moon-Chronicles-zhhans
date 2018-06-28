@@ -1,6 +1,6 @@
 0
 Wismerhill, Wismerhill,
-杩欐槸闄烽槺锛岃灏忓績...//
+这是陷阱，请小心...//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\005Debut2.txt	865//
