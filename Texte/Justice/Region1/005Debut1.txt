@@ -1,5 +1,6 @@
 0
-Wismerhill, Wismerhill, it is an ambush, be careful...//
+Wismerhill, Wismerhill,
+这是陷阱，请小心...//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\005Debut2.txt	865//

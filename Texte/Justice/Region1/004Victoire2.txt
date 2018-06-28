@@ -1,7 +1,10 @@
 0
-Sorry to disturb your prayer, Parsifal, but bad news reaches us from Sysigia; the troops of Haazheel Thorn have started maneuvers to besiege the capital!
+抱歉打扰你的祷告 Parsifal,
+不过有坏消息从Sysigia到达我们这;
+Haazheel Thorn的军队已经开始
+策划围攻首都!
 
-We must act a fast as possible!//
+我军必须尽快采取行动。//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\004Victoire3.txt	860//

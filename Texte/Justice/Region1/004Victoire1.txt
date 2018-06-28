@@ -1,7 +1,9 @@
 0
-PALADINS OF JUSTICE! Once again, we have conquered evil....
+正义骑士团的圣骑士们!
+我们再次征服了邪恶....
 
-Let us spare a moment or two before the remains of our brothers, who did not have the good fortune to see the will of God fulfilled once again.//
+让我们在我们兄弟遗体前默哀一两分钟,
+他们没运气再次看到神的旨意被实践。//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\004Victoire2.txt	865//
