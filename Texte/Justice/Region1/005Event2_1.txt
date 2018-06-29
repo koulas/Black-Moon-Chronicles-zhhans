@@ -1,5 +1,7 @@
 0
-Your repentance is as pure as your heart  Parsifal, I am going to help you return to Sysigia where you will be able to expiate your errors honorably.//
+你的悔悟如你的心般纯净，Parsifal
+我将帮助你回到Sysigia，
+在那里你将能够光荣地救赎你的错误。//
 
 [EVENEMENTS]	1
 ALLIANCE	1

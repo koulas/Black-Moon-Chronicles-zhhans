@@ -1,5 +1,6 @@
 0
-It's quite true, I notice elementaries in the distance, the demons seem to have been invoked to cause our downfall.//
+确实如此, 我注意到远处有元素精灵出没
+这些恶魔似乎被召唤来使我们落败.//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\005Debut3.txt	873//

@@ -1,5 +1,7 @@
 0
-Prince, an archangel has been sighted, he is coming undoubtedly to help us foil this trap. However, he does not seem to be moving, as if he were waiting for something.//
+王子,一位大天使显现了。
+他的来临无疑是帮助我们挫败这个诡计。
+但是他似乎并不移动，好像在等待着什么。//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\005Debut4.txt	860//
