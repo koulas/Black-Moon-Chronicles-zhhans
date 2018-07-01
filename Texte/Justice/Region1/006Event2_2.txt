@@ -1,5 +1,6 @@
 0
-You're all worked up, young man; is it the joy of seeing me?//
+你们都很努力，年轻人;
+是看到我很开心?//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\006Event2_3.txt	860

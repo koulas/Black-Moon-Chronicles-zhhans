@@ -1,7 +1,8 @@
 0
-The troops of the Black Moon have moved to the east of the city, they are ready to lead the assault!
+黑月军已经移动到城市的东边，
+他们准备发动进攻!
 
-We are just in time!//
+我军要及时赶到!//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\006Debut3.txt	860//

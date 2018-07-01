@@ -1,8 +1,10 @@
 0
-Here you are at last Parsifal!
-The troops of the Black Moon are ready to attack, and Haazheel Thorn is at their head.
+你终于来到这了，Parsifal!
+黑月军准备发起进攻,
+Haazheel Thorn是他们的首领.
 
-God sends me to deliver his judgment on earth; evil must return to hell!....//
+神派我到地上来宣扬他的审判：
+恶魔必须回到地狱!//
 
 [EVENEMENTS]	1
 ALLIANCE	1

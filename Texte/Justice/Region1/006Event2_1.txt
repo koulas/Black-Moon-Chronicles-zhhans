@@ -1,5 +1,7 @@
 0
-HAAZHEEL! You're nothing but a damned renegade corrupted by hell. You are not worthy to stay on this earth!//
+HAAZHEEL!
+你只不过是被地狱腐蚀的该死叛贼。
+你不应该留在这个世上!//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\006Event2_2.txt	869

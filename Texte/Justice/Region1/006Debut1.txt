@@ -1,8 +1,10 @@
 0
-Sysigia, at last!
-God be praised, the ramparts are intact. The city is not yet the prey of evil.
+Sysigia,最后到这了!
+感谢神, 城墙仍是完好的.
+城市仍未被恶魔所侵略。
 
-May we repel the infernal forces of Haazheel Thorn beyond the holy wall!//
+愿我们能击退Haazheel Thorn
+的地狱军团，在这神圣的城墙之前!//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\006Debut2.txt	865//
