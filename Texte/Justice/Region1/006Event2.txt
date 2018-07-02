@@ -1,5 +1,6 @@
 0
-Right, children, plunder, raze, and be replete with these dear little kiddies...//
+对就这样, 孩子们, 掠夺, 清除, 
+并驱逐这些可爱的小家伙...//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\006Event2_1.txt	860

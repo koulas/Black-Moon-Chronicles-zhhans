@@ -1,7 +1,7 @@
 0
-Not a word more, old demon!
-
-The cry of joy I shall utter when my blade cuts off your head shall be the last sound you will hear from me!//
+不必多言，老妖怪。
+当我的利刃砍下你的头颅，我发出的欢呼声
+将成为你听到的最后声音!//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\006Event2_4.txt	869

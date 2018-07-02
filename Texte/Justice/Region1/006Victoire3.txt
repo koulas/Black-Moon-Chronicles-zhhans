@@ -1,8 +1,12 @@
 0
-Sorry to break your contemplation once again Prince, but I'm afraid the Empire has never had such need of our services! 
-Fratus Sinister, the traitor, taking advantage of what he called a courtesy visit to the Imperial palace, has assassinated the Emperor!!!
+对不起又一次打破你的沉思，王子
+但是我怕帝国从没如今这般需要我们出手!
+Fratus Sinister,反叛者,
+他利用被召到皇宫觐见的机会,
+他刺杀了皇帝陛下!!!
 
-His troops, aided by dragon knights, then invaded the capital, Lhynn, and slaughtered the population...//
+他的军队在龙骑士的帮助下占领了
+帝都Lhynn,并屠杀那里的人民...//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\006Victoire4.txt	860

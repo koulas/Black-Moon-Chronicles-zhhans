@@ -1,7 +1,9 @@
 0
-What a tragedy, your families have been decimated, you were unable to protect them.
+多么可悲呀,
+你的家人都被屠戮,
+你并不能保护他们。
 
-Now, you have to assume the wrath of God!....//
+现在，你必须承担神的愤怒!...//
 
 [EVENEMENTS]	1
 DEFECTION	1

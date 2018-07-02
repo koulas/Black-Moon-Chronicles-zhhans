@@ -1,7 +1,8 @@
 0
-Sire, we have driven the enemy back!....
+大人，我军已经把敌人赶跑!
 
-Joy to our city, and peace to the souls of our dead brothers.//
+城市满是欢声笑语，
+我们死去兄弟的灵魂也得到安息。//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\006Victoire2.txt	860

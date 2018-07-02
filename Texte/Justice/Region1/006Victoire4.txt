@@ -1,8 +1,10 @@
 0
-Lord, you send me a new trial! Give my arm the strength necessary to overcome.
-Although my heart is filled with anguish, we have to take the road again immediately for the region of Lhynn.
+主啊, 你给予我新的考验!
+请给我的双臂以必要的力量去克服困难。
+虽然我满心苦闷,
+但我们必须立即再次前往Lhynn的道路。
 
-General Ghorghor, assemble the men!//
+Ghorghor将军, 聚集士兵!//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\006Victoire5.txt	855

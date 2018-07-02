@@ -1,8 +1,12 @@
 0
-This is a great day for all the children of God and for the Empire!
-Evil is back in hell, and Haazheel Thorn rots in the slime of demons...
+这是伟大的一天，
+对所有神的孩子们以及帝国来说!
+恶魔被赶回了地狱, and
+Haazheel Thorn在魔鬼的泥沼中腐烂。
 
-The Empire is safe, let us return to our families, let us kiss our children and prepare a better future for them, where peace shall reign...//
+帝国已然安稳,
+让我们回到家里,让我们亲吻孩子
+为他们准备更好的未来,当和平降临于此。//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region1\\006Victoire3.txt	865

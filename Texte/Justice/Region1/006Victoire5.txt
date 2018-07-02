@@ -1,7 +1,9 @@
 0
-What a relief, I really thought everything was going to end there, just when we were starting to have some fun!
+真是一种解脱，
+当我刚开始有些小乐趣时，
+我还以为真的一切都要结束呢!
 
-Right, sections, REPORT!//
+好的, 各部队,报告!//
 
 [EVENEMENTS]	1
 IMAGE ..\\Images\\Ima_0012.tga
