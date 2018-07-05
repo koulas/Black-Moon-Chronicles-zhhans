@@ -1,9 +1,15 @@
 2
-Paladins, we dared not hope for your presence; our heart is black as ebony, darkened by the death of the Emperor and by the loss of our Krak, which has fallen into the hands of the renegades of Light.
+圣骑士们, 我们并没有期待你们的出现;
+我们已经是心如死灰,
+因为皇帝的死亡和我们城池的沦陷,
+让一切变得暗淡无光
+这里已经落入光明教的叛贼手中。
 
-Here is what remains of my proud army: a handful of cripples! Could you recover this Krak from the enemies of the Empire?//
-Yes, I will restore your honor.//
-Mmhh, I will help you, but I need your assistance.//
+这些就是我们引以为傲的军队
+所遗留下的一些残军!
+你能从帝国的敌人手中收复城池吗?//
+是的, 我会恢复你的荣誉。//
+嗯, 我会帮助你,但我需要你的援手。//
 
 [EVENEMENTS]	2
 REQUESTER	..\\Texte\\Justice\\Region3\\001Debut1_1.txt	868

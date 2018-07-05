@@ -1,10 +1,11 @@
 0
-Christmas : Hurrah!!!
-Excuse this burst of joy, Prince, but after all the troublesome events that have piled up against us, I could hardly see anything but the darkest of futures for the Empire.
+基督万岁!!!
+请原谅情绪的爆发, 王子,
+但是我们经历过所有艰难困苦的事情后,
+除了帝国暗淡的将来我很难再看到什么。
 
-Now, I know that order and Justice can again triumph.
-Many thanks for your bravery.//
+如今我知道正义与秩序将再次高扬。
+万分感谢你的勇敢。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\001Victoire2.txt	860//
-
