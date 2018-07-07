@@ -1,5 +1,7 @@
 0
-We are too late, Sire, Light has already taken over this Krak; they appear to control the whole region!//
+我们来得太迟了，大人。
+光明教已经占领了这座城堡，
+看起来他们已经控制这整个地区!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\002Debut2.txt	855

@@ -1,6 +1,6 @@
 0
-Master, we have won!.... The last troops of Light are dead or routed.//
+团长, 我们赢了!....
+光明教团军最后都被杀死和击溃。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\002Victoire2.txt	855//
-
