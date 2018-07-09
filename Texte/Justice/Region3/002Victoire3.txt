@@ -1,7 +1,12 @@
 0
-General Ghorghor, I would be grateful if you kept your sarcasm for your drinking companions; here we are dealing with serious matters!....
+Ghorghor将军,你要是能这样嘲讽
+你的酒友，我不胜感激。
+但是我们这里在处理严肃的事情!....
 
-How long shall we continue this abominable fight making men fight each other who were formerly united under the authority of the Lord? Fratus, we shall meet one day and you will have to account for your mindless deeds.//
+这场可恶的争斗我们还要持续多久，
+才能让人们在主的权威下团结起来？
+Fratus，我们总有一天会碰面的，
+到时你会明白你行为的不智。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\002Victoire4.txt	926//

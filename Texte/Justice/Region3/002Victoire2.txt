@@ -1,5 +1,7 @@
 0
-AAHHH, at last! I was starting to be weary of cutting up everything that moved... I think I must have eaten something that didn't go down well!//
+啊, 终于来了! 我开始有些厌倦
+剪除掉所有能动的活物。我想我还是必须
+吃掉那些个会坏事的!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\002Victoire3.txt	860//

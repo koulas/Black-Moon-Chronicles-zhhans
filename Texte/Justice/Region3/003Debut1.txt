@@ -1,5 +1,6 @@
 0
-We must be careful, lord, this Krak seems very well defended.//
+我们必须小心谨慎, 大人,
+这座城堡看起来固若金汤。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\003Debut2.txt	865//
