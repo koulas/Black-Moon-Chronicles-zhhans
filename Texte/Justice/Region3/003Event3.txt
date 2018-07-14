@@ -1,11 +1,16 @@
 2
-You misunderstand Prince, only Fratus Sinister, our chief, is responsible for our fate; and I have just learned that the high priests of Altenberg have disavowed him!
+你误解了，王子。只有我们的首领
+Fratus Sinister, 可以主宰我们的命运;
+但我刚听说Altenberg的大司祭已否认他了
 
-This means that we no longer have to follow his orders and in these circumstances, we join you!...
+这意味着如今我们不再需要听从他的号令
+，请让我们加入你吧!...
 
-I plead with you, Prince, let us cease this barbarity and re-tie the brotherly link that united us!//
-Now that fills me with joy! I accept your repentance.//
-Even if they are sweet to hear, I cannot believe your words.//
+我恳请你, 王子,让我们终止这种暴行
+重新携手恢复兄弟般关系，团结在一起!//
+如今这真让我高兴，我接受你的忏悔。//
+即使话说的再好听，
+我还是不会相信你一个字。//
 
 [EVENEMENTS]	3
 REQUESTER	..\\Texte\\Justice\\Region3\\003Event3_1.txt	927

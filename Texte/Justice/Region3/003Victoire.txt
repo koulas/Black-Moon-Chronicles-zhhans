@@ -1,8 +1,12 @@
 0
-We have won the victory, and taken over control of the region!
-I still do not know if we should put our trust in Light. The disavowal of Fratus Sinister would be synonymous with victory to save the Empire. I cannot dare hope for such a happy outcome!
+我军已经赢得胜利,并且已掌控该地区!
+我仍不知道应不应相信光明教。
+Fratus Sinister被教会否认可看作
+是帝国能被挽救的同义词。
+但我不敢期待这么令人高兴的结果!
 
-Once we have reached Lhynn, we will be advised if there is a basis for this hope.//
+只有我们到达帝都Lhynn,
+我们就会知道是否有这样希望的基础存在。//
 
 [EVENEMENTS]	1
 IMAGE ..\\Images\\Ima_0011.tga

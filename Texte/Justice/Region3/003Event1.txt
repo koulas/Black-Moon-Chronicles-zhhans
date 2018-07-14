@@ -1,5 +1,6 @@
 0
-Prince, let us cease this abominable combat, we are brothers before God!//
+王子, 让我们终止这场战斗吧,
+在神的面前我们都是兄弟!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\003Event2.txt	860//

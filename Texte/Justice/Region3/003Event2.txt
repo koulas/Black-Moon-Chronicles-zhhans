@@ -1,5 +1,8 @@
 0
-How dare you? We are in no way responsible for your contemptible betrayal of the Emperor. In flouting your commitments, in fighting for your glory alone, you have betrayed the Lord and drawn our wrath.//
+你多么大胆啊? 我们是绝不会为你
+对皇帝可耻的背叛担责任.
+你藐视你的承诺, 你只为你的虚荣而战,
+你已经背叛了主，激起了我们的愤怒。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\003Event3.txt	927//
