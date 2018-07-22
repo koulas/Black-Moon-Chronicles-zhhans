@@ -1,5 +1,6 @@
 0
-General! We did not know of your helpless situation, what are your orders.//
+将军！我们不知道你处于无助的困境
+你有什么指令。//
 
 [EVENEMENTS]	1
 ALLIANCE	3

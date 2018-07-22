@@ -1,5 +1,6 @@
 0
-Very well, we accept your gesture gratefully. The more the merrier!//
+太棒了，我们接受你真挚的回报，
+多多益善!//
 
 [EVENEMENTS]	1
 GAINS_UNITES	14 2 2

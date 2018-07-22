@@ -1,6 +1,8 @@
 0
-Certainly we are not going to let ourselves be impressed by a band of greenish ragamuffins!
-I am with you, if you give us help in return... We have an Empire to save after all!!//
+当然，我们不能让这帮绿毛小怪
+让我军遭受重创!
+我和你一起，只要你回报我们的援助
+毕竟我们还要去拯救帝国!!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\004Debut3.txt	868//

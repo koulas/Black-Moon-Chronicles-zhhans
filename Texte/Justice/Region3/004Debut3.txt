@@ -1,5 +1,7 @@
 0
-If you help us to get back to our troops, we will give orders to give you assistance. I am aware that the future of the Empire is at stake.//
+只要你愿意帮助我们返回我们的部队，
+我们就会发兵援助于你，
+我意识到帝国的未来正受到威胁。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\004Debut4.txt	855//

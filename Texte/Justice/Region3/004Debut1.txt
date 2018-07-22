@@ -1,7 +1,10 @@
 0
-Ah, Sire, the situation is tricky, we are blocked here by hordes of trolls, orcs and giants.
-The only solution would be to reach the Imperial stables to the North, to gather our cavalry together.
-Although, in view of the help that you are bringing us, it will not perhaps be necessary to alert them!?...//
+啊，大人，情况很棘手，我军被
+成群的巨魔、兽人、巨人包围住了。
+唯一的办法就是到达位于北方的帝国马厩，
+在那里与我们的骑兵汇合。
+虽说看在你给我们带来帮助的份上,
+也许不必要去提醒他们!?...//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\004Debut2.txt	855//

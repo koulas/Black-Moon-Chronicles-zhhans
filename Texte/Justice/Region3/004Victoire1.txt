@@ -1,8 +1,9 @@
 0
-Our very grateful thanks, Lord, you have fought bravely for a cause that is not yours.
+我们万分感谢, 大人,
+你勇敢地与你们的事业无关之事战斗。
 
-Let me show you our gratitude by accepting these few pieces of gold and this regiment of cavalry that will assist you in your next fight.//
+请接受这些黄金和这骑兵团，会对你下来
+的战斗有帮助，以此表达我们感激之情。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\004Victoire2.txt	855//
-

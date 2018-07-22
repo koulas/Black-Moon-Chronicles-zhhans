@@ -1,5 +1,6 @@
 0
-For the Empire, my brothers, let us give our assistance in this fierce combat!!//
+为了帝国，我的兄弟们，
+让我们对这场激烈战斗施以援手!!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\004Event2.txt	863//
