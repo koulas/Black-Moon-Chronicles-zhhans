@@ -1,5 +1,7 @@
 0
-We have been told that the Trolls are not far away, Excellence, and that they seem to be very interested by these two farms to the North.//
+我军刚获知，巨魔们离得并不遥远
+更棒的是，他们似乎对这边两个农场
+很感兴趣而向北移动。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\005Debut2.txt	865//

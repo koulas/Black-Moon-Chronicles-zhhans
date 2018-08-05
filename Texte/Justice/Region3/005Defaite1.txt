@@ -1,5 +1,6 @@
 0
-Our goods have been liquidated, we have nothing left but tears!//
+我们的货物被洗劫一空,
+除了眼泪我们一无所有!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\005Defaite2.txt	926//

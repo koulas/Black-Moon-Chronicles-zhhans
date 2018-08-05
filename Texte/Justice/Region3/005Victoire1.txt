@@ -1,7 +1,10 @@
 0
-Thank you, Prince, you have helped us save our animals, we will be eternally in your debt for your goodness.
+谢谢你，王子.你出手求助了我们的牲畜。
+我们永远欠着你的恩惠。
 
-We are poor people, but let us offer you a few precious objects; they are made of gold, you know!...//
+我们都是些穷苦百姓，
+但也请让我们给你献上一些贵重礼物，
+你要知道它们都是用金打造的!...//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\005Victoire2.txt	865//

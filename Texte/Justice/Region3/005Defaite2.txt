@@ -1,6 +1,7 @@
 0
-No, my good man, here is gold for your needs, for you and yours.
-Justice has never abandoned people in need.//
+不, 我的好人呀,
+这些金子是你需要的, 给你和你一家子。
+正义骑士团永不会抛弃有需要的人。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\005Defaite3.txt	861//
