@@ -1,5 +1,6 @@
 0
-Brothers, we are with you. We will fight our common enemy to death!//
+兄弟们，我们在一起同仇敌忾
+与敌军奋战至死！//
 
 [EVENEMENTS]	3
 ALLIANCE	1

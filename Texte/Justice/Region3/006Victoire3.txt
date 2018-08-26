@@ -1,7 +1,9 @@
 0
-It was what he wanted you to believe; his devilish magic is great, he has misled you.
+这是他想要你相信的，他的邪恶魔法很厉害
+，他正是误导了你。
 
-Go to Lhynn, I will wait for you there, then you will know your destiny.//
+去帝都Lhynn, 我会在那里等你,
+之后你就会知道你的命运。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\006Victoire4.txt	860//

@@ -1,7 +1,11 @@
 0
-Here you are, children of God, ready to accomplish their father's will...
+在这里呀，神的孩子，
+要准备去完成他们父亲的意愿。
 
-Haazheel Thorn and his infernal troops are dug down inside the walls, they are more powerful than ever. But with the help of God, you will conquer!//
+Haazheel Thorn
+和他邪恶的军团已经挖到墙内,
+他们比以往任何时候都更强大。
+但在神的帮助下,你可以战胜他们!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\007Debut2.txt	860//

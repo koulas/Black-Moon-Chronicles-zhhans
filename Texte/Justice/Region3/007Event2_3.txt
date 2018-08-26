@@ -1,7 +1,8 @@
 0
-ENOUGH!!... I cannot accept this blasphemy any more.
+够了...我不能再接受这些亵渎的言语。
 
-Haazheel, you have lived too long, prepare to go back to your people in hell!//
+Haazheel,你活得够长了,
+准备和你的徒子徒孙滚回地狱吧!//
 
 [EVENEMENTS]	1
 DEFECTION	3

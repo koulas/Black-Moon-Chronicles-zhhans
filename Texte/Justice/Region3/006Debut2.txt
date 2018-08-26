@@ -1,5 +1,6 @@
 0
-Who is there? My father, speak, I pray you!//
+谁在那里? 我的神父, 说吧
+我为您祈祷!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\006Debut3.txt	926//

@@ -1,5 +1,8 @@
 0
-Yes, Lord, we are ready to accomplish your supreme will: Haazheel Thorn will finish in the flames of hell, which he should never have left!//
+是的，主啊，
+我们已经准备好完成你至高无上的意志
+Haazheel Thorn将在地狱的炼火中
+终结，他将永无脱身之机!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\007Debut3.txt	865//

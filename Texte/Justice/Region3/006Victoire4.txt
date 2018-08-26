@@ -1,5 +1,6 @@
 0
-The villain, how did he work this miracle?... Surely a pact with the underworld!//
+这个恶徒，是怎么做到这个奇迹的?
+... 肯定是与地下世界有契约!//
 
 [EVENEMENTS]	1
 GAINS_UNITES	340 1 1

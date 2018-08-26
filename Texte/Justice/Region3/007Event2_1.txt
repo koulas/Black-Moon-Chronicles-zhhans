@@ -1,7 +1,9 @@
 0
-We meet again, traitor, you will pay for all you forfeits by the will of the Highest One.
+我们又见面了，叛贼
+你会为罪责付出最高的代价。
 
-You deceived me once, but I swear before God that you will not do it again.//
+你欺骗过我一次，
+不过我在神前发誓，你不可能再做到。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\007Event2_2.txt	869//

@@ -1,6 +1,8 @@
 0
-Prince, this place contains a magic source, an Archangel is waiting there to save us!
-But there are many evil forces surrounding it... Yes, I know, he is there!!//
+王子殿下，这地方有一个魔力源泉。
+一位大天使在那等候拯救我们!
+但是他的周围有太多邪恶的势力
+是的，...他就在那里!!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\006Debut2.txt	860//

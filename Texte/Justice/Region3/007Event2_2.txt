@@ -1,6 +1,8 @@
 0
-Mmmhh, still as hotheaded, I see; you should never go against your temperament.
-Well, now, you are going to understand the power of the Black Moon. It will perhaps be me you will pray to afterwards?!//
+嗯，在我看来你还是那么鲁莽;
+你永远不应该违背自己的性情。
+那么好，现在你就会了解到黑月的力量。
+或许之后你会跟着我祈祷吧?!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\007Event2_3.txt	860//
