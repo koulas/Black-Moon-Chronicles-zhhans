@@ -1,5 +1,6 @@
 0
-Question your heart, Parsifal, you have known this dark soul for many years!//
+扪心自问下, Parsifal,
+你认识这黑暗的灵魂许多年了!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\007Victoire5.txt	860//

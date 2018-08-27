@@ -1,5 +1,6 @@
 0
-Your enthusiasm is unfortunately exaggerated, you have forgotten an old opponent...//
+不幸的是你好像高兴过头了,
+你还有一个老对手呢...//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\007Victoire3.txt	860//

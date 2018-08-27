@@ -1,5 +1,8 @@
 0
-VICTORY!! Haazheel Thorn and his henchmen have really died this time! We only need to wipe out the last forces from the castle and Lhynn will be ours.//
+胜利!! Haazheel Thorn
+和他的党羽这次真的完蛋了！
+我们只需要清除城堡里面的残存敌军
+帝都Lhynn就是我们的了。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\007Victoire2.txt	850//
