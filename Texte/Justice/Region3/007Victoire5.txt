@@ -1,6 +1,10 @@
 0
-Yes, I did not want to believe it, but I know: it's Fratus Sinister.
-Curse him, after being driven away by his own people, he joined the dark forces of the Black Moon. Now he is showing his true colors, those of a hell hound!!//
+是的尽管我不愿相信，但我是知道的
+就是Fratus Sinister吧。
+他这该死的，被他自己的教团中人驱逐后，
+他加入了黑月军的黑暗势力，现在的他
+正展示出他真正的本色，
+就是那些地狱里的恶犬!!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\007Victoire6.txt	865//

@@ -1,6 +1,7 @@
 0
-VICTORY!!!
-Prince, the Empire has been delivered from the abominable control of the forces of darkness!//
+胜利!!!
+王子殿下, 帝国已经从黑暗势力的
+可恶控制中被解放出来了!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\008Victoire2.txt	860//

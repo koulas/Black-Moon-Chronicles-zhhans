@@ -1,5 +1,7 @@
 0
-Prince, your determination is noble, but the task is hard, Fratus has obtained the services of troops of the Black Moon: demons, the living-dead, and giants are with him.//
+王子殿下, 你的目标是高尚的,
+但任务是艰难的, Fratus已经得到黑月军
+力量的支持:恶魔、将是、巨人都与其联手。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\008Debut3.txt	860//

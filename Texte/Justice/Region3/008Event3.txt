@@ -1,5 +1,7 @@
 0
-I will take care of it with pleasure, Prince. His head will decorate a pike before the sun has gone down behind the mountains.//
+我很乐意处理该事,王子殿下。
+太阳落山后，
+他的首级就会成为长矛上的装饰。//
 
 [EVENEMENTS]	1
 DEFECTION	3

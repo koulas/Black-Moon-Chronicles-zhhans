@@ -1,7 +1,11 @@
 0
-Certainly, Parsifal, we must choose a new Emperor who will restore peace for his subjects...
+确实如此, Parsifal,
+我们应该选择一位能让臣民恢复和平的皇帝
 
-I would like to be that Emperor. I am perhaps giving in to my ambitions, but I believe that I can take on this task while preserving justice and honor in the Imperial lands.//
+我想成为这样的皇帝.
+我或许多少受雄心所动,
+但我相信我能承担让这帝国大地
+保存正义与荣誉的任务.//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\008Victoire4.txt	860//

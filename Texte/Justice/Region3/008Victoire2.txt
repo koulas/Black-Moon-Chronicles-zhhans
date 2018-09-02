@@ -1,7 +1,10 @@
 0
-ALLELUIA! My brothers, let us savor the joy of having substituted order for chaos, honor for treachery!
+哈利路亚! 我的兄弟们,
+我们体会到了以秩序取代混乱,
+荣誉取代背叛的喜悦之情!
 
-Wismerhill, it is now our duty to choose a new destiny for the Empire.//
+Wismerhill,
+如今我们有责任为帝国选择新的未来。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\008Victoire3.txt	865//

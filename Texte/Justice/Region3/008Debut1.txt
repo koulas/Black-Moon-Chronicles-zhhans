@@ -1,6 +1,10 @@
 0
-Here are the walls of the Imperial Castle, the Emperor's assassin is within, coming back to the scene of the horrible crime he has committed...
-Lord, be assured that he will not commit any more, he will soon be before you and will have to answer for his actions; I swear to you.//
+这里是帝国城堡的城墙,
+刺杀皇帝的弑君者就在里面,
+让人回想起他犯下可怕罪行的场景...
+主啊，请放心，他不会再犯下任何罪行。
+我向你发誓，他很快就会到你跟前
+坦白他的行径。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\008Debut2.txt	865//

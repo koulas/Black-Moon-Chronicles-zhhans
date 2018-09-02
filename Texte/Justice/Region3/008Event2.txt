@@ -1,7 +1,11 @@
 0
-At last I see Sinister; the traitor is well guarded by his legions of devils, but my paladins will send them back to hell.
+我最近一次看到Sinister;
+这个叛贼被一群恶魔所护卫,
+不过我的圣骑士会将它们送回地狱的。
 
-As for their leader, I leave you to take care of him, Wismerhill; I cannot kill a man of the church, even one as perverted as he is.//
+至于它们的首领,我会把他留给你处理,
+Wismerhill,我不能杀任何教会的人
+哪怕是像他那么堕落的家伙。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\008Event3.txt	865//

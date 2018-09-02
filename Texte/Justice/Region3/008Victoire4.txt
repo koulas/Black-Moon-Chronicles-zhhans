@@ -1,8 +1,13 @@
 0
-You are indeed giving in to your ambitions, Wismerhill, rather than answering God's desires.
-But you have proved your bravery many times beside me, I acknowledge; and if your will to become Emperor is so strong, it is perhaps due to the will of God?!
+你确实囿于自己的野心 Wismerhill,
+而不是去回应神对你的期待。
+不过我承认，你已经多次证明你的勇毅;
+如果你成为皇帝的意愿真那么强烈,
+或许这就是神的意志?!
 
-As for me, I do not wish to have that honor. Serving God requires humility that is not present in such responsibilities, and I am impatient to rejoin my country and my own people.//
+至于我自己，我是不会要这样的荣誉
+这种责任中是无法体现服侍神的谦卑的,
+且我也不耐烦再回到我的国家和子民中去.//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region3\\008Victoire5.txt	865//
