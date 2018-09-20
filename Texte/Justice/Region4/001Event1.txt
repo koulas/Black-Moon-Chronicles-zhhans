@@ -1,13 +1,15 @@
 2
-You have arrived just in time, lord. My name is P鋜n, and I belong to this village which is the prey of incessant attacks by these infamous Orcs.
-They swoop down from the neighboring mountains to sack our hovels... We are already so poor!
+你来的得真及时, 大人。
+我叫Parn，我的村庄正被臭名昭著的兽人们
+不断掠夺和蹂躏。他们从附近山脉冲下来
+进入我们小屋里面洗劫，
+尽管我们已经一贫如洗。
 
-Will you help us to push them back into their lairs?//
-Yes, I agree to defend your interests.//
-No, I refuse. I have other urgent matters to deal with.//
+你能帮我们把他们赶回巢穴吗?//
+是的，我会保护你们的利益。//
+不，我拒绝，我还有更紧急的事情做。//
 
 [EVENEMENTS]	3
 REQUESTER	..\\Texte\\Justice\\Region4\\001Event1_1.txt	859//
 DEFECTION	1
 REQUESTER	..\\Texte\\Justice\\Region4\\001Event1_2.txt	859//
-

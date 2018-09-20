@@ -1,6 +1,8 @@
 0
-Thank you for your aid, you have saved our village, you can count on our eternal gratitude.
-Whenever you need help, you can count on us and on our brother Dwarves.//
+多谢你帮忙,你拯救了我们的村庄 ,
+你该接受我们的无限感激.
+以后无论你何时需要帮忙
+你都可以找我们和我们的矮人族兄弟。//
 
 [EVENEMENTS]	1
 IMAGE ..\\Images\\Ima_0003.tga
