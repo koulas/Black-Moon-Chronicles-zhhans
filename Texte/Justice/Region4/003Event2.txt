@@ -1,7 +1,7 @@
 0
-You did not wish to listen to my advice... I'm afraid you must perish now.//
+你不肯听我的劝告，
+那么我怕你现在就要灭亡。//
 
 [EVENEMENTS]	1
 DEFECTION	3
 //
-

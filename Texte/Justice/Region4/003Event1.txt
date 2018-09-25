@@ -1,7 +1,7 @@
 0
-Come no closer, by the Black Moon, or you will perish between the putrid fingers of my legions of the dead!//
+不要太靠近黑月军，
+否则你就是死在我死亡军团的腐爪之下!//
 
 [EVENEMENTS]	1
 DEFECTION	2
 //
-

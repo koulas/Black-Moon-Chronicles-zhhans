@@ -1,13 +1,15 @@
 2
-Ah lord, your presence is for us a gift of mother nature.
-Filthy Trolls have unfairly taken advantage of our absence to seize all our goods; we have spotted their encampment not far from here, but we will need help to overcome them.
-Could you help us to rid the forest of these scourges?//
-Yes, the Trolls are a race corrupted by evil, we are with you!//
-No, we will not interfere in your money squabbles!//
+主啊！你的出现就是上天对我们的恩赐。
+肮脏的巨魔趁我们不在抢占我们所有财物;
+我们发现他们的营寨距离这里不远，
+但我们需要援手才能战胜他们。
+你愿意帮助我们除掉这些森林里的祸害吗?//
+是的，巨魔是被邪魔所腐蚀的种族
+我们会和你们一起作战!//
+不，我们不会介入你们的钱财冲突!//
 
 [EVENEMENTS]	4
-ALLIANCE	1	
+ALLIANCE	1
 REQUESTER	..\\Texte\\Justice\\Region4\\002Debut1_1.txt	856//
 DEFECTION	1
 REQUESTER	..\\Texte\\Justice\\Region4\\002Debut1_2.txt	856//
-

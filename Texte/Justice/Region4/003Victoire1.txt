@@ -1,7 +1,7 @@
 0
-These Orcs were soft, and the skeletons, crisp but fragile; oh for a real battle!//
+这帮兽人软弱不堪，骷髅鬼们脆弱易碎
+啊，来场真正的战斗吧!//
 
 [EVENEMENTS]
 REQUESTER	..\\Texte\\Justice\\Region4\\003Victoire2.txt 865
 //
-

@@ -1,6 +1,7 @@
 0
-Lord, it appears that the power of these malevolent creatures comes from their church and the cursed priest established in it.
-We should offer him a trip back to hell!//
+大人，看起来这些恶毒的生物
+来自他们一个该死的牧师创建的教会。
+我们该把他送回地狱去!//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region4\\003Debut3.txt	855

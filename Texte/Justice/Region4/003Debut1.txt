@@ -1,5 +1,6 @@
 0
-Aahh, here's a calm little camp that's just about to get a rude awakening!//
+啊这里是个平静的小营地,
+但它就要被粗暴地惊醒了!//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region4\\003Debut2.txt	873

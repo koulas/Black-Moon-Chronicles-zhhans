@@ -1,6 +1,8 @@
 0
-Thank you for your help; your valor and your nobility shall sing in our hearts and in those of all our brother Elves.
-Here is a part of our gold to help reward you for your services.//
+感谢你的援助; 你的勇敢和高贵品格
+我们必将铭记于心，并在精灵兄弟中传颂。
+这些是我们黄金的一部分，
+请作为你功劳的回报吧。//
 
 [EVENEMENTS]	1
 IMAGE ..\\Images\\Ima_0008.tga
