@@ -1,8 +1,11 @@
 0
-Oh, here you are, peers of the Empire.
-Unfortunately, you arrive too late to save our city, Kendrin, which is the prey of the traitors of the Black Moon.
-However, we are ready to die to save Aleim, our powerful master, who still struggles against these evil forces...
-Quick, help us to reestablish Imperial order over our city!//
+哦，你们到了，帝国的同盟者们.
+很不幸的是,你们到得太迟来不及拯救
+我们的城市Kendrin,已被黑月叛军洗劫。
+不过我们已经准备拼死去救护Aleim,
+我们最有力的领主, 他仍在与邪恶势力奋战
+请尽快帮助我们在这城市重建
+帝国的管治秩序!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region4\\005Debut2.txt	865//

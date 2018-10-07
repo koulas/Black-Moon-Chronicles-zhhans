@@ -1,5 +1,6 @@
 0
-Do not approach, bigots, or you will taste my almighty powers!//
+不要再靠近了, 盲信者们,
+又或者让你们尝尝神赐予我们的力量!//
 
 [EVENEMENTS] 1
 DEFECTION 3

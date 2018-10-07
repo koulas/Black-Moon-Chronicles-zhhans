@@ -1,7 +1,15 @@
 0
-You will doubtless have the chance to extend your talents further, Ghorghor, a scout has just given me the reason for the troubles that this region is suffering: an extremely powerful necromancer, having found refuge in the mountains, is controlling an army of Orcs and living-dead and making them devastate the surrounding areas.
+Ghorghor,你无疑会有机会进一步
+发挥你的才能。一个侦察兵
+刚告诉了我这个地区所遭受的麻烦的因由:
+有一个极其强大的死灵法师，隐匿在山区里，
+他控制着一支兽人和僵尸组成的部队，
+并对周边地区进行摧残。
 
-He calls himself Harrak and is to be found close to the Eastern mountains. We have to dislodge him as fast as possible and kill him. Let's go...//
+他自称自己叫 Harrak
+并且发现他正在靠近东部山脉.
+我们必须尽快驱逐他们，消灭他们
+尽快动手吧...//
 
 [EVENEMENTS]	1
 IMAGE ..\\Images\\Ima_00018.tga

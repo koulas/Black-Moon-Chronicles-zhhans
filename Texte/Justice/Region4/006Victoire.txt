@@ -1,8 +1,12 @@
 0
-Thank you for having saved me, lord Wismerhill, I shall be eternally in your debt...
-To show you my gratitude, let me lend you two sections of my best men: they will be with you until the end of your next battle! I hope they will be useful to you and that they will be able to come back alive.
+感谢你救我, Wismerhill大人,
+你的大恩我永不忘...
+为表我的感激之情，
+我借给你我的兵马中最好的两支部队；
+他们会和你在一起，直到下一场战斗结束，
+我希望他们对你有用，且他们能活着回来。
 
-I wish you a good journey, lord.//
+我祝你一路顺风, 大人.//
 
 [EVENEMENTS]	1
 GAINS_UNITES 20 2 2

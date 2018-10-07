@@ -1,5 +1,6 @@
 0
-Thank you, my lords, your order has never so well deserved its name. Justice has been rendered. We can live once more in peace.//
+我的主，感谢你，你的指示从来都是必然.
+正义已经重新彰显.我们再度恢复和平。//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region4\\005Victoire2.txt	860

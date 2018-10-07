@@ -1,6 +1,7 @@
 0
-Although the comparison with your fellow soldiers is hardly flattering, I will help you.
-Where is your superior?//
+虽然相较之下你手下士兵不太讨人喜欢,
+不过我会帮助你的.
+你的上司在哪?//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region4\\006Event1_2.txt	863
