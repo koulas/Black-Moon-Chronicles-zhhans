@@ -1,17 +1,26 @@
 0
-Lord Wismerhill, you have commanded our Paladins of Justice brilliantly, I congratulate you on your valor as a fighter and a leader of men.
-I was not mistaken in calling you to help Justice and the Empire.
+Wismerhill大人,
+你出色地指挥正义骑士团的圣骑士们,
+我恭喜你拥有成为战士及指挥者的勇气.
+我让你帮助正义骑士团与帝国果然没错。
 
-You see, a great battle is being prepared against the Black Moon. The Empire and its allies will be opposed to Haazheel Thorn and his infamous cohort of devilish creatures.
+如你所见，一场艰难大战即将打响。
+帝国与他的同盟将联起手来对抗
+Haazheel Thorn和他那些丑恶的邪物。
 
-First we have to rally the troops of Light who will give us their support during this battle...
+首先我们需要团结光明教团军
+他们将在这场战斗中给予我们支持...
 
-Beware of them, I have but very little confidence in their chief, Fratus Sinister, I suspect him of wishing to betray the Emperor.
-As from today, I shall be at your side to help you distinguish good from evil.
+不过还是要小心他们，
+尤其他们首领Fratus Sinister,
+我不是很信任，我怀疑他想要背叛皇帝。
+从今起，我将在你身边帮你区分善恶。
 
-I know your affinity with the winds, Wismerhill, now this region shelters a rocky peak forged by them where they meet; it will perhaps be useful for you to go there to receive their teaching.
+Wismerhill,我知道你是风精灵之眷属。
+现在他们隐蔽在这地区岩石峰;
+去那里向他们学点东西或许对你有用。
 
-We have to go now, destiny awaits us.//
+现在我们要动身,命运在等待着我们。//
 
 [EVENEMENTS]	1
 GAIN_PARSIFAL

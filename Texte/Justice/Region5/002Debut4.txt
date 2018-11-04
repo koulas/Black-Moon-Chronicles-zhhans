@@ -1,5 +1,7 @@
 0
-We shall not fail our word, knight; but from here I can only see some Trolls, not a Black Moon camp.//
+骑士，我们不会失败;
+但在这里我们只看到一些巨魔,
+并没有黑月军大营.//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region5\\002Debut5.txt	866

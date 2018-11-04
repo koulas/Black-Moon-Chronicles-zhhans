@@ -1,8 +1,12 @@
 0
-What a fight! The blood shed by our enemies will fill our bruised hearts. Unfortunately, the struggle against evil does not end so; we have located a large camp of the Black Moon to the South whose inhabitants might well be those causing all the plundering in the region.
+好一场恶战! 敌人的鲜血可以弥补
+我们的身心. 不过遗憾的是,
+与邪恶的斗争仍未结束; 我们已发现南边
+有一个黑月军的大营，掠夺该地区的家伙
+就居住在那。
 
-We are going to help the poor people recover their goods. Are you with us?//
+我们准备帮助可怜的穷人夺回他们财物。
+你跟我们一起吗?//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region5\\001Victoire2.txt	860//
-

@@ -1,7 +1,9 @@
 0
-Strange, indeed... The Knight Light did however clearly indicate it was a large camp, not a rabble of brainless beasts!
+确实奇怪，但是光明教团的骑士明确指认有
+一个大营寨, 而不是只有一帮没脑子魔兽!
 
-Here he comes now, perhaps he could clear up this matter!//
+这不他现在来了,
+或许他能搞清楚这事!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region5\\002Debut3.txt	866

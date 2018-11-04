@@ -1,8 +1,9 @@
 0
-Welcome my brothers, may the almighty protect you.
-Some hell hounds, devoted to the Black Moon, are entrenched in this small village that should be wiped from the map!
+欢迎，我的兄弟,愿全能的主庇护你。
+一些忠诚于黑月军的地狱走狗就盘踞在这小村庄
+应该把他们从地图上抹除!
 
-Are you with us?//
+你跟我们一起干?//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region5\\001Event2.txt	860//

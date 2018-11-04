@@ -1,5 +1,7 @@
 0
-Never will we abandon good folk, when the money they manage to eke out from the soil has been stolen by infamous creatures.//
+我们决不能抛弃善良的百姓,
+尤其是当他们辛劳地从土地上获得的财物
+被臭名昭着的魔物盗走时.//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region5\\001Victoire3.txt	866//

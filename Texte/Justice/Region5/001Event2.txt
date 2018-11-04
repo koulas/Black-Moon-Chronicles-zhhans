@@ -1,7 +1,9 @@
 0
-We will always be with those who try to defend noble causes. The troops of the Black moon and their chiefs are inspired by hell, we must rid the earth of their presence...
+我们总是和捍卫崇高事业的人一起.
+黑月军队和他们的主子就是受地狱的鼓动,
+我们应该把他们从这世界上消除...
 
-For the Empire, CHAAARGE!//
+为了帝国, 冲啊!//
 
 [EVENEMENTS]	1
 ALLIANCE	1//

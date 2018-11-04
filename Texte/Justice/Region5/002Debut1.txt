@@ -1,5 +1,7 @@
 0
-It is strange, Sire, we have not been told of any Black Moon camp: only a few Trolls seem to have set up tents on the foothills to the West.//
+真奇怪呀, 阁下,
+我们没了解到有任何的黑月军营寨:
+好像只有少数巨魔在西边山脚搭起帐篷。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region5\\002Debut2.txt	860

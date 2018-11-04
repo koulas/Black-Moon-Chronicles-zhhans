@@ -1,5 +1,6 @@
 0
-Prince, the enemies are within striking distance, we have to give the assault immediately!//
+王子, 敌军已经进入视野范围内,
+我们必须马上发动进攻!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region5\\002Debut4.txt	860
