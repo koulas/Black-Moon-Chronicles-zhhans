@@ -1,5 +1,6 @@
 0
-Ah, the dogs; the men of Fratus have come to prevent me from reaching the Peak of the Winds!//
+哼这帮狗贼; Fratus的人
+想要阻止我登上风精灵的山峰!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region5\\003Debut2.txt	860//

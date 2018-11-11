@@ -1,6 +1,6 @@
 0
-The joy of victory is this day sullied by treachery.
-Let us pray that Light emerges from the shadows in which it is hiding!//
+今天胜利的喜悦被背叛所玷污.
+求上天帮忙把光明教团军的阴谋昭示吧!//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region5\\002Victoire2.txt	873//

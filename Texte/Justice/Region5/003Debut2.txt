@@ -1,6 +1,7 @@
 0
-Damnation, going against my prayers and the will of the Almighty, the soldiers of Light are continuing to serve dark purposes...
-I cannot bear to watch this infamy.//
+对我们祈祷的全能的主进行诅咒和抵抗
+，光明教团的军士继续为邪恶目的效力。
+我不能再眼睁睁看到这种恶行.//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region5\\003Debut3.txt	855//

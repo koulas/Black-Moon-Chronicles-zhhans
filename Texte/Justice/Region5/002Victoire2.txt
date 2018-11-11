@@ -1,5 +1,6 @@
 0
-Prince, we have found gold in the encampment of Light.//
+王子殿下, 我们在光明教团军的营地
+找到了黄金。//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region5\\002Victoire3.txt	860//

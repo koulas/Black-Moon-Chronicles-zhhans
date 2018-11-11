@@ -1,5 +1,6 @@
 0
-Somewhat primitive language, indeed, but, after all, perhaps he doesn't realize how truly he speaks!//
+哼，确实是些野蛮原始的话,
+不过或许他并不意识到这些话有多真!//
 
 [EVENEMENTS]	1
 DEFECTION	1
