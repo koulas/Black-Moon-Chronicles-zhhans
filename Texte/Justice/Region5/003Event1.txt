@@ -1,6 +1,7 @@
 0
-Wismerhill, we're coming to you...//
+Wismerhill,
+我们正要来找你...//
 
 [EVENEMENTS]	1
 ALLIANCE	1
-//	
+//
