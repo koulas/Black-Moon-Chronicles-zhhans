@@ -1,5 +1,6 @@
 0
-But what has this stranger done to have become the prey of these brigands?//
+不过这个陌生人做了什么，
+才使他变成匪徒们的猎物?//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region5\\005Event3.txt	861//

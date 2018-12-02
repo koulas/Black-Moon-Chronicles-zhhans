@@ -1,5 +1,6 @@
 0
-I am yours, brother winds... I am listening to you, grant me your wise words...//
+我是你的风精灵兄弟...
+我在倾听你的事。 给予你智慧的答复...//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region5\\003Victoire2.txt	928//

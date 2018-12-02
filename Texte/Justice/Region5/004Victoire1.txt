@@ -1,7 +1,7 @@
 0
-Prince, we have taken possession of the gold!
-This booty will allow us to make our order spread over the whole Empire.
-Alleluia!//
+王子殿下，我们已经拿到这些黄金了!
+这批战利品可以助我们军团横扫整个帝国。
+哈利路亚!//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region5\\004Victoire2.txt	860//
