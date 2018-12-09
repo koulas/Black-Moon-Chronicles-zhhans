@@ -1,5 +1,6 @@
 0
-Calm down, what the devil is going on here, why such a panic?//
+冷静一下，恶魔在这里做了些什么?
+为什么如此恐慌？//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region5\\006Event3.txt	861//
