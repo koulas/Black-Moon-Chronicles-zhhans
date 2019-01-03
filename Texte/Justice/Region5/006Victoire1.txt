@@ -1,6 +1,9 @@
 0
-Let us pray, my brothers, that the devilish forces do not spread over the Empire as they have done in this city.
-But so long as there are pure hearts to combat them, hope remains.//
+我的兄弟们,让我们祈祷
+邪恶的力量不能将在这城里的所作所为
+散布到整个帝国.
+只要我们能以纯洁的心灵去对抗他们，
+希望犹在。//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region5\\006Victoire2.txt	928//

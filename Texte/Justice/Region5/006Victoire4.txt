@@ -1,5 +1,8 @@
 0
-Follow the path as far as the monolith standing to the west, climb to its summit and listen to us... We will wait for you, Wismerhill, but make haste, time is short.//
+沿着这条小路向西去到山顶，
+爬上山顶，听我们说...
+我们会等候你, Wismerhill,
+不过要抓紧, 时间紧迫。//
 
 [EVENEMENTS]	1
 IMAGE ..\\Images\\Ima_0022.tga

@@ -1,5 +1,6 @@
 0
-Wismerhill, Wismerhill, we are waiting for you....//
+Wismerhill, Wismerhill大人,
+我们终于等到你了。//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region5\\006Victoire3.txt	865//
