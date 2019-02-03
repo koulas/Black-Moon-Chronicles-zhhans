@@ -1,5 +1,6 @@
 0
-I do hope so, Prince, but Light might in its turn start a fratricidal war!//
+我亦愿如此，王子殿下，但是光明教团
+可能会挑起一场自相残杀的战争!//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\RegionDebut3.txt	860//

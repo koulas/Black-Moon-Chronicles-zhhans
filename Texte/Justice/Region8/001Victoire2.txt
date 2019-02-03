@@ -1,7 +1,10 @@
 0
-Thank you for your help. We are in your debt for this stroke of daring that saved our lives and the integrity of our city.
+感谢你的救助，多亏你勇敢的出击
+才能拯救我们的生命和保护城市的完好。
 
-I know that your task does not end here, and be sure that we will do everything to finish off the traitors of the Black Moon.//
+我知道你的征程不会这里终止,
+而我们定会了结黑月军的叛贼
+全力以赴。//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region8\\001Victoire3.txt	860//

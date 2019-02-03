@@ -1,9 +1,12 @@
 0
-We are at your side, Prince, the blood of our enemies shall mingle with the purple of our capes..
-We shall have our regiments join us to the south of Moork, make haste now!...
+我们站在你这边 王子殿下,
+我们敌人的鲜血会浸染我们的紫袍的..
+我们应该和我们的军团
+马上赶去Moork的南边!...
 
-I insist also in sharing our gold, it will be useful to you to reinforce your army for the final assault.
-Good luck, and may God preserve you...//
+我们仍坚持要求分我们应得黄金,
+这对增强你们军队在最后的进攻中很有作用.
+祝你好运，愿神能保护你//
 
 [EVENEMENTS]	1
 IMAGE ..\\Images\\Ima_0013.tga
