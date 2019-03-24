@@ -1,8 +1,9 @@
 2
-Without your help, the task is impossible!//
-Shame on you, God will fling down his wrath on your heads!//
-A disunited Empire is no longer anything, anarchy will cause its slow decline then its fall.
-In refusing us your support, you betray the whole Empire!//
+没有你的援助，事情必难成功!//
+为你感到羞耻，神会将怒火降临到你头上!//
+帝国一旦分裂就是国将不国,
+无秩序状态将导致分崩离析.
+你拒绝支援我们,你就是背叛了整个帝国!//
 
 [EVENEMENTS]			2
 REQUESTER ..\\Texte\\Justice\\Region8\\004Debut3_1.txt	868

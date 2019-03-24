@@ -1,7 +1,12 @@
 0
-We went the right way, even if the hounds of hell wait for us here, the Baron Greldinard, with neither faith nor king, is not awaiting us there with his troops.
+我们走在正确的道路上,
+纵使有上千地狱恶犬在这等着我们,
+Greldinard男爵,
+这个目无君上又无信仰的家伙,
+他不会带着他的部队在这里等我们的。
 
-The way towards Moork becomes clearer. Now, for Justice, charge!//
+通向Moork的道路越益明晰.
+现在，为了正义，冲啊!//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\003Debut2.txt	865

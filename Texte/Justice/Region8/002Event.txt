@@ -1,5 +1,7 @@
 0
-You are about to die in the flames of hell, band of innocents; your holinesses are about to be reduced to the state of troll excrement! AH AH AARHH....//
+你们要死于地狱的烈焰中,无辜的家伙们;
+你们功业将会沦为巨魔们的粪便一般!
+阿哈，哈哈哈哈....//
 
 [EVENEMENTS]	1
 DEFECTION	2
