@@ -1,7 +1,9 @@
 0
-Save us, Lord!...
+主啊 拯救我们!...
 
-Garrison, the time for revolt has come; let us join our brothers, sent to us by the Lord!...//
+Garrison, 是时候反正了;
+让我们重新回归兄弟们之间,
+凭借主之力以行!...//
 
 [EVENEMENTS]	1
 ALLIANCE	3

@@ -1,5 +1,6 @@
 0
-Traitor baron, I challenge you... Fight if you dare!//
+叛变的男爵, 我要挑战你...
+有胆量就对决吧!//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region8\\004Event5.txt	858//

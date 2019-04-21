@@ -1,6 +1,7 @@
 0
-Fools, did you think I would surrender so easily?
-Now, you are going to taste my personal guard... Very personal, AH AH AAARH//
+傻子，你以为我会那么容易投降吗?
+现在你就要试一下我个人保护的滋味
+,非常私人，啊哈，哈哈哈哈//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region8\\004Event4.txt	860//

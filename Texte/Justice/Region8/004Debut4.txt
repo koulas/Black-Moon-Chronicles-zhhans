@@ -1,7 +1,10 @@
 2
-Of course, the task is hard, and death will be our guest...//
-I offer you 5000 pieces of gold to compensate for your losses and enable you to rebuild your army.//
-Think of your children, struck down by the shame of your defection, will you let them think you are a coward?//
+当然这是个极其艰巨的任务，
+死神将会拜访我们//
+我提供给你5000块金币以补偿你损失
+，并且可以让你重建军队。//
+想想你的孩子,被你背叛的耻辱所击倒,
+你希望他们认为你是个懦夫?//
 
 [EVENEMENTS]			4
 PERTES_OR			1000

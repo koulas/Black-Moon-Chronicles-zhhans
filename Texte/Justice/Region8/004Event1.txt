@@ -1,5 +1,9 @@
 0
-Tremble mortals, the wrath of God will fall upon this accursed city. The Lord has sent me to finish off his work; be proud, Paladins of Justice, you have been selected to be the avenging arm of God!//
+颤抖吧凡人，
+神之怒将会降临在这被诅咒的城市!
+主已经命我去完成他的工作，
+骄傲吧 正义骑士团的圣骑士们，
+你们已被选为神的复仇之矛。//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region8\\004Event2.txt	860//

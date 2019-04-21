@@ -1,8 +1,11 @@
 0
-You are right, it is time to act!
-After our victory, the Emperor will agree to allow us to raise Kraks in the Empire. So we will be able to defend his sovereignty and to elevate our order to the rank it deserves!
+你说得对，是时候行动!
+我们打胜仗后,皇帝就会允许我们在帝国
+境内筹建骑士堡. 由此我们可以捍卫
+他的神圣主权，
+并让我们军团获得应有的地位!
 
-Away to Lhynn, the Imperial capital!...//
+出发向帝国首都 Lhynn 前进!...//
 
 [EVENEMENTS]	1
 IMAGE ..\\Images\\Ima_0005.tga
