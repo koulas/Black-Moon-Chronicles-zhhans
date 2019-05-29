@@ -1,5 +1,6 @@
 0
-But what is Light doing? They were supposed to cover our right flank!//
+可是光明教团军在干嘛？
+他们本应该掩护好我们的右翼!//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\007Event2_2.txt	862

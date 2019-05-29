@@ -1,5 +1,9 @@
 0
-Yes, Prince, it is a great joy, but we have not yet triumphed: Haazheel Thorn, at the very moment of being struck down, disappeared in a magic cloud.. I fear that he will cross our path once again.//
+是的,王子殿下,这真是普天同庆的日子,
+不过我们还不可以算是彻底胜利:
+Haazheel Thorn,在被击倒的瞬间,
+消失在魔云中..
+我担心他会再度出现在我们面前。//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire3.txt	853

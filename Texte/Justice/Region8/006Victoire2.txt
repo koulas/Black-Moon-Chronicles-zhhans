@@ -1,5 +1,7 @@
 0
-You are very generous but, you see, a cow in an army, that could slow us down a little!//
+你真是太慷慨了
+不过你看，军队里面有头牛的话,
+多少会拖慢我们的!//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\006Victoire3.txt	861

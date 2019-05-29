@@ -1,7 +1,12 @@
 0
-Indeed, it is to be feared that our paths will cross again; whatever happens, the Black Moon has lost numerous forces this day, and it is with joy that I savor this great victory over my old enemy.
+实际上, 确实应该担忧我们再次遇见他;
+无论将发生什么,从今起黑月军已经
+损失大多数力量了,
+对于能品尝到对这个宿敌的大胜，
+我真是太高兴激动了。
 
-So there you are, Fratus, I thank you for your support, although it came very late!//
+这都是因为有你在, Fratus,
+我感激你的支援,虽然来得太迟了!//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire4.txt	862
