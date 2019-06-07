@@ -1,5 +1,8 @@
 0
-Brothers, we have been betrayed, the blood spilt on this plain was spilt in vain. We must nevertheless continue to fight against the enemies of the Empire. I have pledged my oath to it.//
+兄弟们,我们已经被背弃了,
+我们在这片平原上流的血也是白流了。
+尽管如此，我们还是必须继续与帝国的敌人
+作战，我已为此祈祷立誓了。//
 
 [EVENEMENTS]	1
 IMAGE ..\\Images\\Ima_0016.tga

@@ -1,7 +1,10 @@
 0
-I did however send you numerous couriers to ask you to give us support, they never came back! Your attitude could have cost us our lives, you are not worthy of our trust.
+可是我向你派出了那么多信使，
+要求你给予我们援军，可他们没有再回来！
+你的态度让我们损失大量士兵，
+你不值得我们再信任。
 
-Farewell former peer of the Empire!....//
+再见吧，帝国的旧同僚!....//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire6.txt	860
