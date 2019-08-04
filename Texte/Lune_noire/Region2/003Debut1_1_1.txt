@@ -1,6 +1,12 @@
 0
-You are still very young and despite your achievements, you still do not know where true power resides. It lies in the mastery of spells and prayers. For this battle, magic power counts as much as the valor of the fighters.
+你还太年轻，尽管你有一些成就.
+但你仍然不知道真正的力量在哪里。
+它在于对法术和祝祷的掌握。
+这场战斗里，魔力和战士的勇气一样重要。
 
-Do not forget, we must triumph very quickly since if the members of the council finish their invocation, they will be protected by magic and we will no longer be able to approach them... Have you understood?
+别忘了，我们必须尽快取得胜利
+如果教团的成员完成集体祈祷，
+他们将受到魔法的保护，
+我们将无法再接近他们，你明白了吗?
 
-Now, go! You still have a lot to do!//
+现在出发吧! 你还有很多事情做的!//

@@ -1,5 +1,13 @@
 0
-It would appear that the Elves have taken advantage of our coming to the lands of Light to declare war... on all those who dare to approach their forests. I already have a difficult task with Light without having to deal with the Elves. Ghorghor! Go to their forests with the battle-hardened troops. Provoke them! Inflict a crushing defeat on them and make them pay a tribute that is so heavy that they will give up attacking us for ever more! Murata will accompany you...//
+看起来精灵们正利用我们来到光明教的地域
+向哪些敢于靠近他们森林区域的人宣战...
+我已经解决了光明教这个麻烦，
+所以不必要再理会精灵们。
+Ghorghor! 把能打硬仗的部队带去森林，
+挑衅他们! 把他们彻底打垮
+让他们付出沉重的代价，
+让他们放弃不敢再攻击我们!
+Murata会陪着你的...//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region2\\001Debut2.txt	855

@@ -1,5 +1,20 @@
 0
-The hour is serious, my child! Fratus Sinister has managed to gather together the great council of the Order of Light. The Great Council is composed of the twelve most powerful priests and the twelve most powerful magicians of Light. If they succeed in combining their mystical powers, they can create serious difficulties for us. To interrupt their invocations, we will have to go into the heart of their meeting and kill at least one of the priests and one of the magicians. What is more, we will have to act quickly since they are calling up a protective spell. If they succeed, we will no longer be able to approach them and we will have failed. All that will not be easy to accomplish, so I have decided to act personally beside you to help you.//
+现在是关键的时机了, 我的孩子!
+Fratus Sinister已经在组织召集
+光明教团里的大议会.
+大议会由12个最强力的牧师和
+12位最强魔法力量的光明教骑士组成。
+如果他们成功结合他们的神秘力量
+他们就会给我们带来严重的困难，
+为了中断他们开会祈祷，
+我们不得不进入他们会议的核心，
+杀死至少一名牧师和一魔法师。
+更重要的是，我们必须尽快行动
+因为他们正在召唤一个保护法术，
+如果他们成功，我们就不能再接近他们。
+那我们将会失败。
+所有这些事情都不是容易达成的，
+因此我决定亲自动手帮助你。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region2\\003Debut1_1.txt	865
