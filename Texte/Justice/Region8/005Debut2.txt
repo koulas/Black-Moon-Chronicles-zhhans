@@ -1,5 +1,8 @@
 0
-Right, we are going to bring them help. General Ghorghor, you have I believe a certain sympathy for the soldiers of Light! Or should I say affection?//
+对的，我们马上要出手援助他们。
+Ghorghor将军,
+我相信你对光明教团军抱有一定同情!
+又或者我应该说是感情?//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\005Debut3.txt	855

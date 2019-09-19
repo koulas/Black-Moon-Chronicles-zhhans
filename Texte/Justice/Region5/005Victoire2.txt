@@ -1,6 +1,8 @@
 0
-You too are a rather fine blade; an ally such as you would be an advantage for us and for the destruction of the forces of the Black Moon!
-Will you join us?//
+你也是个刀法相当精纯的人，
+和你这样的结盟对我们是一大补强
+对黑月军的势力而言就是一大削弱!
+你愿意加入我们吗?//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region5\\005Victoire3.txt	827//

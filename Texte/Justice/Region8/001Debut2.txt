@@ -1,5 +1,6 @@
 0
-General, the Black Moon is there!! Living-dead and demons accompany it.//
+将军,黑月军就在那里!!
+僵尸和恶魔伴随着它。//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\001Debut3.txt	868

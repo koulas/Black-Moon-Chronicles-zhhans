@@ -1,5 +1,8 @@
 0
-Good, we will no doubt have need of you.... Haazheel Thorn and his troops are ready to fight, what about yours, Prince?//
+好的, 毫无疑问我们需要你....
+Haazheel Thorn和
+他的部队已做好战斗准备,
+你怎么样, 王子殿下?//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\007Debut5.txt	860

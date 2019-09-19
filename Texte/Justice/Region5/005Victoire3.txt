@@ -1,5 +1,8 @@
 0
-My path is as tortuous as a dragon's tail; I aspire to serve noble causes and you seem worthy of the reputation I know you bear. So I place my gold and my blade at your service, hoping that it only has to cut off accursed heads!....//
+我的前路崎岖艰辛，我渴望为崇高的事业
+效劳，在我看来你倒是不负盛名。
+因此我愿意以我的黄金和利刃
+为你效劳，只望能砍下罪魁的头颅。//
 
 [EVENEMENTS]			2
 GAIN_MURATA

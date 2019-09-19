@@ -1,5 +1,8 @@
 0
-Lord Wismerhill! We must submit to your orders and obey you like we do our master Haazheel Thorn! Your word is our command.//
+Wismerhill大人!
+我们必须尊敬您并服从您
+就如我们的主人Haazheel Thorn!
+您的没句话都是我们的命令。//
 
 [EVENEMENTS]	1
 ALLIANCE	4

@@ -1,7 +1,10 @@
 0
-Yes, Sire, my Paladins are in battle order, ready to cut to pieces the devilish creatures invoked by the infamous Haazheel Thorn.
+是的, 陛下,我们圣骑士已经整装待发,
+随时准备把丑恶的Haazheel Thorn
+手下那些邪恶魔物千刀万剐。
 
-We shall fight to the last man, I promise you. God is my witness.//
+我向你承诺,我们将战至最后一人，
+神明可鉴。//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\007Debut6.txt	853

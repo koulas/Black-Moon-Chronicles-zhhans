@@ -1,15 +1,32 @@
 0
-Dear Wismerhill, my son... After your victory at Moork, I invite you to measure up to an old opponent: Fratus Sinister, Grand Master of the Order of Light. I am sure you are going to like this confrontation.
+亲爱的Wismerhill,我的孩子...
+在你在Moork取得胜利后,
+我给你安排了一个老对手:
+Fratus Sinister,
+光明教团的教宗.
+我肯定你会喜欢这场对抗的.
 
-You will go into the region with the troops you have raised. I have opened a teleportation gate to the North of the region. You must go there quickly to receive the reinforcements I will send you.
+你要带着新组建的部队进入这区域，
+我已经在该区域的北方开好一个传送门，
+你必须快点去那里接收我传送过去的增援。
 
-Then you will have to destroy the army of Fratus Sinister. This will not be an easy task but I am sure you can do it.
+之后你就一定要去摧毁
+Fratus Sinister的军队。
+这不是件容易的事情，
+不过我相信你能做到。
 
-Once Light admits that it has been beaten and defeated under our attacks, you will go towards the south and you will attack the first strongholds of the Empire. The more you weaken the Empire, the more the future campaign will be made easier.
+一旦光明教团接受被我们围歼击败的事实，
+你就要继续向南挺进，你要去攻击帝国
+的第一要塞。只要你尽量削弱帝国，
+那么在未来的征战才会更容易。
 
-I will not take any direct action in the fighting since I must prepare myself a little longer before measuring myself with the Emperor. You will have Greldinard with you to help you during the operations.
+我不会有任何直接行动参与战斗，
+因为在我和皇帝进行较量前，
+我必须做好一点准备。
+在下来的作战中，
+Greldinard将会与你在一起并帮助你。
 
-Go! You still have a lot to do!//
+去吧，你还有很多事情做!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region2\\RegionDebut2.txt 858

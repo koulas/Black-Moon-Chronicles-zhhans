@@ -1,8 +1,12 @@
 0
-Ill-luck upon us. We knew the attack was imminent, it is in fact now immediate.
+我们运气不佳，我们知道攻击迫在眉睫，
+实际上它已马上发生。
 
-Lord Wismerhill, it is fate that sends you to us. I leave you the command of my troops, your experience against the Black Moon will surely help us.
-As for me and my lieutenants, the issue for us is to die honorably. //
+Wismerhill大人, 天意让你来这我们这里.
+我告诉你我们部队的指令,
+你对付黑月军的经验可以帮助我们。
+至于我和我的副手,
+所余之事不过是光荣地战死。 //
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\001Debut4.txt	865

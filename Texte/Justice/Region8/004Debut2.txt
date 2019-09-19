@@ -1,5 +1,9 @@
 0
-Unfortunately, Prince, I cannot assure you of our support: Moork is said to be impregnable, all those who have tried to take it have failed and the forces that await us behind these walls are too powerful for our weakened army.//
+很不幸，王子殿下。我不能向你保证
+我们对你的支援：Moork被称作是
+坚不可摧的，所有试图夺取它的都失败了，
+而且在城墙后面的那些兵力对于我们
+虚弱的军队来说太过强大了。//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\004Debut3.txt	860

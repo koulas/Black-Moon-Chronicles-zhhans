@@ -1,2 +1,4 @@
 0
-An epidemic of cholera has closed the gates of Magistrya. We must avoid going there.//
+霍乱疫情的蔓延
+已经让Magistrya关闭大门
+我们必须绕过那里。//

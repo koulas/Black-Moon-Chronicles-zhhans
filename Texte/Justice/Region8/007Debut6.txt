@@ -1,6 +1,8 @@
 0
-I would never doubt your bravery nor that of your brothers, Parsifal. 
-Now return to your troops, and lead them to victory.... We have to win!//
+我永不会怀疑你和你兄弟们的勇气,
+Parsifal.
+现在回到你的部队，带领他们取得胜利
+我们必将获胜!//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\007Debut7.txt	860

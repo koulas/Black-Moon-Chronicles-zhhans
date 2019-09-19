@@ -1,8 +1,12 @@
 0
-Ah, thank you for your help! Without you, we would have been cut to pieces and our cows devoured.
-I admire valiant knights such as you, ready to help the weak in such a disinterested way.
+啊感谢你的救援!
+没有你我们就会被砍成肉酱，
+我们的牛群也会被吃光。
+我崇敬像你这样英勇的骑士,
+随时以这种方式给弱者无私的帮助。
 
-My honor however orders me to reward you for your efforts, take these two cows, I offer them to you most willingly.//
+我的荣誉感要求我必须回报你的功劳
+带上这两头奶牛，我诚心诚意地送给你。//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\006Victoire2.txt	855

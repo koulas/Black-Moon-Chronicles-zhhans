@@ -1,11 +1,20 @@
 0
-We must fulfill our destiny, Wismerhill; the hour of the confrontation has struck!
+我们必须完成我们的使命, Wismerhill;
+对峙的时刻已经来袭!
 
-The Emperor has ordered us to Tsaroth in order to fight the Black Moon there. Let us pray that the outcome of the war is found in that plain.
+皇帝陛下命令我们去Tsaroth
+攻打那里的黑月军团.
+让我们祈祷这场战争在那平原有一个结果.
 
-If God grants us life after the combat, our task will not be over for all that. The Baron of Moork has taken control of the Imperial city of Horker, all the region is currently under his authority and that of the Black Moon. It is our duty to finish with the demons who wreak havoc unchecked on these lands...
+只要神在战斗结束后仍给予我们生命，
+那么我们的使命并不会完全结束。
+Moork男爵控制了帝国的城市Horker，
+附近所有地区目前都在他的威权和
+黑月军的控制之下。 我们有责任终结那些
+在这些土地上肆无忌惮地施虐的恶魔...
 
-If we are valiant enough, the Empire will once again be sovereign and peace will be reestablished.//
+若是我们足够勇敢,
+帝国的统治将再次恢复，和平将得以重建。//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\RegionDebut2.txt	865//

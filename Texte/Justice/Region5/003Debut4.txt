@@ -1,5 +1,6 @@
 0
-You could help me to lead this assault, Ghorghor, but do you not fear that your scruples might overcome you?//
+这次出击你可以帮我带兵 Ghorghor,
+不过你不要担忧顾虑些什么影响战事?//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region5\\003Debut5.txt	855//

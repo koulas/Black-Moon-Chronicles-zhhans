@@ -1,6 +1,9 @@
 0
-My lords, you arrive just in time: we have to take our beasts back to our farm, in the south, but many hostile creatures have settled in the region.
-Perhaps you could help us to get them back to their enclosures; you would be rendering us a great service!//
+我的大人们，你们来得正是时候:
+我们要把我们的牲畜带回南方的农庄,
+但有许多有敌意的魔物在该地区肆虐。
+或许你们能帮忙将他们赶回自己巢穴，
+你能帮我们的这个大忙!//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\006Debut2.txt	865

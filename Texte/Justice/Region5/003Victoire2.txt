@@ -1,8 +1,16 @@
 0
-Wismerhill, you have answered our call, we are pleased that you show yourself to be so willing to serve us.
-You have faced many trials, fought many opponents, but your future goes further: beyond adversity, beyond any other... We wish to be associated with your future, that you do everything in our name. If you serve us, we will serve you in return.
+Wismerhill, 你已经响应了我们的召唤,
+我们很高兴你自己愿意为我们效劳。
+你已经历过许多考验，与许多对手战斗过，
+但你的未来会更远大：超越险阻，超越他人
+我们希望与你的未来联系在一起，
+你将以我们的名义成就一切，
+若你为我们效劳，作为回报我们也为你效力
 
-Take this scepter, symbol of our alliance, whenever you need our help, you will just have to use it to call us up....//
+
+拿起这个权杖，作为我们盟约的象征，
+无论什么时候你需要我们的帮助，
+你使用它就可以召唤我们。//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region5\\003Victoire3.txt	865//

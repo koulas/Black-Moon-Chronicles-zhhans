@@ -1,5 +1,8 @@
 0
-Blessed be the lord, we have conquered! This day shall remain engraved in all memories as that which allowed the Imperial order to be saved and guaranteed to our children the right to live in peace. ALLELUIA!//
+上帝保佑, 我们已获得胜利!
+这一天该被万世铭记，
+因为这使得帝国的统治被挽救，
+让我们的子孙能有安宁生活，赞美主!//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire2.txt	865

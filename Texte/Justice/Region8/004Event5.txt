@@ -1,5 +1,6 @@
 0
-Challenge accepted, prince...Come and get me!//
+我接受你的挑战，王子殿下..
+来跟我过招吧!//
 
 [EVENEMENTS]	1
 DEFECTION	3

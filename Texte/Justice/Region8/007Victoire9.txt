@@ -1,8 +1,12 @@
 0
-Alas, that is precisely the one thing I cannot offer you: I let Light raise Kraks in the past, you see what it costs me today!
-I trust you, Parsifal, but what about your successors?
+唉，唯独是这件事情我不能允诺你
+我过去让光明教团可以起城堡
+结果你也看到我付出了什么代价!
+我肯定信任你, Parsifal,
+可是你的继承者呢?
 
-But be reassured, I will know how to be more than generous.//
+不过请放心,
+我是知道要怎么做，比过往更慷概的.//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire10.txt	860

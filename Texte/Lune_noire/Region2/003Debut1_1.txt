@@ -1,6 +1,8 @@
 0
-Oh master! Why go in person? Do we not have sufficient forces to disperse this meeting of wretched casters of spells?
-Do you not then have confidence in me, master?//
+啊 主人! 为什么要亲自去?
+难道我们没有足够的力量去驱散
+这些可怜的法术咒语吗?
+你不是对我们有信心吗, 主人?//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region2\\003Debut1_1_1.txt	869

@@ -1,6 +1,9 @@
 0
-If it means protecting the Empire, we are ready to fight, but if it means sacrificing my men and my siege engines, then Horker can again be the prey of the Black Moon, and all the region will be controlled by evil.
-I cannot reason myself to accept this choice.//
+若这真是为保护帝国，我们将准备投入作战
+，但如果只是牺牲我的人马和攻城机，
+那Horker可能再次落入黑月军手中，
+.并且全部区域都被恶魔所控制。
+我的理智不能让自己接受这个选择。//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\004Debut4.txt	860

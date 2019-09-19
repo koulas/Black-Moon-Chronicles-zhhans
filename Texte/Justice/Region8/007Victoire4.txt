@@ -1,5 +1,6 @@
 0
-All my thanks, your excellency, it was a pleasure to serve you!//
+万分感激，陛下,
+很高兴为您效劳与!//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire5.txt	853

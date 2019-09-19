@@ -1,5 +1,7 @@
 0
-If I can make myself useful, it will be with pleasure. My armor grows rusty and my joints are starting to creak, I dare say a bit of exercise would do me good!//
+如果我还能发挥点用处，那我真是太高兴了
+我的盔甲已经生锈,我的关节也开始咔咔响
+我肯定能活动一下身手对我有好处!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region5\\003Debut4.txt	865//

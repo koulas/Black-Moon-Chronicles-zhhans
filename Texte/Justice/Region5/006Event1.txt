@@ -1,5 +1,5 @@
 0
-HELP, demons are invading the city!//
+救命，恶魔们正在入侵这座城市!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region5\\006Event2.txt	865//

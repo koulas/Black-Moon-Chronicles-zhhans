@@ -1,5 +1,6 @@
 0
-My lords, it is a joy to welcome you to Horker, even if the hour is one of war.//
+我尊敬的各位大人,欢迎你们来到Horker,
+虽然当前战机一触即发。//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\001Debut2.txt	863

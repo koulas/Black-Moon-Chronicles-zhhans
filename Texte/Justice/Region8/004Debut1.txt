@@ -1,9 +1,12 @@
 0
-Moork, at last!
-The Baron Greldinard, the accursed, has taken refuge in his stronghold, believing it to be impregnable. I'm off to show him that faith and love can open many doors and many hearts!
-The troops of the Empire are there to help us, as foreseen.
+终于到了Moork!
+该死的Greldinard男爵已经躲到
+他的城堡里，他以为那里是坚不可摧的。
+我要让他知道信仰与爱可以打破，
+无数的城门和心防!
+和预估的一样，帝国军将在那里帮助我们.
 
-General, are your troops ready to fight to protect the Empire?//
+将军，你准备好在战斗中保护帝国军吗?//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\004Debut2.txt	868

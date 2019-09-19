@@ -1,9 +1,12 @@
 2
-AAAHH, Sire, you are perhaps going to be of some help to us. You see, we have to join our brothers to the west, in the shelter of the mountains, but the neighboring forests are not safe; many Trolls have been seen there.
+啊，大人，您或许能帮助一下我们。
+你也看到，我们和我们这些兄弟一起到
+西边的山区里避难，可是附近的森林不安全
+里面有很多的巨魔。
 
-Could you accompany us, I promise you a fine reward!//
-Under these conditions, I accept to give you my help!//
-Sorry, but I cannot risk the lives of my men.//
+你们要是跟着我们, 我保证你们有好报酬!//
+在这种情况下,我接受你的求援!//
+对不起，我不能拿我们的人的生命冒险。//
 
 [EVENEMENTS]			3
 REQUESTER ..\\Texte\\Justice\\Region5\\007Debut1_1.txt	859

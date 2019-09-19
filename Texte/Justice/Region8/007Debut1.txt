@@ -1,5 +1,9 @@
 0
-Tsaroth, at last! It is here that the fate of the Empire will be settled. This plain will soon be soiled by the blood of brave men, traitors and demons. Let us hope it will not be shed in vain. //
+Tsaroth, 到最后了!
+在这里帝国的命运将最终决定.
+这块平原
+将会被勇敢者、叛贼、恶魔的血所浸染. 
+让我们期望这一切都不会白费。 //
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\007Debut2.txt	853

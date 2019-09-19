@@ -1,7 +1,8 @@
 0
-No, my brother, our aim shall be neither glory nor power, but the humble service of the Almighty.
+不我的兄弟们，我们的目标既不是荣耀
+也不是权力，而是为全能的主卑微地效劳。
 
-Go now in peace and pray for those who are about to die.//
+现在让我们和平地离开，为死去者祈祷.//
 
 [EVENEMENTS]	1
 IMAGE ..\\Images\\Ima_0014.tga

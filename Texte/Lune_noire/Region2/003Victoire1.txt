@@ -1,5 +1,12 @@
 0
-My child, you never cease to amaze me. You succeeded in winning despite the strong adversity. Now, listen to me: I am going to exterminate the survivors of the Council and I will make magnificent devilish creatures of them. You will be able to use them during the next great battle that you will fight. So choose well the battle you are to fight... You could for example try to subjugate the proud citadel of Altenberg. What do you think?//
+我的孩子，你总能给我惊喜。
+尽管遇到极其困难的逆境，你仍取得成功。
+现在，听我说：我要去消灭光明教会的
+残存者，我会为他们制造伟壮的魔物。
+你将会在下一场伟大战役的战斗当中
+使唤它们。所以你要选择你将要进行战斗
+的战场，比如，你可以试下征服
+傲慢的Altenberg城堡。你觉得怎么样？//
 
 [EVENEMENTS]	2
 GAINS_UNITES	262 6 1

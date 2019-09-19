@@ -1,5 +1,9 @@
 0
-The traitor goes off without so much as a word; that says much about his treachery! You acted well, Sire. Before this day, we have already been betrayed by Sinister, your disavowal is a just punishment for his infamous conduct.//
+这个叛徒不发一言就离开;
+这正说明他的背叛!
+你做得很对, 陛下。
+在此之前，我们已经被Sinister背叛,
+你的摒弃是对他种种恶行的公正惩罚。//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire7.txt	853

@@ -1,7 +1,9 @@
 0
-Yes, unfortunately we do need help to finish off the Barony of Moork.
+很麻烦的是,我们需要帮助才能
+结果了Moork男爵。
 
-Could you help us in this combat which will seal the fate of the Empire?//
+你能在这场事关帝国命运的大战中
+帮助我们吗?//
 
 [EVENEMENTS]	1
 REQUESTER ..\\Texte\\Justice\\Region8\\001Victoire4.txt	868//

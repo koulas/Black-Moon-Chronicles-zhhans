@@ -1,6 +1,9 @@
 0
-We have indeed won, but the Black Moon has not said its last word. Their master, the Archmage Haazheel Thorn, is still alive and more powerful than ever.
-With the alliance of the underworld, he can still overturn the Empire... We have to act....!//
+我们确实打赢,不过黑月军还在苟延残喘。
+他们的宗主, 大法师Haazheel Thorn,
+仍然活着，而且比以往更强大。
+再加上来自地下世界的盟军,
+他仍旧可能颠覆帝国..我们必须行动!//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\004Victoire3.txt	860

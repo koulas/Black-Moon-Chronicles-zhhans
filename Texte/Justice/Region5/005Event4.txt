@@ -1,6 +1,7 @@
 0
-We are for just causes, and I am sure his fine blade will be appreciated within my army.
-Let's go and lend him a hand as soon as possible!//
+我们是为了正义的,而且我相信
+他锋利的刀锋会在我军中受到赏识.
+让我们尽快去向他伸出援手!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Justice\\Region5\\005Event5.txt	861//

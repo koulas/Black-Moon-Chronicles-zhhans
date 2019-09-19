@@ -1,5 +1,8 @@
 0
-Lucky that I can count on faithful allies like you, Parsifal; you have fought bravely, ask of me what you will.//
+幸运的是
+我还可以依靠像你这样的盟友, Parsifal;
+你作战勇猛无敌，
+你想要我赐给你什么？//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire8.txt	860

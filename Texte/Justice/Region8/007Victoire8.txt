@@ -1,5 +1,6 @@
 0
-Sire, I desire neither gold nor honors, simply allow me to raise Kraks in the Empire.//
+陛下，我想要的既不是金钱也不是荣耀，
+我只想允许我们在帝国内修筑城堡。//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire9.txt	853

@@ -1,6 +1,9 @@
 0
-Prince, I am grateful to you for answering my appeal; in these troubled times, your presence seems very beneficial to me.
-I see that you have by your side the young man whose exploits are being recounted throughout the whole Empire....//
+王子殿下, 我很感激你回应我的申诉;
+在这困难时刻,你的出现
+可以说对我大有益处。
+我看到你身边有一个年轻人，
+他的丰功伟绩将会在整个帝国反复传颂。//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\007Debut3.txt	865

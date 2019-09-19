@@ -1,5 +1,6 @@
 0
-We're sure, Wismerhill... You can go, now, we will always be at your side.//
+我们确信这点, Wismerhill...
+你可以走了,如今我们将永远在你身边.//
 
 [EVENEMENTS]	1
 IMAGE ..\\Images\\Ima_0002.tga

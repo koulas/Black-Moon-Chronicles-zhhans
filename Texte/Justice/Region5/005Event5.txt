@@ -1,5 +1,6 @@
 0
-Right, lord, the stranger is in the North; we are with you!//
+是的，大人，这个陌生人正在北边
+让我们去支援他!//
 
 [EVENEMENTS]	1
 ALLIANCE	1

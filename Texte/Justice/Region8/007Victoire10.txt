@@ -1,7 +1,9 @@
 0
-It is a great sorrow for me not to see my wish fulfilled. However, I shall continue the task which falls to me by eradicating the Black Moon from these countries.
+我的愿望不能满足，这对我是巨大的悲哀。
+不过即使如此，我们还是会继承完成歼灭
+在各个州郡里黑月军的任务。
 
-I'm off to do so now!....//
+如今我就立马启程去!....//
 
 [EVENEMENTS]			1
 REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire11.txt	860
