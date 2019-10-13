@@ -1,7 +1,13 @@
 0
-I am sorry to interrupt this brilliant strategists' discussion but to conquer this place through brute force seems to me difficult to achieve... Despite the peasants who have come in large numbers to find refuge, the Lights will fight to the last man rather than let us through...
+我很抱歉要打断这精妙的战略家讨论
+但是通过蛮力来征服这地方，
+对于我而言是很难办到的...
+尽管有大量的农民跑出来找地方避难,
+不过光明教的人会战斗到最后一个
+以阻止我们进入...
 
-Would it not be better if the general in charge of defending the citadel were to open up the gates of the city himself, of his own free will?//
+如果能让负责保卫城堡的将军本人自愿
+打开城门，那不是更妙嘛?//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region2\\004Debut3.txt	865
