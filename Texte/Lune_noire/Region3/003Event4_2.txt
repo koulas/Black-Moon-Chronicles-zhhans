@@ -1,5 +1,5 @@
 0
-Death to the Elves once and for all!//
+一劳永逸地把精灵都消灭掉!//
 
 [EVENEMENTS]	4
 DEFECTION	1

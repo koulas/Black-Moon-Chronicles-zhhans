@@ -1,8 +1,12 @@
 3
-Welcome to the emissaries of the Black Moon.  We do not like you but we can bear even less the idea of having to fight you beside the Dwarves. Make proposals to us and perhaps we will abandon this army and come over to you.//
-Let your age-old hatred of the Dwarves speak!//
-3000 crowns to free your swords from their sheaths!//
-We don't need you! You will perish like our enemies the Dwarves!//
+欢迎黑月使者的来临。我们并不喜欢你
+不过我们更难忍受要与你们作战时
+矮人在旁边的这种事。要不给个好建议
+或者我们会抛弃这军队，来到你们这边.//
+就让你跟老冤家矮人们说去吧!//
+三千顶金冠换你们拨剑相助!//
+我军不需要你们!
+你们会像矮人一样被剿灭!//
 
 [EVENEMENTS]	12
 ALLIANCE	1

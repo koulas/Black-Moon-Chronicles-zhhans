@@ -1,5 +1,10 @@
 0
-Dvorak! We are suffering a humiliating defeat. If we had been only Dwarves fighting, the outcome would definitely have been different! It's these cursed Elves who do not fight properly. They are letting us pay the price of the battle with our lives and they will then take all the glory! It's unacceptable!//
+Dvorak!我们遭受到耻辱性地失败。
+要是我军只和矮人作战，那结果肯定不同。
+这些该死的精灵们没有好好参战。
+他们让我们为战斗付出人命代价
+而让他们自己享受荣耀!
+这不可接受!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region3\\003Event4_1.txt	856

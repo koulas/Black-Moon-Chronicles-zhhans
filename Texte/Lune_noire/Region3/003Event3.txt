@@ -1,5 +1,6 @@
 0
-Sound the alarm! The Black Moon is in the camp! To arms! Attack!//
+警报声! 黑月军来袭营!
+拿起武器! 出击!//
 
 [EVENEMENTS]	3
 DEFECTION	1

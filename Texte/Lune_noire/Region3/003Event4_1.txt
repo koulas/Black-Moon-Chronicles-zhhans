@@ -1,6 +1,9 @@
 0
-Shame upon the speaker of these words. Many sons of the stars have fallen today through the fault of the Dwarves! We will no longer fight beside you despite the presence of the Order of Justice. Death to the Dwarves!//
+这些话说的人都是可耻.
+众多星之子今天因为矮人的失误而坠落了!
+尽管正义骑士团还在，但我们不能再与你们
+一起作战. 去死吧矮人们!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region3\\003Event4_2.txt	859
-// 
+//

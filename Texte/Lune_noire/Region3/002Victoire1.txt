@@ -1,10 +1,15 @@
 0
-The last fighters of Justice have fallen under our blows. Once again the battle has been costly in lives but what we have gained from the fight is immense. Justice loses many fighters. The Empire loses a new stronghold. The road to Lhynn is open to the armies of the Black Moon. Our reinforcements are now going to arrive in large numbers.
+正义骑士团最后一名战士也倒于我军箭下。
+虽然这一仗我军损失不少，但是正义骑士团
+也失去了大量士兵，帝国也损失了新的据点.
+通往Lhynn道路已经为黑月军打开。
+我们增援部队现在可以大规模到达了。
 
-Let fire and the sword rain down now on Lhynn the Haughty...//
+现在就让战火和剑雨落在
+傲慢的Lhynn之地上...//
 
 [EVENEMENTS]	3
 GAINS_UNITES	8 4 1
 GAINS_UNITES	9 1 1
 GAINS_UNITES	12 4 1
-//    
+//

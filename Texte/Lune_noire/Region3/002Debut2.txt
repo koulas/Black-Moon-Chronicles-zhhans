@@ -1,6 +1,17 @@
 0
-Hell hounds of Absolute Evil! Degenerate creatures of the abominable Haazheel Thorn! Wretched puppets! Retreat in the name of Justice! Justice, despite the Emperor's tricks, cannot let the Empire fall under the devilish blows of the Black Moon. We are fighting with the Empire to put a final end to your actions. For as long as we keep this citadel, no other flag than that of Justice will float over the ramparts. It is time for the destructive wars of the Black Moon to stop for ever so that Justice finally shines over the world.//
+最邪恶的地狱犬类!
+可恶的Haazheel Thorn制造的堕落魔物!
+可悲的被操纵的傀儡!
+以正义之名撤退!
+尽管皇帝玩弄诡计,但是正义骑士团仍要
+保住帝国不会陷入黑月军邪恶的侵攻之下。
+我们与帝国军作战，最终也会终结
+你们的行动. 只要我们还守住这座城堡,
+除了正义骑士团旗帜就不会有其他旗帜飘扬
+在城墙上。现在是永远终结
+黑月军毁灭性战争的时候了，
+这才能使得正义最终在这世间闪耀。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region3\\002Debut3.txt	858
-// 
+//

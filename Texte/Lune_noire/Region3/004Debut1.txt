@@ -1,5 +1,8 @@
 0
-A few years ago I slaughtered many here... They have made it a great memorial place: there are statues of me everywhere... I am flattered... I have a feeling I'm going to enjoy myself!//
+几年以前，我在这里宰杀了许多人...
+他们成就了这地方成为伟大纪念之地:
+到处都有我的雕像...我受宠若惊...
+我有种感觉 我将会很享受这些!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region3\\004Debut2.txt	865

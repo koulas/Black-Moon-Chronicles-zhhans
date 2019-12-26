@@ -1,8 +1,10 @@
 3
-Welcome to the emissaries of the Black Moon. The Elves are cowards. We are ashamed to fight with the Elves at our sides... You do understand how we feel, don't you?//
-Join us against the Elves!//
-3000 crowns to repay you for the pain of battle!//
-We don't need you! You only deserve death!//
+欢迎黑月军的使者.精灵族都是胆小鬼。
+我们耻于与精灵们并肩作战...
+你能明白我们的感受吗？//
+我们携手对付精灵族!//
+3000顶金冠作为这仗打完的伤害补偿!//
+我们不需要你们! 你们就该去死!//
 
 [EVENEMENTS]	12
 ALLIANCE	2
