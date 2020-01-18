@@ -1,5 +1,8 @@
 0
-I can't remember who said: " I came. I saw. I conquered. " ! I think it may have been me... after a brilliant victory!//
+我不记得是谁说过:
+"我来了.我看见了.我征服了. " !
+我想这大概就是我...
+取得辉煌胜利之后吧!//
 
 [EVENEMENTS]	1
 GAINS_UNITES	264 4 1
