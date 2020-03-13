@@ -1,5 +1,11 @@
 0
-So there you are at last, Wismerhill! We have been observing you for a long time and we have been waiting impatiently for your coming.  In this sacred place, we choose you to be our messenger among men! May you never disappoint us since we are placing all our trust in you!//
+你终于来了, Wismerhill!
+我们已经观察你很久时间
+并且我们以极少有的耐心等待你的到来。
+在此神圣之地,我们选择你成为我们
+与人类间的使者!
+愿你永不会令我们失望，
+因为我们对你有真挚的信任!//
 
 [EVENEMENTS]	1
 ALLIANCE	4

@@ -1,5 +1,6 @@
 0
-That is an arrogance which deserves severe punishment! You will regret your curt answer!//
+这般傲慢应该好好惩罚!
+你会为你的无脑回答后悔的!//
 
 [EVENEMENTS]	1
 GAINS_OR	1000

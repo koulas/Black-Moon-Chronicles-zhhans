@@ -1,5 +1,7 @@
 0
-Master! We have crushed these filthy Lights. We have freed our brothers. We are the victors. We have even recovered 500 gold crowns from the corpses!//
+主人!我军已经摧毁那帮龌龊的光明教团军
+我们解放了我们的弟兄，我们赢了。
+我们从这些败兵尸体上收获了500金。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region5\\002Victoire2.txt	865

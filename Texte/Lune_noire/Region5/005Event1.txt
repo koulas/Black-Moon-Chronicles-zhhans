@@ -1,7 +1,11 @@
 0
-I am glad that you have removed me from the yoke of the Magister, dear little Wismerhill. You are still a novice in many areas... but you will see that thanks to me you will very quickly learn wonderful things.//
+我很高兴你帮我从魔法师的桎梏里解脱,
+亲爱的小Wismerhill。
+你在很多方面还是新手...
+不过你会发现多亏有我，
+你可以很快学到很多神奇的本事。//
 
 [EVENEMENTS]	2
 ALLIANCE	3
-GAIN_SUCCUBE	
+GAIN_SUCCUBE
 //

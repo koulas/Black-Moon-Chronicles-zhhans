@@ -1,6 +1,10 @@
 0
-You are indeed arrogant, my lords! My purse and the gold it contains will stay with me. You are only wretched brigands! Avert your eyes and keep your distance from the Samurai that I am. Harm might come to you that you would regret.//
+阁下，你真是太自大!
+我会保住自己的钱包和金子的.
+你只不过是可怜的盗贼!
+挪开你的眼睛，与我的武士保持距离。
+否则有伤害够你后悔的。//
 
 [EVENEMENTS]		1
-REQUESTER	..\\Texte\\Lune_noire\\Region5\\001Debut1_1_1.txt	872	
+REQUESTER	..\\Texte\\Lune_noire\\Region5\\001Debut1_1_1.txt	872
 //

@@ -1,5 +1,8 @@
 0
-Victory! The lower city is ours... The Imperial garrison was decimated and we are going to let the Orcs indulge their tendencies for plunder! The day has been good for us!//
+胜利! 下城已经被我们攻下...
+帝国驻防军已经被击溃，而我们准备
+让兽人们进去搜刮掠夺一番，
+今天可真是我们的好日子!//
 
 [EVENEMENTS]	1
 IMAGE	..\\Images\\Ima_0015.tga

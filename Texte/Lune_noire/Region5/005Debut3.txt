@@ -1,9 +1,16 @@
 2
-The Black Moon is going to assault the city. The Imperials are not fit to defend it. Here is my proposal! I will make it easy for you to enter the city and I will help you against the Imperial garrison. In exchange, my palace and the magic treasures it contains will be kept away from the greed of your Orcs...
+黑月军团即将进攻这座城市。
+帝国军是不合适保护她的.
+这里我有个建议，我可以帮你轻松进城，
+还能助你攻打帝国的守护军.
+作为交换, 让我的宫殿和魔法宝藏可以
+远离你那些贪婪的兽人兵吧...
 
-If I help you enter the city, will you leave my possessions in peace?//
-Yes! Your possessions will be preserved!//
-The whole of Magistrya must pay tribute! Including you!//
+如果我帮助你进城，
+你可以让我留住宫殿中的财产?//
+是的! 你的财产可以得到保存!//
+整个Magistrya城都必须上交贡赋!
+包括你的!//
 
 [EVENEMENTS]	2
 ALLIANCE	2

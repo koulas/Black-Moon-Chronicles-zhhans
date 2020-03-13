@@ -1,5 +1,6 @@
 0
-Master! Our brothers are prisoners of Light. We must free them at all costs.//
+主人!我们兄弟现在是光明教的囚徒。
+我们必须不惜代价解救他们。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region5\\002Debut1_1.txt		874

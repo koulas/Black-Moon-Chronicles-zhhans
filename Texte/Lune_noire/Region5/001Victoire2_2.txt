@@ -1,5 +1,6 @@
 0
-So we go our separate ways here. Thank you once again for your help against these brigands.//
+那么我们分道扬镳吧.
+多谢你曾经出手帮助我对抗匪帮。//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Lune_noire\\Region5\\001Victoire3.txt	872

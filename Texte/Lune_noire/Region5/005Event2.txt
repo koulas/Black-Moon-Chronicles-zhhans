@@ -1,5 +1,6 @@
 0
-Come on, brother magi! Concentrate your magical energy as much as possible and let us finish with this rabble.//
+来吧, 魔法师老兄!尽力聚集你的魔力，
+让我们了结这些暴徒.//
 
 [EVENEMENTS]	2
 DEFECTION	3

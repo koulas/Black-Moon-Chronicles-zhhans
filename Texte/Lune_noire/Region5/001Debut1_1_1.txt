@@ -1,6 +1,9 @@
 1
-Chief, a traveler is being robbed beside the road. What do we do? Do we join the brigands or help the traveler? What we like is plundering and stealing...//
-No, a solitary traveler facing up to brigands must be a formidable fighter.  Let us help him.//
+主人,一个旅行者在路上被人抢劫。
+我们该干啥?是加入劫匪还是帮助旅行者?
+我们是喜欢干劫掠和偷窃的事...//
+不,敢于独立面对匪帮的旅行者
+肯定是个厉害的战士，让我们帮他一把。//
 
 [EVENEMENTS]	1
 ALLIANCE	1
