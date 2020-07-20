@@ -1,7 +1,10 @@
 0
-I am pleased that Gr黰fer spoke to you about me.
+我很高兴Grümfer能够提到我。
 
-You are right! We are here to buy siege engines from you. In these troubled times when war is threatening, it is very reassuring to feel strong. What do you propose, master Dwarf?//
+你说得不错!我们到这是想向你买攻城器。
+在这混乱的时势,随时都有战争危险。
+只有这些东西才能让人感到安心
+你有什么建议呢,矮人族的大师?//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region6\\005Victoire3.txt	859

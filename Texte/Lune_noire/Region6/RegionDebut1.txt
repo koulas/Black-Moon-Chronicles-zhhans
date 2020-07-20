@@ -1,14 +1,29 @@
 0
-Lord Wismerhill! You have proved your valor by bringing us victory during your first battles. So my master Haazheel Thorn was not mistaken about you. Indeed, how could he be wrong?
+Wismerhill大人!
+你已经通过初战为我们带来的胜利
+证明你的武勇，所以我的主人
+Haazheel Thorn不会错失你的.
+事实上，他怎么会犯错呢?
 
-We wish to extend the shadow of the Black Moon to this essential region: it is indeed here that the Oracle is located. Our master believes that by threatening this region we will push the Empire into sending many troops. This will weaken it, particularly for the great battle that is being prepared! You will have to go to the Oracle to learn more about your destiny.
+我们希望把黑月的阴影扩展到这关键区域:
+这里事实上就是神谕的所在之地.
+我们的主人相信只要威胁这个区域就会迫使
+帝国派出大量的部队.这就可以弱化他,
+特别是考虑到即将会开打的重大战役!
+你应去神谕之地，你会更多了解你的命运。
 
-What is more, according to our spies and rumor, Light is being very active on both the diplomatic and the military front in this region. You will have to elucidate this!
+此外，根据我们的间谍和流言所说,
+光明教在该区内的外交和战略层面都很活跃
+你要清楚了解这点!
 
-Finally you will have to negotiate the Dwarves' weapons and siege engines at the most advantageous prices. They do not much like the Black Moon but I am convinced that gold will silence all their scruples for trading with us.
+最后你最好找矮人族买武器和攻城器具，
+你要会跟他们谈判砍价才有最优惠价格。
+他们不太喜欢黑月军的，不过我
+相信黄金能令他们漠然以对生意上的顾虑。
 
-For the time being, let yourself be guided by Hellaynnea... I am convinced that she will be an excellent advisor for you.//
+从现在起让Hellaynnea做你的向导...
+我相信她会是你好的参谋顾问。//
 
 [EVENEMENTS]		1
 REQUESTER		..\\Texte\\Lune_noire\\Region6\\RegionDebut2.txt	852
-//   
+//

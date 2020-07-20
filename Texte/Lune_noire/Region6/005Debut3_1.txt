@@ -1,5 +1,5 @@
 0
-We break Dwarves. After we break you!//
+我们先干掉你，再去干矮人!//
 
 [EVENEMENTS]	2
 DEFECTION	2

@@ -1,5 +1,10 @@
 0
-You are mistaken, general. This time we are not after your city but just after some of its inhabitants. You are offering hospitality in this city to a delegation of knights of Light. We want their lives. In fact, their fate may be of interest to the Empire...//
+将军你搞错了. 这次我们的目标不是
+你的城市，而是城市里面的某些住民。
+你们的城市招待了光明骑士团的代表。
+我们想要他们的命。
+事实上，他们的命运可能
+与帝国的利益攸关...//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region6\\003Debut1_1_1.txt	868

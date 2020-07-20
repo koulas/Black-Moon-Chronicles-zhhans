@@ -1,5 +1,9 @@
 0
-Look my brothers! The Black Moon has had enough of the Empire and wants to stand up to us! After such a good beginning to the battle, let us deploy the power of Light and enter into the joyous dance of the swords!//
+看吧 我的兄弟们!
+黑月军已经收够了帝国要和我们站在一起!
+在经历这么棒的战斗开局之后,
+我们就要牵引光明教团军力，进入
+畅快开杀的刀光剑舞!//
 
 [EVENEMENTS]	1
 DEFECTION	3

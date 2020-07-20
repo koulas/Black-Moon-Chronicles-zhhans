@@ -1,7 +1,14 @@
 0
-Thank you for your help! We could have defeated them alone but many brave warriors would have fallen in vain. Our mountains have been infested with Trolls recently. They attack our miners' camps and terrorize our merchant convoys. I suppose that your visit has a precise aim. You are like all our visitors: you want us to sell you weapons and siege engines, don't you?
+多谢你的出手相助!否则就算我们能够
+独自打败他们那也要白白牺牲许多勇士。
+我们的山区最近受到巨魔们的侵扰。
+他们攻击我们的矿工营，恐吓我们的商队。
+我猜你的到访是有明确目的，
+你就和所有拜访我的人一样:你想让我们
+卖你武器和攻城器械, 是吗?
 
-Don't I know you? My cousin Gr黰fer has spoken about you...`//
+我不认识你?
+我的表兄Grümfer就曾经谈到过你...`//
 
 [EVENEMENTS]	2
 GAINS_OR	7500

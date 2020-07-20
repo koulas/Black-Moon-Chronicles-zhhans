@@ -1,2 +1,6 @@
 0
-Your soldiers have fled the battlefield or have fallen under the blows of the archers of Light. You have been defeated. I believe the master of us both will be very disappointed with this woeful defeat.//
+你的士兵们要么已经逃离战场，要么
+就殒命于光明教团军的弓箭之下。
+你们已经被击败了.
+我相信我们俩的主子都会对这场
+惨重失败感到失望的。//

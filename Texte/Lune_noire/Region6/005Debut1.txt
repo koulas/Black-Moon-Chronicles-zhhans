@@ -1,5 +1,12 @@
 0
-Lord Wismerhill! A tricky mission awaits us. We must go to see the Dwarf master forgers of Grunkedash to buy weapons and siege engines from them. This mission is essential since our master Haazheel Thorn is preparing for a decisive battle against the Empire in the very near future. We must have all the advantages possible on our side in order to win the battle. The Dwarf siege engines are one of these advantages.//
+Wismerhill大人!
+一个棘手的任务等着我们.
+我们必须去Grunkedash见矮人锻造名匠，
+好向他们购买武器和攻城器。这事很重要
+因为我们的主人Haazheel Thorn正准备在
+不久之后将与帝国展开一场决定性的战斗。
+我们必须尽可能从我们这边获得一切优势
+以赢得战斗。矮人的攻城器就是优势之一。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region6\\005Debut2.txt	865

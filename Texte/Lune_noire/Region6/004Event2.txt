@@ -1,7 +1,10 @@
 2
-Halt! In the name of Haghendorf, I demand that you surrender! If you refuse, you will die!//
-In the name of Haazheel Thorn! Charge!//
-We have nothing against the Empire, General! The Oracle is a place accessible to everyone! Let us through freely!//
+住口!以皇帝陛下之名,
+我要求你降伏! 如果你拒绝, 就去死!//
+以Haazheel Thorn之名! 冲锋!//
+我们完全无意对抗帝国, 将军!
+神谕之地允许任何人进入，
+让我们自由通行吧!//
 
 [EVENEMENTS]		3
 DEFECTION		2

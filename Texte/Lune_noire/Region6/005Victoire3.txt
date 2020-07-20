@@ -1,8 +1,13 @@
 3
-I propose siege engines, catapults and slings of the highest quality of assembly, or the purchase of the services of contingents of Dwarves. A catapult or a sling costs 1500 pieces of gold with operators and projectiles. Our crossbowmen and axmen cost 1000 per section.//
-We will buy 1 catapult, 1 sling and 1 crossbowman.//
-We will buy 1 sling and 2 axmen.//
-We will buy 2 catapults, 2 slings and 1 axman.//
+我建议购买最好的攻城引擎,弩炮和吊索，
+又或者购买矮人族特遣队的服务。
+一个弹射器或吊索要1500金币，
+包括操作者和弹丸。
+我们的弩手和斧手每个要1000金币。//
+我们要买一个弩炮.一个吊索和一个弩手。//
+我们要买一个吊索和2个斧手.//
+我们要买两个弩炮.两个吊索
+一个斧手。//
 
 [EVENEMENTS]	14
 PERTES_OR	4000

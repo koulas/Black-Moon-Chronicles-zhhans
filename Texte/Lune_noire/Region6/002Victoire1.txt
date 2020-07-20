@@ -1,5 +1,11 @@
 0
-The Castle of the Dragon Princes has fallen. We are victorious despite the strong opposition that confronted us. We have found a great treasure in the depths of the castle. We can use it to bolster our finances. However, we have also found numerous missives exchanged between the Dragon Princes and Fratus Sinister, the new Grand Master of the Order of Light. What plot is this?//
+龙王们的城堡已经陷落了。
+尽管我们面对强大的对手，还是取得胜利。
+我们在城堡的深处发现了一个巨大宝藏，
+可以用来补充我们财政不足。
+而且, 我们还发现龙王和光明教的
+Fratus Sinister的大量来往信件,
+这位光明教的新教宗.有什么图谋?//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region6\\002Victoire1_2.txt	858
