@@ -1,6 +1,10 @@
 0
-Misfortune is with us. Look! The Orcs have found a ford, a passage, to cross the river. They are going to overrun us if we do not react quickly. To arms and let us repel these cursed Orcs.//
+真是祸不单行. 看!
+那帮兽人找到渡口,一个过河的通道。
+如果我军不能迅速反应，他们就会
+占领我们的土地.
+拿起兵器让我们干死这些该死的兽人。//
 
 [EVENEMENTS]		1
 DEFECTION		2
-//  
+//

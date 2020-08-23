@@ -1,2 +1,8 @@
 0
-Our troops are retreating in good order now. The shock of being defeated is past... We are going to simulate a disorderly retreat to give them confidence and encourage them to charge... Then we will line the ranks up quickly and fight against an opponent who will then be disorganized. We must inflict a bitter defeat on the Empire if we want to be rid of our pursuers once and for all. Then we will resume our way to Moork.//
+我军正在秩序井然地撤退.失败的惊骇
+正在消退... 我们要设法装成毫无秩序
+的撤退，让他们有信心，鼓励他们冲过来
+那么之后我们马上摆好战阵，正好与乱成
+一团的敌军对决。只有给予帝国军惨痛的
+失败，才能够让我们摆脱追兵。
+然后我们才能重新上路去Moork.//
