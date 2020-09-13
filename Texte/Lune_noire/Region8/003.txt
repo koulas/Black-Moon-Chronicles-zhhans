@@ -1,2 +1,3 @@
 0
-It is really quite ill-advised to start the siege of such a powerful fortress while hosts of enemy cavalry are harassing us.//
+在大批敌方骑军骚扰我军的情况下，
+去围攻如此强大的堡垒是很不明智的做法。//

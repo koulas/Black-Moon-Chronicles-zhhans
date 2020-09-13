@@ -1,12 +1,21 @@
 3
-Lord Wismerhill! We have already lost many of our men under the attacks of the Black Moon. The Empire's victory is jeopardized. At the hour of his defeat, nothing will protect us from your anger. We want to join forces with you for the victory against the Empire.
+Wismerhill大人! 在黑月军的攻势下
+我们的士兵已经损失很多。
+帝国军的胜势已经岌岌可危了.
+若当他们失败时,就没有什么能在
+你的盛怒下保护我们的。
+所以我们想与你联手打破帝国军的胜局。
 
-In exchange for joining forces with you, we want to be protected from the plundering of the Orcs and not to suffer the consequences of our alliance of fortune with the Empire.
+作为加入你军的交换条件, 我们希望
+得到庇护，免受兽人的掳掠，
+并且不因为我们的财富与帝国关联受影响。
 
-What is your reply?//
-We will defeat the Empire together! (But that will not stop me afterwards getting you in my grasp!)//
-I accept your belated rallying. Serve me faithfully and you will be rewarded.//
-You will suffer defeat at the same time as the Empire you are defending.//
+你怎么回应?//
+我们一起去打败帝国!
+ (不过之后你们还是逃不出我掌心!)//
+我接受你们迟到的效力.
+只要忠于我，你必有回报。//
+你们和你们保护的帝国遭受失败吧.//
 
 [EVENEMENTS]		6
 DEFECTION		2
