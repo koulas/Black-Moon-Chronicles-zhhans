@@ -1,2 +1,5 @@
 0
-The Emperor has responsibilities to assume that are too important for him to remain for long in the Antechamber of Death. When he dies, the Imperial clergy lose no time in bringing the Emperor back to life by means of many prayers.//
+皇帝其所负的责任太过重要，这使他不能
+长期待在死亡的厅堂前。当他死后，帝国
+的神职人员会抓紧机会用各种手段祈祷
+让他重获生命。//

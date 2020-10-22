@@ -1,8 +1,8 @@
 0
-                      - Help (Battlefield) -
+                      - 帮助 (战斗区域) -
 
 
-Space : Mode Fighting/Moving
+Space : 切换战斗/移动模式
 
 1-9 : Cast a spell
 
