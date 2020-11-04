@@ -1,2 +1,8 @@
 0
-A good 1,000 gold crowns are necessary to persuade a priest to practice the resurrection rites on a soul as black and unsavory as that of Haazheel Thorn. Alas, you do not have such a sum. Even with knowledge of the secrets of magic, Haazheel Thorn's soul, if he has one, will err endlessly in infernal limbo!//
+要说服一位牧师为像Haazheel Thorn
+这样不洁且黑暗的灵魂举行复活仪式，
+必须要1000金克朗. 唉, 你没这么钱。
+即使Haazheel Thorn灵魂通晓
+魔法的秘密, 如果他真有灵魂的话
+他也只能无休止地在地狱边境里
+为错误忏悔!//
