@@ -1,2 +1,11 @@
 0
-Here is a region dominated by the Empire. Large cities like Feyhin Lokcthat or Magistrya dominate the region. Feyhin Lokcthat, the city of gambling, will perhaps enable you to make your fortune. Magistrya, the city of the Magicians, is governed by a powerful mage whom it is preferable to have as a friend... To the north-east lie numerous forests inhabited by Elves. Legends also tell of a long-forgotten great peak where the winds live.//
+这里是帝国管辖的区域.
+像Feyhin Lokcthat或者Magistrya
+这样的大都掌控这个区域命脉。
+Feyhin Lokcthat,是赌博之城,
+或许能让你得到财富。
+ Magistrya,魔法之城,
+由强大的魔法师所统治，最好
+能成为你的朋友...
+东北方的森林里住着众多精灵。
+传说还有一座久被遗忘的有风灵所在山峰。//

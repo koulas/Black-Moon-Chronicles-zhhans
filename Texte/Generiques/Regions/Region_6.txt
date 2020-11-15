@@ -1,2 +1,12 @@
 0
-This region represents a great deal for you, Wismerhill! Firstly, to the east, lies the Oracle. Only the Oracle can reveal to you the extent of your destiny. In addition, the eternal confrontation between the Elves and the Dwarves takes a spectacular turn here because in the southern mountains lies Grunkedash, the capital of the Dwarves. In the forests in the center of the region there are many Elves. Venturing into their domain without their approval is particularly dangerous. Finally, to the south-west lies the mysterious domain of the dragons, which is guarded by their human servants: the Dragon Princes.//
+这个区域对你有重大意义, Wismerhill!
+首先往东去,那里有神谕之地。只有神谕
+才能揭示你命运未来的走向。此外,
+矮人族和精灵族的战争在这里发生了
+引入瞩目转变，因为在南部群山中
+有矮人族的都城Grunkedash。
+在该区中心的森林里面住着众多精灵族，
+未经他们同意，进入他们的领域是非常
+冒险的行为。最后,在西南方有着神秘的
+龙族领地, 那里由他们的人类仆从
+龙王们所守护。//
