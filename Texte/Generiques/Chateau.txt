@@ -1,8 +1,19 @@
 0
-Welcome to your domain, Lord Wismerhill! The people gathered on the main square are hailing you as their lord and master! Listen to them for a minute... How heady this clamor is!
+欢迎来到你的领地, Wismerhill大人!
+人们聚集在大广场欢呼你是他们的主人
+他们的领主!
+倾听片刻，这喧嚣多么令人陶醉。
 
-You must now prepare yourself to govern and to lead the war! Your castle is the seat of your power. This is where you receive the gold of your taxes, and this is where your recruit your soldiers and you improve your weaponry.
+你必须准备好治民理政和整军作战!
+你的城堡是你权力的所在.
+你在这里收取税金,
+也可在这里招募士兵和升级武器。
 
-For the moment, your army is made up of but a few tens of soldiers. It will be essential for you to recruit others, in increasing numbers, in order to create a powerful army capable of rivaling with the great armies of your enemies. If you do not want to be destroyed, you must deploy a vast army!
+目前，你的军队只由几十名士兵组成。
+你必须招募其他人，增加更多兵力才能建立
+一支能够与敌人大军相抗衡的强大军队。
+如果你不想被摧毁，就部署一支庞大军队!
 
-I will now leave you to explore the inside of your castle! When you wish to leave it, go to the Embassy or press R to return to the Region Map.//
+现在我带你去探索你的城堡内部！
+当你想离开时，请到Embassy或按R键
+返回区域地图。//

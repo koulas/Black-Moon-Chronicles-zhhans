@@ -1,10 +1,12 @@
 2
-Tips & Tricks
-                            - Battlefield -
+攻略贴士
+                            - 战斗区域 -
 
-The Archangel is of divine nature and is present on Earth for a limited length of time. That is why, when he is at your sides, you must carry off victory rapidly without losing this major asset!//
-Next trick//
-Play now//
+大天使具有神性，所以不能在地上世界太久
+这就是为什么当他在你身边，你又不想
+那么快失去这份重要战力，你要速战速决!//
+下一条//
+开始玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce024.txt	857

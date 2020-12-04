@@ -1,10 +1,11 @@
 2
-Tips & Tricks
-                            - Region Map -
+攻略贴士
+                            - 区域地图 -
 
-The mountains can hide an enemy regiment, so use reconnaissance regiments to avoid nasty surprises!//
-Next trick//
-Play now//
+山区里会隐藏敌军部队,所以要用
+侦查部队去避免恶劣的意外发生!//
+下一条//
+现在玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce003.txt	857

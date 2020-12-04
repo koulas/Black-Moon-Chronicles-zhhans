@@ -1,10 +1,11 @@
 2
-Tips & Tricks
-                            - Battlefield -
+攻略贴士
+                            - 战斗区域 -
 
-The living dead are unaffected by psychology! You will have to exterminate every last one of them.//
-Next trick//
-Play now//
+活死人不受到心灵术影响!
+你要把他们一个个都消灭掉。//
+下一条//
+开始玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce013.txt	857

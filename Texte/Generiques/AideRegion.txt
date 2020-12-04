@@ -2,11 +2,11 @@
                       - Help (Region Map) -
 
 
-B : Access to the bestiary
+B : 进入资料集
 
-Left button  on mouse : Selections
-Right button on mouse : Orders/Actions
+鼠标左键 : 选择
+鼠标右键 : 命令/行动
 
-Moving over the map : Arrows or Mouse pointer on the edges of the screen
+拖动地图 : Arrow键或者鼠标点到屏幕边
 
-Escape : Interface/Quit//
+Esc键 : 界面/退出//

@@ -1,10 +1,12 @@
 2
-Tips & Tricks
-                            - Battlefield -
+攻略贴士
+                            - 战斗区域 -
 
-Siege engines and warrior trees are particularly vulnerable to fire. Rumor has it that a young hero by the name of Wismerhill can incinerate a warrior tree with a single fireball!//
-Next trick//
-Play now//
+攻城器和树精战士特别容易被火烧。
+传闻一个叫Wismerhill的年轻英雄
+可以用一个火球就消灭一个树精战士!//
+下一条//
+开始玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce007.txt	857

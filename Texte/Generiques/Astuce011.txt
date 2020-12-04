@@ -1,10 +1,12 @@
 2
-Tips & Tricks
-                            - Battlefield -
+攻略贴士
+                            - 战斗区域 -
 
-It is said that a legendary source of magic exists that regenerates units injured in combat! Should you find it one day on a battlefield, keep it and treasure it!//
-Next trick//
-Play now//
+据说传说中有种魔力之源，可以让在战斗
+中负伤的单位再生!如果有一天你在战场上
+发现它，请珍视收藏好!//
+下一条//
+开始玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce012.txt	857

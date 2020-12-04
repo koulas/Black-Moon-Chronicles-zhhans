@@ -1,10 +1,12 @@
 2
-Tips & Tricks
-                            - Battlefield -
+攻略贴士
+                            - 战斗区域 -
 
-When close to a river, the Magician of Justice invokes the water elementaries to wash the world of its sins and of his enemies!//
-Next trick//
-Play now//
+当正义骑士团的法师靠近河流时,
+其就可唤出水元素精灵洗涤
+这世界上的敌对和罪恶!//
+下一条//
+开始玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce018.txt	857

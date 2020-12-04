@@ -1,10 +1,11 @@
 2
-Tips & Tricks
-                            - Battlefield -
+攻略贴士
+                            - 战斗区域 -
 
-The Magician of Light multiplies his power when in contact with lava: he then commands the fire elementary invocations!//
-Next trick//
-Play now//
+当光明教的法师与熔岩接触，其魔力会倍增
+然后能召唤指挥火元素精灵!//
+下一条//
+开始玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce017.txt	857

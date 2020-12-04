@@ -1,10 +1,13 @@
 2
-Tips & Tricks
-                            - Battlefield -
+攻略贴士
+                            - 战斗区域 -
 
-Justice is certain that its cause is just, and that God is on its side! That is why it will fight to the death and will never leave the battlefield. Don't count on morale to vanquish an army of Justice!//
-Next trick//
-Play now//
+正义骑士团确信他们的功业是正义的,
+因而神是站在他们一边的，这就是为何
+他们就算战斗至死也不会离开战场。
+不要指望可以靠士气能击溃正义骑士团!//
+下一条//
+开始玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce015.txt	857
