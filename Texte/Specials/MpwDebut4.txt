@@ -1,5 +1,7 @@
 0
-Soldiers! We have at least found our target. The dark elf there in the middle of the market square... Kill him! Forward!//
+士兵们!我们还是找到目标了.
+在市场广场中央的黑暗精灵...杀了他!
+冲吧!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Specials\\MpwDebut5.txt	865

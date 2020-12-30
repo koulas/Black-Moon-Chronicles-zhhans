@@ -1,5 +1,6 @@
 0
-Beware, Wismerhill! There are too many Imperial guards! Something is wrong!//
+小心, Wismerhill!有太多帝国守卫!
+有问题!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Specials\\MpwDebut4.txt	863

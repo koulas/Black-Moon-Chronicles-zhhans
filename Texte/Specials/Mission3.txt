@@ -1,11 +1,14 @@
 2
-Special missions
+特别关卡
 
-                 Daisy-cutting!
+                 砍瓜切菜!
 
-Light has just won a great battle and Fratus Sinister, with sudden concern for equality, wishes to make a group of terror-stricken peasants who are seeking Imperial assistance suffer the fate of the vanquished.//
-Next mission//
-Play this mission//
+光明教团军刚获得胜利，
+而Fratus Sinister就突然关心起平等，
+他其实想要那些惊恐万分的试图向帝国求援
+的农民们遭受被征服奴役的命运。//
+下一关//
+玩这关//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Specials\\Mission4.txt	858

@@ -1,15 +1,16 @@
 2
-Special missions
+特别关卡
 
-                 Battle on the scorched earth!
+                 焦土之战!
 
-Wismerhill and his friends arrive to direct their troops against an elite detachment of Light!  Can you lead your men to the front?//
-Next mission//
-Play this mission//
+Wismerhill和他的朋友一起领军直接
+对抗光明教团军的精锐部队!
+你能带兵正面扛?//
+下一关//
+玩这关//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Specials\\Mission3.txt	862
 //
 -
 //
-

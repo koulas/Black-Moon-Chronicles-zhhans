@@ -1,5 +1,9 @@
 0
-My very dear brothers! Justice commands us once again to protect widows and orphans! The Black Moon, represented by one of its worse henchmen, Greldinard, Baron of Moork, is preparing to attack a village. We must stop them and limit the death toll among the peasants. The Baron of Moork must also die!//
+我亲爱的弟兄们!正义的信条再次要求
+我们保护孤儿寡母!黑月军走狗中的代表,
+Greldinard,Moork男爵,准备袭击村子。
+我们必须阻止他们，减少村民的伤亡
+Moork男爵必须死!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Specials\\Village2Debut2.txt	858
