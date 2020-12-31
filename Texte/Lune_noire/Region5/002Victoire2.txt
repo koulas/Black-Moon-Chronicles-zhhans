@@ -1,5 +1,8 @@
 0
-We still have to clear up this story of treachery! It worries me! Fall in again. Re-form ranks and let us quicken our pace! We must go to the fortified camp of the Black Moon as quickly as possible.//
+我们还是必须清洗掉背信弃义的往迹!
+它让我担心会重蹈覆辙。
+重整阵型，加快步伐!
+我们必须尽快进入黑月军的营地据点。//
 
 [EVENEMENTS]	2
 GAINS_UNITES	10 2 1

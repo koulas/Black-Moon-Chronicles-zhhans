@@ -1,7 +1,8 @@
 0
-Hey there! We are being attacked by a band of Trolls! Will you help us repel their assault? Your help will be really welcome!//
+嘿 在这里! 我们被一帮巨魔袭击!
+你能帮助我们击退他们的攻击吗?
+我会非常感激你的帮助!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region6\\005Debut1.txt	865
 //
-

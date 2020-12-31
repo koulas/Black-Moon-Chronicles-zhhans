@@ -1,7 +1,11 @@
 0
-We have won the victory not without difficulty. We have suffered heavy losses. However, the Empire has lost an extremely important fortress and we have opened the road to the heart of the region. Thanks to this victory, the reinforcements will be able to reach us for the next battles.
+我军赢得并非轻松，我们也遭受沉重损失
+不过,帝国失去了一个重要的堡垒
+而我军则打通通往核心区域的道路。
+归功于这次胜利,
+增援部队可以在我们下一次战斗时抵达。
 
-We can be satisfied with this day of bloody fighting.//
+我们可以对连日的血战感到安慰。//
 
 [EVENEMENTS]	3
 GAINS_UNITES	10 2 3

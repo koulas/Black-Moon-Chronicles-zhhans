@@ -1,10 +1,11 @@
 2
-Tips & Tricks
-                            - Region Map -
+攻略贴士
+                            - 区域地图 -
 
-To take the best-defended strongholds, position several regiments around them and attack simultaneously!//
-Next trick//
-Play now//
+要拿下最好防守的据点，
+在其周围部署几个兵团军力，并同时进攻!//
+下一条//
+现在玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce002.txt	857

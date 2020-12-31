@@ -1,15 +1,15 @@
 2
-Special missions
+特别关卡
 
-                 The shadow of the Black Moon!
+                 黑月之影!
 
-In order to impose its order, the Black Moon is launching raids to terrorize the villagers! Lead one of them!//
-Next mission//
-Play this mission//
+为了加强军团力量，黑月军正要发动奇袭
+威胁村民，带走其中一个人!//
+下一关//
+玩这关//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Specials\\Mission5.txt	860
 //
 -
 //
-

@@ -1,2 +1,7 @@
 0
-Here is the capital of the Empire: Lhynn! It is towards Lhynn that all the eyes of the Empire look. The capital is resplendent with wonders accumulated over the centuries. But Lhynn is also a powerful fortress that many assaults have not yet managed to break. The life of the Imperial Palace, ruled over with an iron fist by the Emperor Haghendorf, resembles a dance of death.//
+这里就是帝国首都: Lhynn!
+帝都Lhynn是帝国之内万众瞩目之地。
+帝都有着数百年积累的奇迹，光彩夺目。
+另外帝都还是一个座强大的堡垒，许多次
+攻击都未能攻破。由皇帝Haghendorf铁拳
+统御下的皇宫生活, 就如死亡之舞一般.//

@@ -1,6 +1,11 @@
 0
-You must now prepare yourself to govern and to lead the war! Your castle is the seat of your power. This is where you receive the gold of your taxes, and this is where your recruit your soldiers and you improve your weaponry.
+现在你自己必须要准备好治理和指导作战，
+你的城堡是你力量的根本，这里是你收取
+税金的地方，也是你招募士兵和升级武器
+的地方。
 
-If you do not want to be destroyed, you must deploy a vast army!
+若你不想被摧毁，就要部署一支庞大部队!
 
-I will now leave you to explore the inside of your castle! When you wish to leave it, go to the Embassy or press R to return to the Region Map.//
+现在我将让你探索城堡的内部!
+当你想要离开时候, 就去Embassy
+或者按下R就能回到区域地图。//

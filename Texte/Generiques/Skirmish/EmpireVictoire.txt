@@ -1,2 +1,4 @@
 0
-Soldiers! The Empire has once again proved its power by winning a great victory. The Emperor expected you to do your duty. He is satisfied with your conduct.//
+士兵们!帝国又一次以伟大的胜利
+证明其权威。皇帝陛下期待你们尽忠职守.
+他对你们的表现十分满意。//

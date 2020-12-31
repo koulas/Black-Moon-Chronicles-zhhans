@@ -1,11 +1,26 @@
 0
-Welcome to the side of the Black Moon, young man. My master Haazheel Thorn, considers you to be a great warrior. So we are going to test you...
+欢迎来到黑月的阵营, 年轻人。
+我们的主人Haazheel Thorn,
+考虑到你是了不起的战士.
+所以让我们来测试一下你...
 
-Our objective is to establish fortresses in this region and to plunder the Imperial possessions, like the large cities and the gold mines. To fight us, the Empire has sent a large army of the Order of Light. Their presence makes our task very difficult. There has not yet been a great battle between them and us since we are still too weak to confront them directly. Therefore avoid direct combat with Light for the moment, unless you are sure to win...
+我们的目标是在该区域建立城堡
+并掠夺帝国的财产,比如大型都市和金矿。
+为了与我们作战,
+帝国已派遣一支庞大的光明教团军前来.
+他们的存在会给我们的任务带来很大困难。
+他们与我们还没有爆发真正的大战
+因为我们力量还太弱不足以正面与他们对抗.
+所以除非你确保能够赢,
+否则你暂时还是要回避与光明教直接对决。
 
-Lord Wismerhill, your first mission is to go to the North West where Light is holding a detachment of our soldiers prisoner. Free them suffering as few losses as possible. Then go to the fortified camp that we have installed further to the South.
+Wismerhill大人, 你第一个任务
+是往西北边去，那里有光明教团军一个据点
+收容了我们的战士俘虏，
+尽可能少损失的情况下解救他们，
+然后去我们在南边安置好的强化营寨。
 
-Go! You have much to do!//
+出发!你还有好多事情去做！//
 
 [EVENEMENTS]	3
 GAIN_GORGOR

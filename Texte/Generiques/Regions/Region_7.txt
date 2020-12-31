@@ -1,2 +1,5 @@
 0
-This region is too far from the Imperial capital to be always very safe! It is inhabited by Elves, Dwarves, by bands of Orcs, and Trolls, and also by tribes of Giants. It is a region across which high mountain ranges extend and wide rivers flow.//
+该区域离帝都太远，并不安宁!
+这里居住着精灵、矮人、兽人和巨魔族群，
+还有巨人部落。
+这是个群山绵延，大河流淌的区域。//

@@ -1,5 +1,10 @@
 0
-Lord Wismerhill! We have arrived at a fortified bridge which is protecting the road to Moork. Look, Lord, the garrison is only composed of a few dozen mercenaries. They do not even seem to have noticed our presence... This is a situation that can turn to our great advantage if we know how to exploit it...//
+Wismerhill大人!我军已经到达桥头堡，
+其捍卫着通往Moork的道路。看,大人,
+守军只有几十位雇佣兵。
+他们好像根本没有察觉到我们的存在...
+只要我们能好好利用这一点，
+当前状况将对我们十分有利...//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Lune_noire\\Region8\\002Debut1_1.txt	865

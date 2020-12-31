@@ -1,5 +1,5 @@
 0
-Yes, it looks like him. At last! After all these years...//
+是,好像是他. 终于！过了那么多年..//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Specials\\MpwDebut3.txt	852

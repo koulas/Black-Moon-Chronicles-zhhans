@@ -1,33 +1,33 @@
 0
-                      - Help (Battlefield) -
+                      - 帮助 (战斗区域) -
 
 
-Space : Mode Fighting/Moving
+Space : 切换战斗/移动模式
 
-1-9 : Cast a spell
+1-9 : 施放魔法
 
-A : Select all the units
-C : Center the view on the current selection
-W : Center the view on Wismerhill, then on the heroes
-S : Stop/Re-start time
+A : 选择所有单位
+C : 聚焦视角到当前选中单位
+W : 聚焦视角到Wismerhill,然后是其他英雄
+S : 暂停/重启 时间
 
-Enter : Open/Close the gate of the castle
+Enter : 打开/关闭 城堡的们
 
-Ctrl+0-9 : Store a combat group
-Alt+0-9  : Recall a stored combat group
+Ctrl+0-9 : 存储一个战斗组合
+Alt+0-9  : 唤起一个战斗组合
 
-Tab : Show/Hide the mini-map
-B : Access to the bestiary
+Tab : 展示/隐藏 小地图
+B : 查阅资料集
 
-Left button  on mouse : Selections
-Right button on mouse : Orders/Actions
-Multi-selection : Shift or Ctrl + Left click
+鼠标左键 : 选择
+鼠标右键 : 命令/行动
+鼠标中间键 : Shift or Ctrl + Left click
 
-Moving over the map : Arrows or Mouse pointer on the edges of the screen
+拖动地图 : 箭头或鼠标点到画面边界
 
-N : Show/Hide clouds
-L : Lighting Yes/No
-D : Show/Hide damage
-M : Show/Hide messages
+N : 展示/隐藏 云朵
+L : 闪电 是/否
+D : 展示/隐藏 危险
+M : 展示/隐藏 信息
 
-Escape: Interface/Quit//
+Esc键: 界面/退出//

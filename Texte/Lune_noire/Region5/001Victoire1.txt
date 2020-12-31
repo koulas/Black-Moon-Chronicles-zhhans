@@ -1,7 +1,14 @@
 2
-Thank you for your help. You are skillful fighters... I fight very well but I would perhaps have been overpowered by the number of assailants. Let me introduce myself: I am Murata the Samurai. I was on board a ship that was wrecked and since then, I have been wandering throughout this strange world.`//
-I greet you Murata. I am Wismerhill and I serve the Black Moon. I suggest you join me.//
-I greet you Murata. I am Wismerhill. I leave you to pursue your wandering through these strange lands. Farewell Murata.//
+多谢你们帮忙，你们是熟练的战士...
+我虽战力强大，但也打不赢那么多袭击者。
+让我自我介绍下: 我是武士Murata
+因为之前我搭的船失事,我现在
+在这个世界到处流浪。`//
+向你问好，Murata.我是Wismerhill
+我效力于黑月军团.我建议你加入我。//
+向你问好 Murata.我是Wismerhill.
+我要和你分开，你还是在这土地上流浪.
+再见，Murata。//
 
 [EVENEMENTS]		3
 GAIN_MURATA

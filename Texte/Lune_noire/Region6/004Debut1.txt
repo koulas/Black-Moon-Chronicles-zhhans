@@ -1,6 +1,13 @@
 0
-Here at last is the Oracle! It is the only one anywhere in the Empire who has the power to tell me about my destiny. This is strange... There is a strong Imperial garrison present. Yet I thought that the site of the Oracle was neutral and that everyone had the right to question it. What is more, Light is present in force. That does not matter: nothing can prevent me visiting the Oracle and if Light or the Empire try to stop me, I will crush them.//
+终于来到神谕之地! 这里是帝国境内
+唯一有能力告知我未来命运之地。
+真奇怪...这里有帝国强力的护卫军。
+我还以为神谕所在之地是中立的，无论何人
+都有权到这里来询问。而且光明教团军在这
+这不算啥: 没人能阻止我拜访神谕之地
+无论是光明教还是帝国军,
+我都会击败他们。//
 
 [EVENEMENTS]		1
 REQUESTER		..\\Texte\\Lune_noire\\Region6\\004Debut1_1.txt	852
-// 
+//

@@ -1,5 +1,10 @@
 0
-Knight of Light, pay attention, listen to me. Let my voice command your will... Order your men to open the gates of the city to offer shelter to the peasants. Use your firmest and most decided voice. Now it is up to you to speak...//
+光明教的骑士们, 请注意，听我说.
+让我的言语指挥你们的意念，
+命令你们的士兵打开城门，
+为农民们提供庇护，
+使用你最坚定、最决断的声音，
+现在你要说出来。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region2\\004Event1_1.txt	866

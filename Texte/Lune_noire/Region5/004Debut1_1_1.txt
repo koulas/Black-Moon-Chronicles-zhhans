@@ -1,5 +1,8 @@
 0
-I do not know myself. You alone have a privileged relationship with the Winds. Let them speak to you... Then you will have an important decision to make.//
+我状态不是很好.
+你有着独有的与风之精灵某种羁绊。
+让他们向你述说吧...
+之后你就会做出一个重要的决定。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region5\\004Debut1_1_1_1.txt	866

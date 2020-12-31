@@ -1,5 +1,5 @@
 0
-Yes, master! Your word is my command!//
+ßö, ÎáÖ÷! ½÷×ñ·¨Ö¼!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region2\\004Event1.txt	851

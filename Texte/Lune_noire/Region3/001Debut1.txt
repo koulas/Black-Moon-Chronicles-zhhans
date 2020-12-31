@@ -1,6 +1,9 @@
 0
-What a pleasure to see you at work, my dear child! What a fabulous sight is this army ready to launch the assault against the last Imperial positions... All that overwhelms me with joy...//
+我亲爱的孩子，很高兴看到你的战功!
+这军队即将发起对帝国最后阵地发起的
+进攻之战是多么震撼人心的景象...
+这所有一切都令我欣喜不已呀...//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region3\\001Debut2.txt	858
-// 
+//

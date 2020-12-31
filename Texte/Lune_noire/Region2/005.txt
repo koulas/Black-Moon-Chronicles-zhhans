@@ -1,2 +1,3 @@
 0
-We cannot lay siege to the fortress of Altenberg until we have taken possession of the suburbs of the city.//
+在完成占领城郊区域前，
+我们是无法围困Altenberg城堡的。//

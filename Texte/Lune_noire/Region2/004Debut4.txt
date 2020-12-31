@@ -1,7 +1,13 @@
 0
-Yes, my child... Here precisely is a great demon come from the deepest circles of the underworld?
+是的，我的孩子...
+这个恶魔恰恰不就是来自地下世界最深层的?
 
-Did you hear, great balgator? Here are your orders: go to the guardian of the gates of the city who is in front of the keep and whisper in his ear that he must open them. Do not deviate at all from your orders or else you will know the weight of my wrath!//
+你听到了吗, 强大的balgator?
+这是对你的指令:
+去到城门守卫者的面前，
+向他耳语让他必须打开大门。
+你不要背离我的指令
+否则会让你知道我愤怒的力量!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region2\\004Debut5.txt	851

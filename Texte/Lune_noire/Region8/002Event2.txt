@@ -1,6 +1,6 @@
 0
-The Orcs are overrunning us! All to the attack.//
+兽人们将要进犯我们!全部出击。//
 
 [EVENEMENTS]		1
 DEFECTION		1
-//  
+//

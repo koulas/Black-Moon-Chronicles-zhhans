@@ -1,2 +1,11 @@
 0
-Welcome to Altenberg, seat of the order of Light! From the sea to the east extend great and rich plains through which wide rivers flow. From these plains, Light draws its arm of predilection: cavalry! To the west, on the sea shore, rises Altenberg, the arrogant citadel of the order of Light, which throughout its existence has never been conquered. Further south, a few Imperial fortresses overlook the great roads that lead to the Imperial capital. To the north-east lie the depths of the forests which are the domain of the Elves.//
+欢迎来到Altenberg, 光明教的大本营!
+从大海的这边往东延展的广袤且富饶的
+平原，宽阔的河流流经这里。在这平原上
+光明教团军摆出了最得意的尖兵：骑兵!
+往西到海岸边,崛起着Altenberg,
+这就是光明教廷引以为傲的城堡,
+他从来没有被征服过.
+更远的南方, 少数几座帝国堡垒监控着
+通往帝都的道路。
+东北面的森林深处，则是精灵族的领域。//

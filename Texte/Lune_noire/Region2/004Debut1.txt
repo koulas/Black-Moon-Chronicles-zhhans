@@ -1,5 +1,15 @@
 0
-Lord Wismerhill! Here is the insolent Altenberg, or at least its suburbs. Before thinking about taking the citadel of the Order of Light, we must first take possession of the lower city. Do not forget, lord, that Altenberg has never been taken or subjugated. Succeeding in extending our domination over Altenberg would be an unprecedented feat which would mark minds. Imagine the Emperor's reaction when he learns that even the most powerful citadels do not resist your power...//
+Wismerhill大人!
+这里就是蛮横的Altenberg,
+或者说至少是其城郊.
+在攻取光明教团军的堡垒之前,
+我们需要先攻下这里的外城。
+别忘了, 大人,
+那座Altenberg从未被攻占或者征服过.
+如果我们能成功扩张占下Altenberg
+那将是令人铭记的不世之功。
+想像一下皇帝知道他最强大的城堡
+都不能抵抗你的力量时，他是什么反应..//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region2\\004Debut2.txt	869

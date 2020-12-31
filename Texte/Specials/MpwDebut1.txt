@@ -1,5 +1,7 @@
 0
-Look, Wismerhill! There, on the great market place of Dis! It can only be your father!//
+看吧, Wismerhill!
+那里，Dis城大市场!
+只能是你的父亲!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Specials\\MpwDebut2.txt	865

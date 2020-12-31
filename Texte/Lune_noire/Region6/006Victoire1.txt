@@ -1,2 +1,9 @@
 0
-You have fulfilled your mission, Lord Wismerhill, by repelling victoriously all the assaults that have been made against you! Alas, the armies of the Black Moon have suffered from the Imperial power... And the wind of a rout has blown over our troops... But there is an even more serious matter! Since the end of the battle, we have no news of Haazheel Thorn or the Baron of Moork! They have probably been killed! Now you are the leader of a routed army!//
+你已完满完成使命, Wismerhill大人,
+你成功地击退了所有对你的攻击!
+唉,黑月军遭受帝国军力的重创...
+且溃败的气息吹遍了我们军队...
+不过还有更糟糕的事情!自从这一战后,
+我们再没有Haazheel Thorn
+和Moork男爵的消息!他们可能被害!
+现在你就是这支溃军的领袖了!//

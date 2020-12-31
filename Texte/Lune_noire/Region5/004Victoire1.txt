@@ -1,5 +1,9 @@
 0
-You are now an ally of the great lords of the winds. This is a great opportunity for you, my child... Now that a part of your destiny has been accomplished, continue your route towards Magistrya... Go! You still have a lot to do.//
+如今你和伟大的风灵之主结成盟约。
+这真是极好的机遇, 我的孩子...
+现在你的已经完成部分命定之数,
+走吧，继续你前往Magistrya之路...
+你还有很多事情要做。//
 
 [EVENEMENTS]	1
 IMAGE		..\\Images\\Ima_0002.tga

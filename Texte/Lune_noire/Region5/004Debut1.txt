@@ -1,5 +1,7 @@
 0
-Wismerhill, my child... It is essential for you to go to the Peak of the Winds. One of the keys of your destiny is there.//
+Wismerhill, 我的孩子...
+登上风灵之巅对你至关重要.
+那里是你的命运的关键之一。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region5\\004Debut1_1.txt		865

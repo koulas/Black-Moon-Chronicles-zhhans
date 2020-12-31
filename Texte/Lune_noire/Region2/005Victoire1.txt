@@ -1,8 +1,14 @@
 2
-Have mercy, Wismerhill, I surrender... Spare me! Why kill each other when we are pursuing a common goal? Spare me and I will faithfully enter your service! We will bring down the Empire together. Think carefully!
-You will need the support of my knight companions and the few dragons I have left!//
-You are just a foul worm with no honor, sinister clown! Put him to death of the worst kind there is!//
-Your proposal is attractive, Sinister! Explain this all to me in more detail...//
+请您怜悯, Wismerhill大人,
+我投降了... 饶了我!
+我们是追求共同目标为什么要自相残杀?
+饶恕我，我就会为你全心全意地效劳!
+让我们一起联手让帝国灭亡. 请仔细想想!
+你需要我的骑士伙伴还有我剩下的几头龙!//
+你是毫无荣誉感的蠢虫，阴险小人。
+让他以最惨死法去死吧!//
+你的建议挺吸引的, Sinister!
+向我详细说明更多细节...//
 
 [EVENEMENTS]	2
 REQUESTER	..\\Texte\\Lune_noire\\Region2\\005Victoire1_1.txt	852

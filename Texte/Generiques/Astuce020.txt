@@ -1,10 +1,11 @@
 2
-Tips & Tricks
-                            - Battlefield -
+攻略贴士
+                            - 战斗区域 -
 
-Cavalry are perfect for harassing infantry and for moving rapidly over the battlefield!//
-Next trick//
-Play now//
+骑兵是骚扰步兵以及在战场上迅速移动的
+最好选择!//
+下一条//
+开始玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce021.txt	857

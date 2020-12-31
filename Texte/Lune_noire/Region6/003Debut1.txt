@@ -1,7 +1,9 @@
 0
-Halt, henchmen of the Black Moon! Stay where you are! I forbid you to enter this Imperial city. Go or suffer the Emperor's wrath!//
+站住别动, 黑月军的走狗们!
+你们乖乖站在那里!
+我禁止你们进入帝国城市.
+滚吧，不然就等着承受皇帝的怒火!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region6\\003Debut1_1.txt	865
 //
-

@@ -1,7 +1,12 @@
 0
-This is our battle plan, Lord Wismerhill! We are going to fight a defensive battle relying on the stockades that we have put up... Lord Wismerhill, your role will be to protect our right flank while I hold the center at the head of my troops!
+我军作战计划是这样, Wismerhill大人!
+我们准备依靠我方建立的防御工事打一场
+防御战... Wismerhill大人,
+你的任务就是保护好我军的右翼
+而我则率领部队镇守中军!
 
-Haazheel Thorn and I will be personally involved in the battle since the Black Moon absolutely must triumph over the Empire today!//
+Haazheel Thorn和我都将亲自上阵
+因为今天黑月军必须战胜帝国凯旋!//
 
 [EVENEMENTS]	1
 ALLIANCE	1

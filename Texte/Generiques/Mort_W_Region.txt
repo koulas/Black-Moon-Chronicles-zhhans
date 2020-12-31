@@ -1,2 +1,9 @@
 0
-You were a great general, Wismerhill, leading gigantic armies to victory! The Oracle revealed your destiny to you. Alas, you fell during an epic battle which will remain in everyone's memory for generations to come. You will not be entirely dead because the minstrels will sing of your death for a long time to come. Perhaps you will be a little more cautious in another life. Who knows?//
+你是位伟大的将军, Wismerhill,
+带领庞大的部队获得胜利!
+神谕已经揭示你的命运。
+哎, 可惜你在一场史诗般的战役中倒下.
+这场战役会留存在世世代代的每人记忆里
+你是永垂不朽的，因为吟游诗人会长久地
+颂扬你的死亡。
+或许下辈子你会更小心些. 谁知道呢?//

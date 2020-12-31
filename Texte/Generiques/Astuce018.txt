@@ -1,10 +1,13 @@
 2
-Tips & Tricks
-                            - Battlefield -
+攻略贴士
+                            - 战斗区域 -
 
-Legend has it that a super-powerful evil creature exists who goes by the name of Lord of Negation. This abomination is a warrior so strong that he can destroy an army on his own! If this legend is true, I would advise you to be extremely cautious if you have to fight him one day!//
-Next trick//
-Play now//
+传说中存在一位超级强大的恶魔，他的名字
+叫否定之主.这可憎的家伙可以独自毁灭
+一支军队! 如果传说是真的,万一有天
+你要和他打，你要非常谨慎才好!//
+下一条//
+开始玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce019.txt	857

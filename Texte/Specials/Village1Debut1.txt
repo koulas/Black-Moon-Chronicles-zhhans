@@ -1,5 +1,8 @@
 0
-Soldiers, our aim is to terrorize the inhabitants of the neighboring villages. We are going to make an example of this village. For Haazheel Thorn! For the Black Moon! Charge and take no prisoners!//
+士兵们,我军目的是给附近村庄杀鸡儆猴.
+我们就是要拿这条村做个样子。
+为了 Haazheel Thorn! 为了黑月军!
+冲吧，一个都不留!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Specials\\Village1Debut2.txt	873

@@ -1,10 +1,11 @@
 2
-Tips & Tricks
-                            - Battlefield -
+攻略贴士
+                            - 战斗区域 -
 
-The Standard-bearer is a veteran soldier, and he is the guardian of the morale among the troops!//
-Next trick//
-Play now//
+旗手兵是老练的士兵,
+并且他也是部队士气的守护者!//
+下一条//
+开始玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce022.txt	857

@@ -1,7 +1,8 @@
 2
-You help us break Dwarves? After, share booty?//
-Yes, of course, Troll chief. Let us crush the Dwarves and then we will share the booty.//
-We! We will help the Dwarves!//
+你帮我们干矮人族? 然后分战利品?//
+当然是的, 巨魔老大. 让我们打垮矮人们
+然后我们再分战利品。//
+我们！我们是要帮助矮人!//
 
 [EVENEMENTS]	2
 REQUESTER	..\\Texte\\Lune_noire\\Region6\\005Debut3_1.txt	876

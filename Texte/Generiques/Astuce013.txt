@@ -1,10 +1,11 @@
 2
-Tips & Tricks
-                            - Battlefield -
+攻略贴士
+                            - 战斗区域 -
 
-Apparently, if Justice is so powerful today, it is because their priests and their magicians always work together!//
-Next trick//
-Play now//
+很明显, 正义骑士团如今为什么那么强,
+因为他们的魔法师和牧师总是联合作战!//
+下一条//
+开始玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce014.txt	857

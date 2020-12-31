@@ -1,6 +1,14 @@
 0
-Look my love... Our master Haazheel Thorn is sending us a few troops as reinforcements: a few horsemen, two Trolls, a giant, two mentats! It is the sign that he is following our progress closely. You must not disappoint him! Exterminate these ridiculous members of Light, enter the Oracle and then leave this place by the road to the North.  If the Empire's troops want to hold us back, we will strike them down like the others.//
+瞧 我的爱人... 我的老大Haazheel Thorn
+派了这么些部队作为援军:几位骑兵
+两只巨魔、一个巨人、两位魔导师!
+这说明他在密切关注我军的进展!
+你们一定不能让他失望。
+歼灭掉荒唐的光明教团成员,进入神谕之地
+然后顺着北方的道路离开这里。
+如果帝国军想阻止我们,
+我们会像之前对付其他人那样干掉他们。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region6\\004Debut1_1_1.txt	866
-// 
+//

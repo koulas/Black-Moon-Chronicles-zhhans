@@ -1,15 +1,16 @@
 2
-Special missions
+特殊关卡
 
-                 Parsifal the Just!
+                正义的Parsifal!
 
-The Black Moon is attacking the villages to pillage them! Luckily, Prince Parsifal and some brothers of Justice are approaching, ready once more to defend widows and orphans!//
-Next mission//
-Play this mission//
+黑月军团正在袭击村庄进行掠夺!幸运的是
+Parsifal王子和他那帮正义骑士团弟兄
+正在逼近，准备再次保护孤寡老弱。//
+下一关//
+玩这关//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Specials\\Mission6.txt	855
 //
 -
 //
-

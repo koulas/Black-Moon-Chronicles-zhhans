@@ -1,10 +1,11 @@
 2
-Tips & Tricks
-                            - Region Map -
+攻略贴士
+                            - 区域地图 -
 
-A regiment exclusively composed of cavalry advances rapidly over the region map, and therefore constitutes a perfect scout.//
-Next trick//
-Play now//
+一个完全由骑兵组成的部队可以在地图上
+快速推进,因而这就是完美的侦查部队。//
+下一条//
+开始玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce004.txt	857

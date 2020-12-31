@@ -1,5 +1,9 @@
 0
-Chief! Our fortified camp is being attacked by our enemies. They need reinforcements since they have come in large numbers. Hurry up or else they will beat us soundly... What is more, the priest of the camp has betrayed us: he has opened the gates to the enemy.//
+主人!我军的营寨正在被敌人攻击。
+由于敌军人数众多，他们急需增援。
+赶紧，否则我们就要被他们打败...
+另外营地里面的祭司背叛了我们:
+他向敌人打开了大门。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region5\\003Debut1_1.txt		865

@@ -1,10 +1,11 @@
 2
-Tips & Tricks
-                            - Battlefield -
+攻略贴士
+                            - 战斗区域 -
 
-Archers can considerably increase the damage they inflict by shooting from a high position, such as the top of a mountain, or ramparts.//
-Next trick//
-Play now//
+弓箭手站在高处射击就能增加伤害,
+像山顶,或者城墙上。//
+下一条//
+开始玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce010.txt	857

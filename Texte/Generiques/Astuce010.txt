@@ -1,10 +1,11 @@
 2
-Tips & Tricks
-                            - Battlefield -
+攻略贴士
+                            - 战斗区域 -
 
-A troll can regenerate so quickly that, if you attack it, you must kill it without fail!//
-Next trick//
-Play now//
+巨魔的再生速度很快的，如果你攻击它
+必须马上杀死，不能手软!//
+下一条//
+开始玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce011.txt	857

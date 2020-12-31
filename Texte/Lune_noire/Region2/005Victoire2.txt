@@ -1,7 +1,19 @@
 2
-You are a reasonable man, Wismerhill. We can only agree... Here is my proposal: spare me and I will enter your service! To convince you, I contribute my capacity to command an army and the few troops who will want to accompany me in this adventure. In exchange, I want to participate in all the fighting against the Empire, I want to be the first to enter the Imperial palace and I want to be given a great army command after the final victory. What is your answer?//
-I accept, Sinister, ex Grand Master of the Order of Light and new servant of the Black Moon.//
-I refuse! I leave you with Hellaynnea... You will enjoy yourself a lot together.//
+你是一个明智的人, Wismerhill.
+我所能提供的建议就是:
+饶恕我，我将为你效劳, 为了使你相信，
+我会指挥我的军队
+以及少部分愿意跟随的部队去为你冒险。
+作为交换, 我要参加所有对帝国的攻击战,
+我想成为第一个攻入皇宫的人.
+并且在获得最后胜利后，
+得到强大的军队指挥权。
+你怎么样决断呢?//
+我答应你, Sinister,
+前光明教团的大宗师
+以及黑月军团的新仆从。//
+我拒绝，我把你留给Hellaynnea...
+你和她在一起，你有得享受了。//
 
 [EVENEMENTS]	1
 GAIN_FRATUS

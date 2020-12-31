@@ -1,5 +1,5 @@
 0
-Yes, I agree to join you Wismerhill.//
+好的我同意加入你方，Wismerhill。//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Lune_noire\\Region5\\001Victoire3.txt	872

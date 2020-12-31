@@ -1,5 +1,8 @@
 0
-It was not an easy task, but we are finally masters of the cemetery. All these dead will make a magnificent army once they are called back by the Black Moon.//
+这个任务不容易,
+但我们最后还是成了这坟地的主子.
+只要黑月发挥召唤之力，
+这里的死人就能组成一支强大军队。//
 
 [EVENEMENTS]	4
 GAINS_UNITES	267 2 3

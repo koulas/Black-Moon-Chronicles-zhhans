@@ -1,7 +1,15 @@
 0
-Baron, I have learned from my spies that the Imperials are short of gold and they have difficulty in covering the pay of their armies. A convoy of gold has just arrived in Mornerives and the Imperials are going to use the city's forge to strike the money. They hope to strike a sufficient number of pieces to cover the pay of their army. I instruct you to enter Mornerives and plunder the money mint set up by the Imperials. Then we do not have to take the city but just enter and plunder it.
+男爵,我已经从间谍那里获悉帝国现在
+缺乏资金，甚至已不能足够支付军队薪水。
+一支黄金押运队刚抵达Mornerives
+帝国军将使用该城锻造货币.
+他们希望通过打造足够多的货币
+来支付军队的薪水. 我指令你
+进军Mornerives并掠夺帝国军
+的造币厂。然后我们只要进入
+并掠夺它，而不需要占领它。
 
-Accomplish this mission to the letter, Baron!//
+完成这封信的任务, 男爵!//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region2\\007Debut2.txt	858

@@ -1,6 +1,12 @@
 0
-This battle is important, Lord Wismerhill. We must bring down the first ramparts of Lhynn to hope to reach the Emperor's palace. The best troops of the Empire are there. It will not be easy!
+这场仗很重要,Wismerhill大人。
+我军必须攻破Lhynn的第一堵城墙
+才能到达皇帝的宫殿，这不是件容易事。
+帝国最强的部队守在那里!
 
-We must slaughter the defenders, take control of the church and control the suburb... We are going to fight to the death!
+我们必须杀光这些守卫,
+从而控制教堂和外城区域...
+我们要战斗到至死方休!
 
-Are you ready to meet your destiny, Lord Wismerhill?//
+Wismerhill大人，
+你准备好迎接命运挑战了吗?//

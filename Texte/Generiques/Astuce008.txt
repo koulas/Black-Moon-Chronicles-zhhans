@@ -1,10 +1,13 @@
 2
-Tips & Tricks
-                            - Battlefield -
+攻略贴士
+                            - 战斗区域 -
 
-Vampires are very sensitive to fire... Which is just as well because their evil capabilities, and their hand-to-hand combat abilities make them opponents that are vulnerable only after a critical wound has been inflicted on them!//
-Next trick//
-Play now//
+吸血鬼对火是很敏感的...
+这就是因为其邪恶力量所导致的,
+而且要与其徒手对打的话，
+要令其遭受重创之后才能让其变脆弱!//
+下一条//
+开心玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce009.txt	857

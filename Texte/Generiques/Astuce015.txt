@@ -1,10 +1,12 @@
 2
-Tips & Tricks
-                            - Battlefield -
+攻略贴士
+                            - 战斗区域 -
 
-Light is an order of elite fighters! Never underestimate an army of Light merely because it is smaller than yours! A priest at your sides is then the best guarantee of victory!//
-Next trick//
-Play now//
+光明教团军是由精英战士组成的军团!
+决不要因为他们规模比你小就低估他们!
+在你身边的牧师就是胜利最好保证!//
+下一条//
+开始玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce016.txt	857

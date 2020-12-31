@@ -1,9 +1,11 @@
 2
-I greet you Baron of Moork!
+问候安好，Moork男爵大人!
 
-Lord Wismerhill! The Magister of Magistrya is asking you for an audience. He has proposals to make to you before the fighting begins.//
-I am listening carefully to you!//
-Your city will suffer the wrath of the armies of the Black Moon!//
+Wismerhill大人!
+Magistrya城的魔导师要求你不妨
+当个聆听者。在开战前他有一个提议给你。//
+我会仔细听一下你说的!//
+你的城市将要遭受黑月军的重击!//
 
 [EVENEMENTS]	2
 REQUESTER	..\\Texte\\Lune_noire\\Region5\\005Debut3.txt	857

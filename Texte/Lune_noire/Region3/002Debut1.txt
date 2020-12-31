@@ -1,6 +1,11 @@
 0
-Lord Wismerhill! This battle is not looking very good. We are faced with a fortress of Justice. The troops holding the ramparts are Paladins of the Order of Justice... What does that mean? I thought that the Empire had not granted Justice the right to establish Kraks...//
+Wismerhill大人! 这场仗看起来不太妙。
+我们面对的是正义骑士团的城堡.
+据守城墙上就是正义骑士团的圣骑士...
+这是什么意思呢?
+据我了解帝国并没有授权给正义骑士团
+建立自己的堡垒...//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region3\\002Debut2.txt	873
-// 
+//

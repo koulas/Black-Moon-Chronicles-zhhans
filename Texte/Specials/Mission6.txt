@@ -1,11 +1,15 @@
 2
-Special missions
+特殊关卡
 
-                 Tragedy in Dis!
+                 Dis城的悲剧!
 
-Wismerhill the orphan has been looking for his father for many years. The Archmagus Haazheel Thorn has finally been able to find him: Wismerhill's father is in the city of Dis! Alas, the Empire has already sealed his fate: Wismerhill's father must die!//
-Next mission//
-Play this mission//
+Wismerhill是孤儿，一直寻找其父亲多年。
+大魔导师Haazheel Thorn最终告诉怎么找到他:
+Wismerhill的父亲在Dis城!
+哎 帝国已经决定其命运:
+Wismerhill的父亲必须死!//
+下一关//
+玩这关//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Specials\\Mission1.txt	855

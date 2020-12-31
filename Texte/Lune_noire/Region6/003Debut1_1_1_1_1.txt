@@ -1,5 +1,10 @@
 0
-We are happy to have been able to agree on such a crucial subject. You are doing us and yourself a great service! I am sure that the Emperor will be advised and that he will know how to reward you for this wise choice. The Emperor is surrounded by great generals... I will give orders so that we only hit Light.//
+我们很高兴在这样的关键问题上达成一致.
+你这么做无论对你自己还是我们都很棒!
+我肯定皇帝陛下听纳忠言并且陛下会
+知道如何奖励你这明智的选择。
+皇帝身边被将领们包围着...
+我会获得旨意让我们只攻击光明教。//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region6\\003Debut2.txt	866

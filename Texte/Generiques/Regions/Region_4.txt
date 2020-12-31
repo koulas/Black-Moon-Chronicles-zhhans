@@ -1,2 +1,9 @@
 0
-Here is a great Imperial region in which the countryside is safe, and the towns are prosperous and well defended. To the south-east, the great Elf forests keep the knowledge of the Elves hidden from the greedy eyes of the world. To the north, in the mountains, the Dwarves dig, cut, mine, and manufacture weapons and siege engines. Often the Elves and the Dwarves launch into bloody battles fuelling their mutual hatred.//
+这里是伟大帝国治下的区域,
+乡村安宁，城镇繁华，防守森严。
+往东南面,庞大的精灵森林将精灵族的
+知识遮蔽，免于世人贪婪目光的窥视。
+往北的群山中,矮人族在挖掘，切割，
+采矿,以及制造各种武器和攻城器。
+矮人族和精灵族经常发生残酷血腥
+的战斗，他们双方的仇恨不断被点燃。//

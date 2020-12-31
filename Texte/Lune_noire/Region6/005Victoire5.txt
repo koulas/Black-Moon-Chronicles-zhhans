@@ -1,7 +1,11 @@
 0
-My young friend! The hour of the great battle has sounded! Thanks to your efforts, we are sufficiently powerful to launch ourselves into a pitched battle against the Empire and its allies... Join me as quickly as possible at the Fault of Tsaroth where our army is gathering. It is there that the Emperor will see the vast size of my power.
+我的年轻朋友!大战的钟声已敲响!
+多亏你的努力,我们现在有足够的力量能和
+帝国及其盟军展开激烈的战斗...
+尽快加入在Tsaroth断层那里聚集的我军。
+在那里皇帝就能看到我们势力规模之大。
 
-Hurry up my child.//
+赶紧我的孩子。//
 
 [EVENEMENTS]	1
 IMAGE	..\\Images\\Ima_0006.tga

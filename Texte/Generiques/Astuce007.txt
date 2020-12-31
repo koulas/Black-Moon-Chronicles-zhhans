@@ -1,10 +1,11 @@
 2
-Tips & Tricks
-                            - Battlefield -
+攻略贴士
+                            - 战斗区域 -
 
-Keep your mana, brave warrior, the fire elementaries and the spell casters are immunized against fire attacks!//
-Next trick//
-Play now//
+注意保存魔法能量,勇敢的战士,
+火元素精灵和施法者都能免疫火系法术!//
+下一条//
+开始玩//
 
 [EVENEMENTS]		1
 REQUESTER	..\\Texte\\Generiques\\Astuce008.txt	857

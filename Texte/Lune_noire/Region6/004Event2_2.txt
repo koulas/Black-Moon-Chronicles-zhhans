@@ -1,7 +1,11 @@
 2
-It is difficult for us to let you leave unchecked after your slaughter of our allies of Light. Prepare to fight and suffer the icy grip of death.//
-General! Would you attack us if you knew that your so-called allies of Light are preparing a plot to overthrow the Emperor?//
-General! The Empire has not made a good choice in its allies. We defeated the troops of Light and we will defeat you just as easily!//
+在你屠杀我们的盟友光明教团军后，
+我们还让你毫无忌惮的离开，这是不可能的
+准备战斗吧，享受下死神冰冷的掌控。//
+将军！如果你知道所谓的盟友光明教团正
+准备密谋推翻皇帝，你还会攻击我吗?//
+将军!帝国可真没有挑一个好盟友。我们
+会像击败光明教团军那般轻易击败你军!//
 
 [EVENEMENTS]		3
 REQUESTER	..\\Texte\\Lune_noire\\Region6\\004Event2_1_1.txt 868

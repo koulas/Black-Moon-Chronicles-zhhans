@@ -1,5 +1,9 @@
 0
-Are you sure about that? This is a serious accusation! I cannot take the decision alone to intervene in this matter. I am opening the gates of the city and I guarantee my neutrality. However, you may only attack the representatives of Light, otherwise I would have to take action against you... Is that understood?//
+你确认是这样吗? 这是十分严重的指控!
+我一个人不能决定是否介入此事。
+我将会打开城门，且我会谨守中立。
+不过你们只能攻击光明教的代表,
+否则我就又会采取行动...明白吗?//
 
 [EVENEMENTS]	3
 DEFECTION	2

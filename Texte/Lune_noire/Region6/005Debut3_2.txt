@@ -1,5 +1,7 @@
 0
-Thank you for your help against the Trolls! I am sure that we will easily defeat them thanks to you. Then we will be able to talk business!//
+多谢你们帮忙对抗巨魔!
+确实是多亏有你我们才能轻易打败他们.
+之后呢，我们可以开始谈生意了!//
 
 [EVENEMENTS]	1
 ALLIANCE	1

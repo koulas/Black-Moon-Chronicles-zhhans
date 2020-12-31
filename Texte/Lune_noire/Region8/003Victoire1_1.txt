@@ -1,5 +1,7 @@
 0
-But master, I don't understand... You and the Baron of Moork died in the battle of Tsaroth.//
+但是主人,我还是不明白...
+你和Moork男爵
+不是都死于Tsaroth之战了吗。//
 
 [EVENEMENTS]		1
 REQUESTER		..\\Texte\\Lune_noire\\Region8\\003Victoire1_1_1.txt	869

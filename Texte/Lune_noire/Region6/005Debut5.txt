@@ -1,5 +1,6 @@
 0
-We will be honored to help the proud Dwarf warriors repel the wave of assaults by the Trolls.//
+我们很荣幸能够帮助非比寻常的矮人族
+战士击退巨魔们的如潮攻势。//
 
 [EVENEMENTS]	3
 ALLIANCE	1

@@ -1,7 +1,16 @@
 0
-Here is our final target: the city of Magistrya. We must enter the city and sack it.  What is more, one of the creatures of our master, the Succubus Hellaynnea, is kept in the service of the master of Magistrya. So we will take advantage of the situation to take her back at the same time as we take his life. To do this, we just have to go to the foot of the tower of the Magister. Let us now join our troops, Lord Wismerhill, and prepare yourself for the assault.
+这就是我们的最后目标:Magistrya城。
+我们一定要进入城里洗劫她。
+更重要的是, 其中一位我们魔族之主,
+the Succubus Hellaynnea,
+一直在为Magistrya城的主人效劳.
+因此，只要我们以此机会杀掉城主，
+就能让她回来。要做到这点,
+我们就要去到Magister城中塔的底部。
+让我们加入队伍吧, Wismerhill大人,
+更好地为进攻做准备。
 
-Wait! An emissary is approaching...//
+等一下!一个使者在靠近...//
 
 [EVENEMENTS]	1
 REQUESTER	..\\Texte\\Lune_noire\\Region5\\005Debut2.txt	857

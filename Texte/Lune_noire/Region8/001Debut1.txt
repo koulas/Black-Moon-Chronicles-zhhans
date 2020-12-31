@@ -1,5 +1,6 @@
 0
-Lord Wismerhill! We are pursued by the knights of the Empire... What shall we do?//
+Wismerhill大人! 我军正在被
+帝国的骑兵追击... 我们该怎么办?//
 
 [EVENEMENTS]		1
 REQUESTER		..\\Texte\\Lune_noire\\Region8\\001Debut1_1.txt	865
