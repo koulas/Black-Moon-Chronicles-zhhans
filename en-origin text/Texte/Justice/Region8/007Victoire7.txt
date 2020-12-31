@@ -1,0 +1,6 @@
+0
+Lucky that I can count on faithful allies like you, Parsifal; you have fought bravely, ask of me what you will.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire8.txt	860
+//

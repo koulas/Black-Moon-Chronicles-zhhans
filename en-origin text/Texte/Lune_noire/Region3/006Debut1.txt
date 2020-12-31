@@ -1,0 +1,10 @@
+0
+We have one last battle to fight and the Empire will be just a distant memory. It is a fight to the death where there is no room for pity since we are fighting against Prince Parsifal and his Paladins of Justice and the Emperor Haghendorf with his dragons and his elite guard. We will fight them with all the power of the devilish forces...
+
+To win the victory, we must reduce the number of defenders but above all we must put an end to the lives of Parsifal and the Emperor!
+
+For the Black Moon! For Haazheel Thorn! Charge!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region3\\006Debut2.txt	860
+//  

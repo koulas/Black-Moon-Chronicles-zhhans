@@ -1,0 +1,6 @@
+0
+Out of our territory! The city of Dacow belongs to us and it is not you who will take it from us!//
+
+[EVENEMENTS]	1
+DEFECTION	2
+//

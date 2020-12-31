@@ -1,0 +1,6 @@
+0
+That is an arrogance which deserves severe punishment! You will regret your curt answer!//
+
+[EVENEMENTS]	1
+GAINS_OR	1000
+//

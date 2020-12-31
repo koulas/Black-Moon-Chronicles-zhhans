@@ -1,0 +1,11 @@
+0
+We must fulfill our destiny, Wismerhill; the hour of the confrontation has struck!
+
+The Emperor has ordered us to Tsaroth in order to fight the Black Moon there. Let us pray that the outcome of the war is found in that plain.
+
+If God grants us life after the combat, our task will not be over for all that. The Baron of Moork has taken control of the Imperial city of Horker, all the region is currently under his authority and that of the Black Moon. It is our duty to finish with the demons who wreak havoc unchecked on these lands...
+
+If we are valiant enough, the Empire will once again be sovereign and peace will be reestablished.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\RegionDebut2.txt	865//

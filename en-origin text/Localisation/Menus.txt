@@ -1,0 +1,147 @@
+Yes
+No
+Use the directional arrows to modify the values
+Video
+Volume of the music
+Volume of the sound
+Parental guidance
+New game
+Load game
+Options
+Bestiary
+Credits
+Quit
+Select a game:
+Do you really want to quit?
+Campaign
+Skirmish
+Special missions
+Return to main menu
+FREE
+Loading...
+Characteristics
+Morale: 
+Life points: 
+Power: 
+Weapon: 
+Special 1: 
+Special 2: 
+Special 3: 
+Regiment characteristics
+Action points: 
+Movement on a plain: 
+Movement through a forest: 
+Movement on a mountain: 
+River crossing: 
+Attack: 
+Break off attack: 
+Ambush: 
+Forced march: 
+Fortification: 
+Save game
+Load game
+Options
+Abort mission
+Select a location:
+Do you really want to abort the mission?
+Initiation
+Black Moon   (Experienced)
+Justice   (Veteran)
+Empire   (Expert)
+Light   (Novice)
+Care
+Fireball
+Animation of the dead
+God's Blessing
+Divine Lightning
+Take Life
+Polymorphism
+Invoking the elementaries
+Eradication
+Teleportation
+Resurrection
+Rain of fire
+Hand of Chton
+Demoniac Invocation
+Vade retro
+Back to God
+Heavenly Light
+Last-Day Judgment
+REGIMENT
+SECTION
+RESERVE
+Create a section
+You are need %d more gold coins to buy this unit.
+There are not enough units in reserve.
+You can't buy more than %d sections per regiment.
+What is the name of your regiment?
+Create a regiment
+You can't have more than %d regiments in your army.
+Buy a unit
+- End -
+- Back - 
+- Next - 
+- Wismerhill's Castle -
+- Wismerhill's Fortress -
+- Wismerhill's Krak -
+Black Moon Chronicles
+Please insert CD 2...
+Do you want to spend %d gold coins for this section?
+Battle in Plain
+Battle in Forest
+Battle in Mountain
+Battle in River
+[Invisible clouds]
+[Visible clouds]
+Press F1 to obtain keyboard shortcuts
+[Visible messages]
+[Invisible messages]
+The fortress is closing its gates!
+The fortress is opening its gates!
+[Damage view active]
+[Damage view not active]
+%s (%d Xp)
+The ramparts are suffering!
+The ramparts have been seriously damaged!
+A breach has been opened up in the ramparts!
+Password:
+Password invalid!
+%s : my morale is holding in the face of adversity!
+%s : I refuse to give up land to the enemy!
+%s : I am about to flee!
+%s : I will fight my enemies to the death!
+%s : I am demoralized! I am fleeing the battlefield!
+Not applicable
+You do not have enough room in the reserve to buy this unit.
+What is the name of your regiment?
+Create a regiment
+You cannot have more than %d regiments in your army.
+Impossible to create a section of %s.
+The gates of the fortress have been destroyed.
+%s : I have gained one experience level (level %d)!
+%s : I am going up one experience level (level %d)!
+%s : I have reached the next level (level %d)!
+The demon is escaping from your control!
+Player
+Battle map
+Computer
+Casern
+%s  %d/%d Hp  %d/%d Sp (%d Xp)
+%s  %d/%d Hp (%d Xp)
+- Special missions -
+A routed unit has been rallied!
+%s has been brought back to life!
+Play
+Quit
+Enter the name of your army:
+Losses (%d %%)
+Enemy losses (%d %%)
+Tactical effectiveness (%d %%)
+Creatures invoked (%d)
+Spells cast (%d)
+%02d:%02d:%02d
+- Skirmish -
+Light
+Empire
+Justice
+Black Moon

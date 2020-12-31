@@ -1,0 +1,7 @@
+0
+Victory! These accursed brigands are scattering like rabbits....Thanks to your help, Wismerhill. I have heard tell of you and what you have done for the Empire, during the attack on the village further to the South. Such a shame that the Empire does not have more valiant warriors like you at its service. All our troubles would be over in a flash. Now that the brigands are in flight, you can venture to the north without any great risk. But take care anyway since we have news that the army of the terrible Ghorghor Bey has entered the region I wish you good luck in your future encounters.//
+
+[EVENEMENTS] 1
+IMAGE		..\images\ima_0013.tga
+\\
+

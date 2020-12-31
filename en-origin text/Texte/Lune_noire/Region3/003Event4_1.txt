@@ -1,0 +1,6 @@
+0
+Shame upon the speaker of these words. Many sons of the stars have fallen today through the fault of the Dwarves! We will no longer fight beside you despite the presence of the Order of Justice. Death to the Dwarves!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region3\\003Event4_2.txt	859
+// 

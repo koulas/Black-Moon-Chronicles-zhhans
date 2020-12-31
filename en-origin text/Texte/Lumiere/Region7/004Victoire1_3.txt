@@ -1,0 +1,6 @@
+0
+Just a minute... I suddenly notice that I have miscounted; in fact, the brigands' treasure is some 1000 pieces of gold. It all comes automatically to your Lordship... //
+
+[EVENEMENTS]		1
+GAINS_OR	1000
+//

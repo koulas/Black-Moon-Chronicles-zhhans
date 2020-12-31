@@ -1,0 +1,9 @@
+0
+Baron,
+we have reached Bys... It seems that the city is calm and safe...
+
+Our scouts have indicated to us that the Dwarves are in the city... That might interest you...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region3\\004Debut1_1.txt 865
+//

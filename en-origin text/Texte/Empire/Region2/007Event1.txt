@@ -1,0 +1,6 @@
+0
+You have discovered the place where the treasure of the magic source was hidden!//
+
+[EVENEMENTS] 1
+GAINS_OR		1000
+//

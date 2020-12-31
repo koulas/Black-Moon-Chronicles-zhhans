@@ -1,0 +1,6 @@
+0
+Look my love... Our master Haazheel Thorn is sending us a few troops as reinforcements: a few horsemen, two Trolls, a giant, two mentats! It is the sign that he is following our progress closely. You must not disappoint him! Exterminate these ridiculous members of Light, enter the Oracle and then leave this place by the road to the North.  If the Empire's troops want to hold us back, we will strike them down like the others.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\004Debut1_1_1.txt	866
+// 

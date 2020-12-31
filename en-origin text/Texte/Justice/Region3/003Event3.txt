@@ -1,0 +1,15 @@
+2
+You misunderstand Prince, only Fratus Sinister, our chief, is responsible for our fate; and I have just learned that the high priests of Altenberg have disavowed him!
+
+This means that we no longer have to follow his orders and in these circumstances, we join you!...
+
+I plead with you, Prince, let us cease this barbarity and re-tie the brotherly link that united us!//
+Now that fills me with joy! I accept your repentance.//
+Even if they are sweet to hear, I cannot believe your words.//
+
+[EVENEMENTS]	3
+REQUESTER	..\\Texte\\Justice\\Region3\\003Event3_1.txt	927
+ALLIANCE	3
+//
+
+REQUESTER	..\\Texte\\Justice\\Region3\\003Event3_2.txt	927//

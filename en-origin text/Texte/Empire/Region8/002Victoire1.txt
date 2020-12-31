@@ -1,0 +1,6 @@
+0
+The enemy has been wiped out and we will also recover the gold that they stole from us. Let us go now to conquer Moork!//
+
+[EVENEMENTS] 1
+IMAGE	..\\Images\\Ima_0010.tga
+//

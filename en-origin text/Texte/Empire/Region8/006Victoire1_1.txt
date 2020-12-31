@@ -1,0 +1,7 @@
+0
+Do not get excited too quickly... The fight against the Black Moon has not finished...
+Haazheel Thorn has managed to flee... What is more, the troops of Light did not take part in the battle... They are rebelling against my authority! Pursue Haazheel to Horker and be wary of the troops of Light... I do not know if they are still our allies....//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region8\\006Victoire1_1_1.txt 865
+//

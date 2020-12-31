@@ -1,0 +1,6 @@
+0
+... No, it's far worse... I notice the smell of rottenness... the men and women have the green plague! The plague has broken out inside the city, and the Emperor is driving out the population in the hope of infecting us. We must at all costs prevent these plague bearers from crossing our trenches or death is upon us!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region3\\005Debut1_1_1_1.txt	874
+//

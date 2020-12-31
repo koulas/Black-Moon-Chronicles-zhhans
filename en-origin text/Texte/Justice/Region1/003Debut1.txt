@@ -1,0 +1,7 @@
+0
+Lord, we are mistaken, the chief leading the devilish forces of the region is not here!
+
+In this area there are just creatures looking for a fight.//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\003Debut2.txt	860//

@@ -1,0 +1,6 @@
+0
+Master! We have crushed these filthy Lights. We have freed our brothers. We are the victors. We have even recovered 500 gold crowns from the corpses!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region5\\002Victoire2.txt	865
+//

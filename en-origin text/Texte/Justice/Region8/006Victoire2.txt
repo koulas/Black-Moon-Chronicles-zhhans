@@ -1,0 +1,6 @@
+0
+You are very generous but, you see, a cow in an army, that could slow us down a little!//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\006Victoire3.txt	861
+//

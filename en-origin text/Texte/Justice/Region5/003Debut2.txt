@@ -1,0 +1,6 @@
+0
+Damnation, going against my prayers and the will of the Almighty, the soldiers of Light are continuing to serve dark purposes...
+I cannot bear to watch this infamy.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region5\\003Debut3.txt	855//

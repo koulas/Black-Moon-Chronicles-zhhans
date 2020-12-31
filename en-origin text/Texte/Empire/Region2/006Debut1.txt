@@ -1,0 +1,8 @@
+0
+Come to our assistance, Baron Wismerhill!
+Our troops have been scattered before Altenberg! Our soldiers are fleeing the battle!
+Help me recover them and finish Light off!//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region2\\006Debut1_1.txt 865
+//

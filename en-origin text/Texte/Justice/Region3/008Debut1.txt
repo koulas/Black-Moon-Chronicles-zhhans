@@ -1,0 +1,6 @@
+0
+Here are the walls of the Imperial Castle, the Emperor's assassin is within, coming back to the scene of the horrible crime he has committed...
+Lord, be assured that he will not commit any more, he will soon be before you and will have to answer for his actions; I swear to you.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\008Debut2.txt	865//

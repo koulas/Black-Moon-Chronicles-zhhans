@@ -1,0 +1,7 @@
+0
+I can see the smoke of the forges of Grunkedash. It is here that the Dwarves manufacture and sell the finest siege engines in the known universe!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\002Debut1_1.txt	859
+//
+

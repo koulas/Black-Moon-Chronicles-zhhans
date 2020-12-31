@@ -1,0 +1,82 @@
+Nombre de lieux uniques :6
+
+Nom : 002
+Lhynn
+Entree : 3
+x :12
+y :20
+Objet Graphique :1266
+Nbr Frame :12
+Lock :1
+Visite :0
+Nouvel Etat :1
+NbUnlock :2
+2 3
+Message : ..\\Texte\\Empire\\Region3\\002.txt
+Messager :853
+
+Nom : 004
+Bys
+Entree : 1
+x :49
+y :11
+Objet Graphique :1265
+Nbr Frame :12
+Lock :0
+Visite :0
+Nouvel Etat :1
+NbUnlock :0
+
+Nom : 007
+Fortress
+Entree : 6
+x :32
+y :10
+Objet Graphique :1265
+Nbr Frame :12
+Lock :0
+Visite :0
+Nouvel Etat :1
+NbUnlock :0
+
+
+Nom : 008
+Fortress
+Entree : 6
+x :37
+y :19
+Objet Graphique :1265
+Nbr Frame :12
+Lock :0
+Visite :0
+Nouvel Etat :1
+NbUnlock :0
+
+Nom : 009
+Dwarf Village
+Entree : 0
+x :23
+y :2
+Objet Graphique :1277
+Nbr Frame :12
+Lock :2
+Visite :0
+Nouvel Etat :1
+NbUnlock :1
+1
+Message : ..\\Texte\\Empire\\Region3\\009.txt
+Messager :-1
+
+Nom : 010
+Dragon breeding farm
+Entree : 3
+x :36
+y :30
+Objet Graphique :1279
+Nbr Frame :1
+Lock :0
+Visite :0
+Nouvel Etat :1
+NbUnlock :0
+
+Rep :26 0

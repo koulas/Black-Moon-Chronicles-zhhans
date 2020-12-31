@@ -1,0 +1,10 @@
+0
+Traitor!
+We will not let you and these Dwarves take our gold mine so easily.
+Prepare to die!//
+
+[EVENEMENTS] 3
+ALLIANCE 1
+DEFECTION 2
+ALLIANCE 1
+//

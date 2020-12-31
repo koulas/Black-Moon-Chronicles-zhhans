@@ -1,0 +1,5 @@
+0
+If you help us to get back to our troops, we will give orders to give you assistance. I am aware that the future of the Empire is at stake.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\004Debut4.txt	855//

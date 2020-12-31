@@ -1,0 +1,8 @@
+0
+Sire, the troops of Justice are not alone in combating us. They are reinforced by a contingent of Elves and an auxiliary corps of Dwarves. The Empire has called up all its allies.!
+It is a Paladin of Justice who is the commander in chief. He has set up his tent on the edge of the Lake of the Five Fingers, in front of those of the prince of Elves and the lord of the Dwarves. He invites you to join him to negotiate. He assures you that you may come without fear: the banks of the lake are protected by an ancient spell, so that no one may draw a sword there. The safety of the ambassadors is perfectly guaranteed.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region3\\003Debut1_1.txt	862
+//
+

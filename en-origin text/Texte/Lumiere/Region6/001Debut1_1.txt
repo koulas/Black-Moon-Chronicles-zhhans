@@ -1,0 +1,7 @@
+0
+I am Rudolf von Kreuznach, head of the Imperial garrison. Lord, you have come just in time. The situation is serious: as you know, the Oracle is holy territory. The Empire, your Order and the Black Moon each maintain a garrison there to guarantee pilgrims freedom of access to the sanctuary. Such was the established order. But today, the Black Moon has taken possession of the sanctuary and is preventing anyone drawing close to it. Furthermore, the rebels await reinforcements who may arrive at any time. Let us crush the Black Moon before it is too late. In the name of the Emperor, we will free the sanctuary!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\001Debut1_1_1.txt	862
+//
+

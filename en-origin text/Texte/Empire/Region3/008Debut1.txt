@@ -1,0 +1,15 @@
+0
+Baron,
+the troops of Light surprised us by attacking from the South... They are about to enter the fortress...
+
+We absolutely must prevent them...
+
+The pay of the soldiers of the region is here... The morale of the Imperial troops would fall if this gold fell into the hands of Light... There would even perhaps be mutinies...
+
+Come to help us, ...
+
+We will reward you generously if you succeed...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region3\\008Debut1_1.txt  865
+//

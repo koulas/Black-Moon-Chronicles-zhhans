@@ -1,0 +1,8 @@
+0
+You will doubtless have the chance to extend your talents further, Ghorghor, a scout has just given me the reason for the troubles that this region is suffering: an extremely powerful necromancer, having found refuge in the mountains, is controlling an army of Orcs and living-dead and making them devastate the surrounding areas.
+
+He calls himself Harrak and is to be found close to the Eastern mountains. We have to dislodge him as fast as possible and kill him. Let's go...//
+
+[EVENEMENTS]	1
+IMAGE ..\\Images\\Ima_00018.tga
+//

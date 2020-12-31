@@ -1,0 +1,6 @@
+0
+VICTORY!!!
+Prince, the Empire has been delivered from the abominable control of the forces of darkness!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\008Victoire2.txt	860//

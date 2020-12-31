@@ -1,0 +1,8 @@
+0
+"Bloody was the battle of Tsaroth, and deep the bitterness of the allies of Light who spoke of betrayal. After a heated discussion in the Imperial tent, Fratus Sinister and Wismerhill left at a forced march towards their stronghold on the coast. Murata, Hellaynnea and Ghorghor went with them."
+
+(Light Chronicles - XX, 17)//
+
+[EVENEMENTS] 1
+IMAGE	..\IMAGES\IMA_0022.tga
+\\

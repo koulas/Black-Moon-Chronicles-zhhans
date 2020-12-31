@@ -1,0 +1,6 @@
+0
+Count Wismerhill! This continuing war against the Elves must stop since we have no strength left.  Please go to see the Elves to negotiate a truce so we can recover!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Empire\\Region4\\002Victoire3.txt	865
+// 

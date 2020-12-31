@@ -1,0 +1,9 @@
+0
+Baron,
+We do not agree with the Elves about a gold mine which is on our territory!
+This gold mine has belonged to our people since the dawn of time...
+We ask you to intervene for us to settle the problem once and for all...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region8\\004Debut1_1.txt 856
+//

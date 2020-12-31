@@ -1,0 +1,8 @@
+0
+The time has come, Wismerhill! In the city ravaged by the plague, there is no one left alive to stop us advancing. Only the ghosts of the Imperial guard, loyal beyond death itself, protect the citadel. We must put them to flight.
+Here is my plan: you will attack from the East and take the inside wall. Then send your men to the Imperial keep. You will recognize it easily: it is protected by a moat filled with water. Check carefully that there are no traps hidden on the bridge and prepare the throne room for my coronation.
+Meanwhile, I will wait to the South of the city with a ceremonial cortege.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region3\\006Debut1_1.txt	852
+//

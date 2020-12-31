@@ -1,0 +1,10 @@
+2
+We have a great need of powerful weapons to annihilate these traitors of Light...//
+Very well, I agree to help you...//
+I cannot help you, my troops have been weakened... I'm sorry...//
+
+[EVENEMENTS] 2
+REQUESTER ..\\Texte\\Empire\\Region3\\009Debut1_1_1_1_1.txt 859
+//
+REQUESTER ..\\Texte\\Empire\\Region3\\009Debut1_1_1_1_2.txt 859
+//

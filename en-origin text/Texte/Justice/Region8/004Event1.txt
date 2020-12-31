@@ -1,0 +1,5 @@
+0
+Tremble mortals, the wrath of God will fall upon this accursed city. The Lord has sent me to finish off his work; be proud, Paladins of Justice, you have been selected to be the avenging arm of God!//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region8\\004Event2.txt	860//

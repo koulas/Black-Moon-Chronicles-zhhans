@@ -1,0 +1,10 @@
+2
+The brigands have been exterminated. Now Wismerhill, confiscate the herds and goods of these peasants. After all, without us the brigands would have stripped them of everything.!//
+Agreed. There is no such thing as a small profit...//
+No. We do not have the right to despoil these wretches.//
+
+[EVENEMENTS]	1
+GAINS_OR	500
+//
+_
+//

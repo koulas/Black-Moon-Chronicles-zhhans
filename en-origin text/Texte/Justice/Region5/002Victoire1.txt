@@ -1,0 +1,6 @@
+0
+The joy of victory is this day sullied by treachery.
+Let us pray that Light emerges from the shadows in which it is hiding!//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region5\\002Victoire2.txt	873//

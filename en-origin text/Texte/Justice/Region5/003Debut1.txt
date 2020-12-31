@@ -1,0 +1,5 @@
+0
+Ah, the dogs; the men of Fratus have come to prevent me from reaching the Peak of the Winds!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region5\\003Debut2.txt	860//

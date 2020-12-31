@@ -1,0 +1,6 @@
+0
+Captain, the enemy has massed his forces near an ancient necropolis. All around, the vegetation is burned to a cinder and the earth itself seems rotten. Noxious gases of black magic foul the atmosphere.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region2\\006Debut1_1_1.txt	866
+//

@@ -1,0 +1,6 @@
+0
+We thank you for this gold which will allow us to reinforce our troops and to annihilate Light for ever.//
+
+[EVENEMENTS]  1
+GAINS_OR	1000
+//

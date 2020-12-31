@@ -1,0 +1,5 @@
+0
+Our goods have been liquidated, we have nothing left but tears!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\005Defaite2.txt	926//

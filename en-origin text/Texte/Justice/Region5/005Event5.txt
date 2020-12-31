@@ -1,0 +1,6 @@
+0
+Right, lord, the stranger is in the North; we are with you!//
+
+[EVENEMENTS]	1
+ALLIANCE	1
+//

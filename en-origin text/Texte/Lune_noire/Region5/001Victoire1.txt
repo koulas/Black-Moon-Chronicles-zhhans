@@ -1,0 +1,11 @@
+2
+Thank you for your help. You are skillful fighters... I fight very well but I would perhaps have been overpowered by the number of assailants. Let me introduce myself: I am Murata the Samurai. I was on board a ship that was wrecked and since then, I have been wandering throughout this strange world.`//
+I greet you Murata. I am Wismerhill and I serve the Black Moon. I suggest you join me.//
+I greet you Murata. I am Wismerhill. I leave you to pursue your wandering through these strange lands. Farewell Murata.//
+
+[EVENEMENTS]		3
+GAIN_MURATA
+REQUESTER	..\\Texte\\Lune_noire\\Region5\\001Victoire2_1.txt	827
+//
+REQUESTER	..\\Texte\\Lune_noire\\Region5\\001Victoire2_2.txt	827
+//

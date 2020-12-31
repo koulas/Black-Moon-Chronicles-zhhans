@@ -1,0 +1,7 @@
+0
+Thanks to you, Baron Wismerhill, Dacow has recovered its freedom.
+Please accept this gold as a token of our eternal gratitude.//
+
+[EVENEMENTS]  1
+REQUESTER ..\\Texte\\Empire\\Region2\\005Victoire1_1.txt 865
+//

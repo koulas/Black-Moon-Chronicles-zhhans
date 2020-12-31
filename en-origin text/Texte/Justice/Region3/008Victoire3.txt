@@ -1,0 +1,7 @@
+0
+Certainly, Parsifal, we must choose a new Emperor who will restore peace for his subjects...
+
+I would like to be that Emperor. I am perhaps giving in to my ambitions, but I believe that I can take on this task while preserving justice and honor in the Imperial lands.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\008Victoire4.txt	860//

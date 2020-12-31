@@ -1,0 +1,93 @@
+Nombre de lieux uniques : 6
+
+Nom : 001
+The entrenched camp
+Entree : 2
+x : 42
+y : 24
+Objet Graphique : 700
+Nbr Frame : 12
+Lock : 0
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 0
+
+
+Nom : 002
+Mornerives
+Entree : 3
+x : 49
+y : 31
+Objet Graphique : 1274
+Nbr Frame : 12
+Lock : 0
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 0
+
+
+
+Nom : 003
+The road of the forest edge
+Entree : 1
+x : 46
+y : 14
+Objet Graphique : 1261
+Nbr Frame : 12
+Lock : 2
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 1
+0
+Message : ..\\Texte\\Lumiere\\Region2\\Regiondebut1.txt
+Messager : -1
+
+
+
+Nom : 004
+The plain of trees
+Entree : -1
+x : 32
+y : 7
+Objet Graphique : 700
+Nbr Frame : 12
+Lock : 2
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 1
+2
+Message : ..\\Texte\\Lumiere\\Region6\\Regiondebut1.txt
+Messager : -1
+
+
+Nom : 005
+The gate of dread
+Entree : -1
+x : 14
+y : 5
+Objet Graphique : 1292
+Nbr Frame : 1
+Lock : 2
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 1
+0
+Message : ..\\Texte\\Lumiere\\Region2\\Regiondebut1.txt
+Messager : -1
+
+
+
+Nom : 006
+The accursed place 
+Entree : -1
+x : 18
+y : 17
+Objet Graphique : 1288
+Nbr Frame : 1	
+Lock : 2
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 2
+3 4
+Message : ..\\Texte\\Lumiere\\Region2\\Regiondebut1.txt
+Messager : -1

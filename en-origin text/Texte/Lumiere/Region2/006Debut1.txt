@@ -1,0 +1,7 @@
+0
+This is the hour of truth. All the victories that we have won are without purpose if we lose today. Haazheel Thorn himself, master of the Black Moon, is ranged against us. He has compensated for the losses we inflicted on him by raising an army among the dead. My hatred for Haazheel Thorn is deep, Wismerhill. I want someone to kill him and bring me his heart.!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region2\\006Debut1_1.txt	874
+//
+

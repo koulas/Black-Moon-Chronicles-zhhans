@@ -1,0 +1,6 @@
+0
+The Emperor is generous towards those who serve him well! That is unquestionable! Now, let us repel the hordes of the Black Moon using a few spells... //
+
+[EVENEMENTS]	1
+ALLIANCE	3
+//

@@ -1,0 +1,6 @@
+0
+Prince, this place contains a magic source, an Archangel is waiting there to save us!
+But there are many evil forces surrounding it... Yes, I know, he is there!!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\006Debut2.txt	860//

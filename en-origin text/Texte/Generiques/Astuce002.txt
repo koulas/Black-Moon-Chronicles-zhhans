@@ -1,0 +1,13 @@
+2
+Tips & Tricks
+                            - Region Map -
+
+The mountains can hide an enemy regiment, so use reconnaissance regiments to avoid nasty surprises!//
+Next trick//
+Play now//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Generiques\\Astuce003.txt	857
+//
+-
+//

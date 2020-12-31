@@ -1,0 +1,7 @@
+0
+Sire, a messenger has informed me that to the East one of our fortresses has been taken by Light.
+We will have to go there straight away to wipe out this insult!//
+
+[EVENEMENTS] 1
+IMAGE	..\\Images\\Ima_0001.tga
+//

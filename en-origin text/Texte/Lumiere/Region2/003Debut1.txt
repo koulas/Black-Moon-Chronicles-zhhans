@@ -1,0 +1,7 @@
+0
+A column of the Black Moon is advancing along the Northern road, between plain and forest. Do not give them the time to position themselves in battle order. Let's attack them and inflict heavy losses on them!  //
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region2\\003Debut1_1.txt	856
+//
+

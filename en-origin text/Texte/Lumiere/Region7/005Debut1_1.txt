@@ -1,0 +1,6 @@
+0
+The Dwarf people greets the valiant captains of the Order of Light! A tribe of impudent Elves is threatening our safety and disturbing the public peace. Count on our aid to exterminate them!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region7\\005Debut1_1_1.txt	856
+//

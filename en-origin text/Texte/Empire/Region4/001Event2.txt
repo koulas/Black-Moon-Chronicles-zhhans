@@ -1,0 +1,14 @@
+3
+Count Wismerhill, The Circle of Magi greets you! The Emperor has granted us many privileges.  One of them is that we can only follow his direct orders. Now, you are just a count among many others. What do you offer us to join you?//
+If the city falls, you will also fall! Join me to defend the city!//
+Would a generous Imperial donation of 2500 gold crowns be sufficient to change your mind?//
+These privileges are imaginary! The Emperor will be informed of your actions!//
+
+[EVENEMENTS]	4
+REQUESTER 	..\\Texte\\Empire\\Region4\\001Event2_1.txt	857
+//
+PERTES_OR	1000
+REQUESTER	..\\Texte\\Empire\\Region4\\001Event2_2.txt	857
+//
+REQUESTER	..\\Texte\\Empire\\Region4\\001Event2_3.txt	857
+//

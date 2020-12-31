@@ -1,0 +1,6 @@
+0
+PEASANT Since your lordship so orders, I give him the 100 pieces of gold.//
+
+[EVENEMENTS]		1
+GAINS_OR	100
+//

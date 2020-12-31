@@ -1,0 +1,8 @@
+0
+Let me thank you in return, father, we will show ourselves worthy of this sacred gift.
+
+The strong concentration of demons and living-dead in the area does not inspire me with confidence; do you have any idea about the situation in these parts?//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\002Victoire4.txt	926
+//

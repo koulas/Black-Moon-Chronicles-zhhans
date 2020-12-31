@@ -1,0 +1,13 @@
+2
+The Black Moon is going to assault the city. The Imperials are not fit to defend it. Here is my proposal! I will make it easy for you to enter the city and I will help you against the Imperial garrison. In exchange, my palace and the magic treasures it contains will be kept away from the greed of your Orcs...
+
+If I help you enter the city, will you leave my possessions in peace?//
+Yes! Your possessions will be preserved!//
+The whole of Magistrya must pay tribute! Including you!//
+
+[EVENEMENTS]	2
+ALLIANCE	2
+OUVERTURE_PORTE	1
+//
+REQUESTER	..\\Texte\\Lune_noire\\Region5\\005Debut3_1.txt	857
+//

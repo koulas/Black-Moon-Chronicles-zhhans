@@ -1,0 +1,6 @@
+0
+You are mistaken, general. This time we are not after your city but just after some of its inhabitants. You are offering hospitality in this city to a delegation of knights of Light. We want their lives. In fact, their fate may be of interest to the Empire...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\003Debut1_1_1.txt	868
+//

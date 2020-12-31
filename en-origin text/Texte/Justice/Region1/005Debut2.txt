@@ -1,0 +1,5 @@
+0
+It's quite true, I notice elementaries in the distance, the demons seem to have been invoked to cause our downfall.//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\005Debut3.txt	873//

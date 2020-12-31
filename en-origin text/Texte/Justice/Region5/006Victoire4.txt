@@ -1,0 +1,6 @@
+0
+Follow the path as far as the monolith standing to the west, climb to its summit and listen to us... We will wait for you, Wismerhill, but make haste, time is short.//
+
+[EVENEMENTS]	1
+IMAGE ..\\Images\\Ima_0022.tga
+//

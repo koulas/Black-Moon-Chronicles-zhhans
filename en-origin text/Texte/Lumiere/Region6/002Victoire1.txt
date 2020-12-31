@@ -1,0 +1,16 @@
+3
+Welcome to our forge!
+Our finest craftsmen put their experience at your service. We are able to offer you substantial help for your next battle at competitive prices. We propose two services:
+- The "Hammer of Thor" service: six slings or "balista" and a company of mercenary crossbowmen for the all-inclusive sum of 3000 pieces of gold.
+- The "Steel Fist" service at just 2000 pieces of gold: a war tortoise, a sling and two high precision catapults with their qualified operators.//
+I choose the "Hammer of Thor" formula.//
+I prefer the "Steel Fist" formula.//
+I demand all the engines that you can construct and I will not pay you a single piece of gold!//
+
+[EVENEMENTS]	3
+REQUESTER	..\\Texte\\Lumiere\\Region6\\002Victoire1_1.txt	859
+//
+REQUESTER	..\\Texte\\Lumiere\\Region6\\002Victoire1_2.txt	859
+//
+REQUESTER	..\\Texte\\Lumiere\\Region6\\002Victoire1_3.txt	859
+//

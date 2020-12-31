@@ -1,0 +1,6 @@
+0
+We are for just causes, and I am sure his fine blade will be appreciated within my army.
+Let's go and lend him a hand as soon as possible!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region5\\005Event5.txt	861//

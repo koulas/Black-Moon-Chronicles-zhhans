@@ -1,0 +1,13 @@
+0
+Our Emperor will also be there.
+All these reinforcements should bring in sufficient energy to give the Empire back all its power... At least I hope so!
+
+Forward march!//
+
+[EVENEMENTS]  5
+GAINS_UNITES	23 2 2
+GAINS_UNITES	22 2 2
+GAINS_UNITES	21 2 2
+GAINS_UNITES	139 2 1
+GAINS_UNITES	141 2 1
+//

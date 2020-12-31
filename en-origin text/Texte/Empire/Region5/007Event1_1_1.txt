@@ -1,0 +1,7 @@
+0
+I'm not afraid of your threats, demon!
+Prepare to die!//
+
+[EVENEMENTS] 1
+DEFECTION 2
+//

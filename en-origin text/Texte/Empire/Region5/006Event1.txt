@@ -1,0 +1,10 @@
+0
+Take care, stranger!
+Another horde of brigands is arriving to plunder this city!
+We must take action before they achieve their objective...//
+
+[EVENEMENTS] 3
+DEFECTION 3
+ALLIANCE 2
+REQUESTER ..\\Texte\\Empire\\Region5\\006Event1_1.txt	865
+//

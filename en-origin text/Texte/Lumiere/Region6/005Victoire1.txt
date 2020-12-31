@@ -1,0 +1,7 @@
+0
+That was a fine fight, Wismerhill. All our enemies are dead. You are a chief who deserves to be followed. I place my saber at your service.//
+
+[EVENEMENTS]	1
+GAIN_MURATA
+//
+

@@ -1,0 +1,7 @@
+0
+We have eliminated all our enemies around the magic source and we have reached the place where the treasure was hidden. It is therefore lawfully ours.//
+
+[EVENEMENTS] 2
+IMAGE	..\\Images\\Ima_0014.tga
+GAINS_OR	1500
+//

@@ -1,0 +1,7 @@
+0
+Many thanks, Lord, in the name of the whole Church.
+The gifts of the parishioners are brought to us to defend just causes; yours is such a cause above all, so let me leave you a little... This is truly modest, but it is offered with a willing heart.//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\002Victoire3.txt	865
+//

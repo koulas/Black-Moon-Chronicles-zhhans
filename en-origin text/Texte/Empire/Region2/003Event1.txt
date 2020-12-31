@@ -1,0 +1,8 @@
+0
+I can't even take communion in peace any more!
+
+Well, since you insist, you are going to get a taste of my blade!//
+
+[EVENEMENTS]	1
+DEFECTION	2
+//

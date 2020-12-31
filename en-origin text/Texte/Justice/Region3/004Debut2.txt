@@ -1,0 +1,6 @@
+0
+Certainly we are not going to let ourselves be impressed by a band of greenish ragamuffins!
+I am with you, if you give us help in return... We have an Empire to save after all!!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\004Debut3.txt	868//

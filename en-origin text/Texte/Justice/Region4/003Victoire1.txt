@@ -1,0 +1,7 @@
+0
+These Orcs were soft, and the skeletons, crisp but fragile; oh for a real battle!//
+
+[EVENEMENTS]
+REQUESTER	..\\Texte\\Justice\\Region4\\003Victoire2.txt 865
+//
+

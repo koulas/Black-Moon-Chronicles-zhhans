@@ -1,0 +1,7 @@
+0
+Yes, and we will have to leave immediately to avoid Light having time to get organized.
+I am sending a few of my troops to support us in the battle.//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Empire\\Region2\\006Victoire1_1_1.txt 865
+//

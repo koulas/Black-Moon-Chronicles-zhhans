@@ -1,0 +1,7 @@
+0
+ALLELUIA! My brothers, let us savor the joy of having substituted order for chaos, honor for treachery!
+
+Wismerhill, it is now our duty to choose a new destiny for the Empire.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\008Victoire3.txt	865//

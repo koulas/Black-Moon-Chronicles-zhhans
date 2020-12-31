@@ -1,0 +1,5 @@
+0
+I had been hoping for your arrival for many moons... I am ready, where should I go?//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region5\\006Victoire4.txt	928//

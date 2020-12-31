@@ -1,0 +1,7 @@
+0
+At the edge of the forest, on a hill, I see a warrior fighting alone against a band of brigands. He is fighting well. He will be a fine recruit for us.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\005Debut1_1.txt	827
+//
+

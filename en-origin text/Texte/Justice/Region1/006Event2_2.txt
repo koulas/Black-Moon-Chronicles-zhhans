@@ -1,0 +1,6 @@
+0
+You're all worked up, young man; is it the joy of seeing me?//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\006Event2_3.txt	860
+//

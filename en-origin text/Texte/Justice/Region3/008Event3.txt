@@ -1,0 +1,6 @@
+0
+I will take care of it with pleasure, Prince. His head will decorate a pike before the sun has gone down behind the mountains.//
+
+[EVENEMENTS]	1
+DEFECTION	3
+//

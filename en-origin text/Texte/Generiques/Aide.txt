@@ -1,0 +1,33 @@
+0
+                      - Help (Battlefield) -
+
+
+Space : Mode Fighting/Moving
+
+1-9 : Cast a spell
+
+A : Select all the units
+C : Center the view on the current selection
+W : Center the view on Wismerhill, then on the heroes
+S : Stop/Re-start time
+
+Enter : Open/Close the gate of the castle
+
+Ctrl+0-9 : Store a combat group
+Alt+0-9  : Recall a stored combat group
+
+Tab : Show/Hide the mini-map
+B : Access to the bestiary
+
+Left button  on mouse : Selections
+Right button on mouse : Orders/Actions
+Multi-selection : Shift or Ctrl + Left click
+
+Moving over the map : Arrows or Mouse pointer on the edges of the screen
+
+N : Show/Hide clouds
+L : Lighting Yes/No
+D : Show/Hide damage
+M : Show/Hide messages
+
+Escape: Interface/Quit//

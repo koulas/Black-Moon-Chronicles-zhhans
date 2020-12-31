@@ -1,0 +1,6 @@
+0
+It is strange, Sire, we have not been told of any Black Moon camp: only a few Trolls seem to have set up tents on the foothills to the West.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region5\\002Debut2.txt	860
+//

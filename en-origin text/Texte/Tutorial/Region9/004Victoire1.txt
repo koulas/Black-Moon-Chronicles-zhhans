@@ -1,0 +1,10 @@
+2
+Good morning, traveler. I am Master Grümfer, honorable representative of the dwarf blacksmiths. I am heading South to deliver an order. I have heard tell that the region was disturbed by incessant orc raids. Tell me then if you have any news of this?//
+Yes, Master Grümfer, I can tell you of the latest events that have occurred further South.//
+Master Grümfer, I know naught of what is happening to the South. See about that with the Empire.//
+
+[EVENEMENTS]		2
+REQUESTER	..\\Texte\\Tutorial\\Region9\\004Victoire1_1.txt	865
+//
+REQUESTER	..\\Texte\\Tutorial\\Region9\\004Victoire1_2.txt	859
+//

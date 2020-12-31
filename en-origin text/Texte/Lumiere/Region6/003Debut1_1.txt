@@ -1,0 +1,7 @@
+0
+Captain, the situation is confused; the castle is besieged by the hordes of the Black Moon, themselves attacked from the rear by a battalion of Dwarves from the mountains...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\003Debut1_1_1.txt	867
+//
+

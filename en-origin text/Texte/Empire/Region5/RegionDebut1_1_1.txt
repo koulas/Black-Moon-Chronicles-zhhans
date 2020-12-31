@@ -1,0 +1,10 @@
+0
+Beware, since the Black Moon is powerful! Never underestimate its power!
+Particularly because my spies confirm that the Black Moon has formed an alliance with the Elves living in this region...
+They also told me that enemy regiments are arriving from the North East to capture the cities of Feyhin Lokcthat and Magistrya...
+
+We mustn't let that happen...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region5\\RegionDebut1_1_1_1.txt  865
+//

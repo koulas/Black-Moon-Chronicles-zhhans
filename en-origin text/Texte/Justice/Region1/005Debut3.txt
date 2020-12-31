@@ -1,0 +1,5 @@
+0
+Prince, an archangel has been sighted, he is coming undoubtedly to help us foil this trap. However, he does not seem to be moving, as if he were waiting for something.//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\005Debut4.txt	860//

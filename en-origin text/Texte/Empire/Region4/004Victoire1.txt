@@ -1,0 +1,10 @@
+0
+Victory! The hordes of the Black Moon are fleeing! They are lifting the siege at Northind having suffered heavy losses as well! Look! They have abandoned some of their siege engines and their camp. Plundering their camp will surely bring in a good thousand gold crowns!
+
+The Empire should be proud of its fighters! The Emperor will be satisfied with our action!//
+
+[EVENEMENTS]		3
+GAINS_OR		2000
+GAIN_UNITE		139 1 1
+GAIN_UNITE		141 1 1
+//

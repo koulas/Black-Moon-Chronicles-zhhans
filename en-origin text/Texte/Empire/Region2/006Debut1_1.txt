@@ -1,0 +1,9 @@
+0
+I support you in your task: a soldier who flees before the enemy dishonors his camp.
+I will never accept such a thing!
+
+But I see Prince Parsifal, from the camp of Justice. Is he coming to help us?//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region2\\006Debut1_1_1.txt 860
+//

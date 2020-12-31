@@ -1,0 +1,7 @@
+0
+The Black Moon has opened a gateway to the territory of the demons. The troops who are guarding the site are commanded by the Baron of Moork. A lord of negation is fighting by his side. He is the one who opened the gate of the Abysses. Attack boldly, Wismerhill, or we shall be submerged by the legions of demons invoked by the Black Moon.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region2\\005Debut1_1.txt	866
+//
+

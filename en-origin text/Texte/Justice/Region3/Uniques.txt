@@ -1,0 +1,114 @@
+Nombre de lieux uniques : 8
+
+Nom : 001
+Imperial Krak 
+Entree : 7
+x : 33
+y : 3
+Objet Graphique : 1265
+Nbr Frame : 12
+Lock : 0
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 0
+
+Nom : 002
+Imperial Krak 
+Entree : 0
+x : 25
+y : 6
+Objet Graphique : 1264
+Nbr Frame : 12
+Lock : 1
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 0
+
+Nom : 003
+Krak of Light
+Entree : 1
+x : 17
+y : 7
+Objet Graphique : 1273
+Nbr Frame : 12
+Lock : 1
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 2
+0 1
+Message : ..\\Texte\\Justice\\Region3\\003.txt
+Messager : 857
+
+Nom : 004
+Imperials
+Entree : 1
+x : 41
+y : 30
+Objet Graphique : 697
+Nbr Frame : 12
+Lock : 2
+Visite : 0
+Nouvel Etat : 3
+NbUnlock : 1
+0
+Message : toto.txt
+Messager : -1
+
+Nom : 005
+Farms
+Entree : 0
+x : 28
+y : 30
+Objet Graphique : 705
+Nbr Frame : 1
+Lock : 0
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 0
+
+Nom : 006
+Magic source
+Entree : 6
+x : 47
+y : 6
+Objet Graphique : 1285
+Nbr Frame : 1
+Lock : 2
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 4
+0 1 2 3
+Message : toto.txt
+Messager : -1
+
+Nom : 007
+Suburbs of Lhynn
+Entree : 0
+x : 12
+y : 20
+Objet Graphique : 1265
+Nbr Frame : 12
+Lock : 1
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 3
+0 1 2
+Message : ..\\Texte\\Justice\\Region3\\007.txt
+Messager : 857
+
+Nom : 008
+Lhynn
+Entree : 0
+x : 12
+y : 19
+Objet Graphique : 1266
+Nbr Frame : 12
+Lock : 1
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 1
+6
+Message : ..\\Texte\\Justice\\Region3\\007.txt
+Messager : 857
+
+Rep : 26 0

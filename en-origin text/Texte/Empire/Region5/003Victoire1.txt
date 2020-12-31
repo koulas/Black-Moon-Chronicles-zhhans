@@ -1,0 +1,9 @@
+0
+Thank you for your help.
+All the enemies have been wiped out thanks to you.  However our outpost must be abandoned.
+The troops of the Black Moon are approaching and there are no longer enough of us to stand up to them.
+We can help you for your next assault.//
+
+[EVENEMENTS] 1
+REQUESTER	..\\Texte\\Empire\\Region5\\003Victoire1_1.txt 865
+//

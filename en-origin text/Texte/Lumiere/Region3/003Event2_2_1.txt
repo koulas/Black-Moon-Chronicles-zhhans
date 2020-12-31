@@ -1,0 +1,6 @@
+0
+Right. When the battle starts, we will switch camps to attack the Elves and the troops of Justice. After the victory, do not forget us: when you have power, think of lightening the taxes the Empire burdens us with.//
+
+[EVENEMENTS]	2
+PERTES_OR	10000
+ALLIANCE	2

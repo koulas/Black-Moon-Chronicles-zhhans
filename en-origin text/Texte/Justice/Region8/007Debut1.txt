@@ -1,0 +1,6 @@
+0
+Tsaroth, at last! It is here that the fate of the Empire will be settled. This plain will soon be soiled by the blood of brave men, traitors and demons. Let us hope it will not be shed in vain. //
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\007Debut2.txt	853
+//

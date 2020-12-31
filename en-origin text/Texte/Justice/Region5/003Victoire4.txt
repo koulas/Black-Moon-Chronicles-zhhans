@@ -1,0 +1,6 @@
+0
+We're sure, Wismerhill... You can go, now, we will always be at your side.//
+
+[EVENEMENTS]	1
+IMAGE ..\\Images\\Ima_0002.tga
+//

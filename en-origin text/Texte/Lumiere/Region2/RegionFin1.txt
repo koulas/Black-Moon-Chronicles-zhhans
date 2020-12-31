@@ -1,0 +1,8 @@
+0
+"Even if you are already a rebel at heart, turning your weapons directly against the legitimate Emperor remains a difficult step to take; There is something sacrilegious about defying the heir of an age-old line. But such considerations did not stop Fratus Sinister, intoxicated with victory. As for Wismerhill, he spoke little and bided his time..."
+
+(The Political Thought in the Time of the Ancient Empire - Baron of Ortakal)//
+
+[EVENEMENTS] 1
+IMAGE	..\IMAGES\IMA_0013.tga
+\\

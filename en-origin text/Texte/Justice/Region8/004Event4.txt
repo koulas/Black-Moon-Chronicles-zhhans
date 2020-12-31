@@ -1,0 +1,5 @@
+0
+Traitor baron, I challenge you... Fight if you dare!//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region8\\004Event5.txt	858//

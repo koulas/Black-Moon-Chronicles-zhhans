@@ -1,0 +1,7 @@
+1
+Halt traveler! I wish you no harm. I recognize you; you were at the assault against the imperial fort. Our chief was grievously wounded during the fighting and he has just died. We saw you fight. We have no chief. You are a warrior of great value and we think that you can lead us to wealth and glory. Do you wish to become our chief?//
+Yes, I agree to take you under my command but I demand discipline and obedience from you.//
+
+[EVENEMENTS]		1
+ALLIANCE		1
+

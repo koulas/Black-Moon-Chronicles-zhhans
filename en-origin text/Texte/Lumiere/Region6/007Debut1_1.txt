@@ -1,0 +1,6 @@
+0
+Here you are at last, Knights of Light! Take place on the right flank of my army. I shall command the center, whilst Parsifal, master of Justice, will fight to my left. Charge the enemy boldly! Light and Justice must help the Empire to crush the rebellion.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\007Debut1_1_1.txt	862
+//

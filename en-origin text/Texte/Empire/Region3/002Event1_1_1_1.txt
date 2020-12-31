@@ -1,0 +1,8 @@
+0
+Do not presume too much of your power, Haazheel!
+
+I have already vanquished you once.. And by the Empire, I will do it again!//
+
+[EVENEMENTS] 1
+DEFECTION 2
+//

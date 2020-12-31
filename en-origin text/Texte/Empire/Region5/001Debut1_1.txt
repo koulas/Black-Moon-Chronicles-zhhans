@@ -1,0 +1,6 @@
+0
+Baron, a revolt led by a Succubus and many evil forces has broken out.//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region5\\001Debut1_1_1.txt 865
+//

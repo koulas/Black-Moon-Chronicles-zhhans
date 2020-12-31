@@ -1,0 +1,9 @@
+0
+Wismerhill, you have to save Mornerives. This stronghold commands the Southern frontier of our province. Its importance is crucial for us. 
+Not so long ago, Mornerives was an Imperial fortress. When our relationship with the Emperor grew strained, I judged it opportune to seize it. A surprise attack delivered the city to us. 
+I had judged well, since today the Emperor is attacking us from the South and only Mornerives blocks his armies. You must do everything possible to save our besieged garrison. If the city were to fall, nothing would stop the Emperor in his march on Altenberg.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region2\\002Debut1_1.txt	866
+//
+

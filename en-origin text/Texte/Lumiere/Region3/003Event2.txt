@@ -1,0 +1,10 @@
+2
+What do these emissaries of Light want?//
+We wish to spare your lives. Leave the Imperial army as fast as possible, for we are going to destroy it.//
+We have come to tell you of our astonishment. How is it possible that Dwarves compromise themselves in the same army as the Elves?//
+
+[EVENEMENTS]	2
+REQUESTER	..\\Texte\\Lumiere\\Region3\\003Event2_1.txt	859
+//
+REQUESTER	..\\Texte\\Lumiere\\Region3\\003Event2_2.txt	859
+//

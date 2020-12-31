@@ -1,0 +1,7 @@
+0
+Dvorak! You have reduced the demons into a heap of smoking ash. You really are an outstanding fighter. Now, let's inspect the site, I'm sure that's where the trolls were keeping their booty... There, between the badly sealed stones of this tomb. Just look at the fine glitter of all this gold, there must be a good thousand pieces. It would be a crime to abandon such a treasure here. Fill up your purse quickly and let's get away from here quickly.//
+
+[EVENEMENTS] 1
+IMAGE		..\images\ima_0014.tga
+\\
+

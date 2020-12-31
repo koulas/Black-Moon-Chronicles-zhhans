@@ -1,0 +1,7 @@
+0
+General Ghorghor, I would be grateful if you kept your sarcasm for your drinking companions; here we are dealing with serious matters!....
+
+How long shall we continue this abominable fight making men fight each other who were formerly united under the authority of the Lord? Fratus, we shall meet one day and you will have to account for your mindless deeds.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\002Victoire4.txt	926//

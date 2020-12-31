@@ -1,0 +1,9 @@
+0
+Sorry to break your contemplation once again Prince, but I'm afraid the Empire has never had such need of our services! 
+Fratus Sinister, the traitor, taking advantage of what he called a courtesy visit to the Imperial palace, has assassinated the Emperor!!!
+
+His troops, aided by dragon knights, then invaded the capital, Lhynn, and slaughtered the population...//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\006Victoire4.txt	860
+//

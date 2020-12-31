@@ -1,0 +1,6 @@
+0
+Yes, Prince, it is a great joy, but we have not yet triumphed: Haazheel Thorn, at the very moment of being struck down, disappeared in a magic cloud.. I fear that he will cross our path once again.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire3.txt	853
+//

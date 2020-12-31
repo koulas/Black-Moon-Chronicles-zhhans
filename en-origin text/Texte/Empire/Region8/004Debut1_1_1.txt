@@ -1,0 +1,14 @@
+3
+You are asking me to make a difficult choice... I do not know the situation exactly...
+I have however decided to://
+form an alliance with the Dwarves...//
+form an alliance with the Elves...//
+not to form an alliance with either of you... This gold mine belongs to the Emperor... Prepare to die...//
+
+[EVENEMENTS] 3
+REQUESTER ..\\Texte\\Empire\\Region8\\004Debut1_1_1_1.txt 856
+//
+REQUESTER ..\\Texte\\Empire\\Region8\\004Debut1_1_1_2.txt 859
+//
+REQUESTER ..\\Texte\\Empire\\Region8\\004Debut1_1_1_3.txt 856
+//

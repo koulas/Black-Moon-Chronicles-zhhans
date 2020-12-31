@@ -1,0 +1,7 @@
+0
+The troops of the Black Moon have moved to the east of the city, they are ready to lead the assault!
+
+We are just in time!//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\006Debut3.txt	860//

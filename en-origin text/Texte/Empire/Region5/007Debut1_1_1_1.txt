@@ -1,0 +1,11 @@
+2
+Baron, these demons are very powerful...//
+Let us go, the underworld is too powerful for the living!//
+We must wipe them out whatever the price we have to pay!//
+
+[EVENEMENTS] 2
+ALLIANCE 1
+ALLIANCE 2
+//
+-
+//

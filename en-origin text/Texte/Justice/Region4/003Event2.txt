@@ -1,0 +1,7 @@
+0
+You did not wish to listen to my advice... I'm afraid you must perish now.//
+
+[EVENEMENTS]	1
+DEFECTION	3
+//
+

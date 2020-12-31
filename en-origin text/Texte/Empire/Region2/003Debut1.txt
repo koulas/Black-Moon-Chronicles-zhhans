@@ -1,0 +1,10 @@
+0
+Here you are at the place of the last fight between us and Light, Wismerhill.
+I knew you were capable of leading my troops to victory, but the hardest is still to come.
+Fratus Sinister has gathered together his most powerful troops at Altenberg and has been preparing for a long time for this encounter.
+
+However, you have proved by your courage that you were a great Lord: I am still confident about the outcome of the fighting!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Empire\\Region2\\003Debut1_1.txt 865
+//

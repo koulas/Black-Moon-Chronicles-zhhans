@@ -1,0 +1,6 @@
+0
+I don't know how you managed to guess that there was an ambush. Never mind, thanks to you we are victorious. You are a valorous fighter. As from now you are one of my lieutenants. Continue to fight well and you will obtain bigger shares of booty.//
+
+[EVENEMENTS] 1
+IMAGE		..\images\ima_0018.tga
+\\

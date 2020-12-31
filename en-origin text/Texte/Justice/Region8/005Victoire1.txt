@@ -1,0 +1,9 @@
+0
+Thank you for your help, may God be with you.
+
+We cannot help you for the rest of your crusade, our campaign against the Trolls has exhausted us.
+But before taking up our road towards Sysigia, let me make you a gift of the money obtained from our conquests.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\005Victoire2.txt	855
+//

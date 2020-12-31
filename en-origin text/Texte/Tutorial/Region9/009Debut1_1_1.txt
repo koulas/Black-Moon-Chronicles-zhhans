@@ -1,0 +1,5 @@
+0
+Wismerhill, take care. The sons of Light are setting an ambush for you further down the road.//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Tutorial\\Region9\\009Debut1_1_1_1.txt	865

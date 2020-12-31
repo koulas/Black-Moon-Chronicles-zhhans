@@ -1,0 +1,5 @@
+0
+If I can make myself useful, it will be with pleasure. My armor grows rusty and my joints are starting to creak, I dare say a bit of exercise would do me good!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region5\\003Debut4.txt	865//

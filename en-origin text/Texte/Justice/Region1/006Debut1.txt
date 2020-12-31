@@ -1,0 +1,8 @@
+0
+Sysigia, at last!
+God be praised, the ramparts are intact. The city is not yet the prey of evil.
+
+May we repel the infernal forces of Haazheel Thorn beyond the holy wall!//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\006Debut2.txt	865//

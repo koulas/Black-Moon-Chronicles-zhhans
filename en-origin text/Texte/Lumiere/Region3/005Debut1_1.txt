@@ -1,0 +1,6 @@
+0
+The gate of the city has just opened! There is a flow of civilians coming out, but not one soldier.  Perhaps the Emperor has decided to get rid of all the useless mouths outside the ramparts?//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region3\\005Debut1_1_1.txt	927
+//

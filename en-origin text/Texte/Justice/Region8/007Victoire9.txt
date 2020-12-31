@@ -1,0 +1,9 @@
+0
+Alas, that is precisely the one thing I cannot offer you: I let Light raise Kraks in the past, you see what it costs me today!
+I trust you, Parsifal, but what about your successors?
+
+But be reassured, I will know how to be more than generous.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire10.txt	860
+//

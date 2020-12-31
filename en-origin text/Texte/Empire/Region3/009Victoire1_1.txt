@@ -1,0 +1,6 @@
+0
+Very well! Let us set off for Lhynn... It will soon fall under the yoke of Light if we do not hurry.//
+
+[EVENEMENTS] 1
+IMAGE	..\\Images\\Ima_0006.tga
+//

@@ -1,0 +1,7 @@
+1
+Sir Knight, you arrive just in time. The Orcs are at our gates and are preparing to attack. Do you consent to fight at our side to hurl back these disgusting hordes? If we are victorious, I promise you gold and my recommendation to the imperial garrisons of the region. Do you accept?//
+Lord, I will fight at your side.//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Tutorial\\Region9\\003Debut1_1.txt	868
+//

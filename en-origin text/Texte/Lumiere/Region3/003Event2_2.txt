@@ -1,0 +1,10 @@
+2
+Well... let's go into the tent to be sheltered from indiscreet ears... Indeed, the Elves are our hereditary enemies and we hardly care to fight at their side. We could consider abandoning the side of the Emperor... But there would be talk of treason and, of course, our reputation would suffer... Let's see now, would you be prepared to pay us 2000 pieces of gold to mollify our scruples? Paid cash, of course.//
+It's a deal. Here is your gold.//
+2000 pieces of gold? We do not have such a sum available...//
+
+[EVENEMENTS]	2
+REQUESTER	..\\Texte\\Lumiere\\Region3\\003Event2_2_1.txt	859
+//
+REQUESTER	..\\Texte\\Lumiere\\Region3\\003Event2_2_2.txt	859
+//

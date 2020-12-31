@@ -1,0 +1,7 @@
+0
+Aahh, my succulent victims; I will taste your flesh with delight whilst relieving you of your slavish soul!...
+
+My children, let us commence the dance of death, let us embrace the funereal, let us feast on these pitiful mortals...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region5\\006Event5.txt	860//

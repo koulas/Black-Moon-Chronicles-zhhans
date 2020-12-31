@@ -1,0 +1,13 @@
+2
+Tips & Tricks
+                            - Battlefield -
+
+It is said that a legendary source of magic exists that regenerates units injured in combat! Should you find it one day on a battlefield, keep it and treasure it!//
+Next trick//
+Play now//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Generiques\\Astuce012.txt	857
+//
+-
+//

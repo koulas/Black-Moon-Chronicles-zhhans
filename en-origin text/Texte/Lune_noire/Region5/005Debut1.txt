@@ -1,0 +1,8 @@
+0
+Here is our final target: the city of Magistrya. We must enter the city and sack it.  What is more, one of the creatures of our master, the Succubus Hellaynnea, is kept in the service of the master of Magistrya. So we will take advantage of the situation to take her back at the same time as we take his life. To do this, we just have to go to the foot of the tower of the Magister. Let us now join our troops, Lord Wismerhill, and prepare yourself for the assault.
+
+Wait! An emissary is approaching...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region5\\005Debut2.txt	857
+//

@@ -1,0 +1,10 @@
+0
+Greetings, great Wismerhill!
+
+We have devastating weapons in our possession which might help you in your conquests...
+
+We have 3 catapults and 4 slings to sell you for the very moderate sum of 1000 pieces of gold...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region3\\004Victoire1_1.txt 865
+//

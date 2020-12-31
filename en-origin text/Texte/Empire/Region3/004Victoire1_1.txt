@@ -1,0 +1,10 @@
+2
+Your talents are recognized by the greatest warriors...//
+I accept your proposal: here are 1000 pieces of gold for these destructive weapons.//
+It is too dear, I cannot accept.//
+
+[EVENEMENTS] 2
+REQUESTER ..\\Texte\\Empire\\Region3\\004Victoire1_1_1.txt 859
+//
+REQUESTER ..\\Texte\\Empire\\Region3\\004Victoire1_1_2.txt 859
+//

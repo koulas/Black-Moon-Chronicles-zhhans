@@ -1,0 +1,6 @@
+0
+Lord Wismerhill. We are coming in sight of an advanced imperial guard post. This is the first castle we have come across. It would be helpful now if you were to learn the following things: to enter a castle, you have to pass through the entry gate. If the gate is closed by a portcullis, press on the button Entry to raise it, provided however that the occupants of the castle are inclined to let you enter!//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Tutorial\\Region9\\006Debut1_1.txt	868
+//

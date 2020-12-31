@@ -1,0 +1,6 @@
+0
+Let us pray, my brothers, that the devilish forces do not spread over the Empire as they have done in this city.
+But so long as there are pure hearts to combat them, hope remains.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region5\\006Victoire2.txt	928//

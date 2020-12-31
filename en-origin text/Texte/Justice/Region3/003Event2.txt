@@ -1,0 +1,5 @@
+0
+How dare you? We are in no way responsible for your contemptible betrayal of the Emperor. In flouting your commitments, in fighting for your glory alone, you have betrayed the Lord and drawn our wrath.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\003Event3.txt	927//

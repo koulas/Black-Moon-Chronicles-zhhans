@@ -1,0 +1,6 @@
+0
+Euh... Soldiers... Euh... Open the gates... Euh... In the name of... Euh... Light which commands... Euh... Our hearts... Euh... Let us open the gates...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region2\\004Event1_1_1.txt	851
+// 

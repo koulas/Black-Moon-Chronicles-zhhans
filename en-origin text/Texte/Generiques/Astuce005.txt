@@ -1,0 +1,14 @@
+2
+Tips & Tricks
+                            - Region Map -
+
+A regiment of dragons makes an excellent reconnaissance unit that is fast and extremely mobile!//
+Next trick//
+Play now//
+
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Generiques\\Astuce006.txt	857
+//
+-
+//

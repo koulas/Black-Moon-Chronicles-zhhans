@@ -1,0 +1,7 @@
+0
+It was what he wanted you to believe; his devilish magic is great, he has misled you.
+
+Go to Lhynn, I will wait for you there, then you will know your destiny.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\006Victoire4.txt	860//

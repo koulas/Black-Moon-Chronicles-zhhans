@@ -1,0 +1,9 @@
+0
+Thank you for having saved me, lord Wismerhill, I shall be eternally in your debt...
+To show you my gratitude, let me lend you two sections of my best men: they will be with you until the end of your next battle! I hope they will be useful to you and that they will be able to come back alive.
+
+I wish you a good journey, lord.//
+
+[EVENEMENTS]	1
+GAINS_UNITES 20 2 2
+//

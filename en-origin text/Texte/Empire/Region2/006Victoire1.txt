@@ -1,0 +1,7 @@
+0
+Thanks to you help, Lord Parsifal, my troops have taken up the fight again and we have defeated the enemy.
+Let us continue in this way and go to Altenberg.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Empire\\Region2\\006Victoire1_1.txt 860
+//

@@ -1,0 +1,6 @@
+0
+I am mortally wounded... Life is slipping away... and power... How is this possible? My grand destiny was written in the stars... Ah, Wismerhill, future generations will curse your name for breaking such a beautiful dream...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region3\\006Victoire1_1.txt	866
+//

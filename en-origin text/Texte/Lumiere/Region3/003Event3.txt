@@ -1,0 +1,10 @@
+2
+I, Paladin of justice and commander of the forces loyal to the Empire, invite Light to rediscover the path of virtue. You have rendered yourselves guilty of treachery and oath-breaking. However, despite the seriousness of your faults, the Emperor authorizes me to make you a generous offer. You shall have peace on the following conditions: all your armies shall return immediately to Altenberg. The River Castle fortress shall be returned to the Imperial forces. Fratus Sinister shall abandon his title of Grand Master in favor of a replacement designated by the Emperor. Fratus Sinister and Wismerhill shall come barefoot to Lhynn to implore His Majesty's pardon. On these conditions, their lives shall be spared.//
+Let the Emperor rather come barefoot to give us the keys of Lhynn with a noose around his neck!//
+Sire Paladin, be clear-sighted: the cause of the Empire is lost. Abandon it and we shall make you a rich and powerful man.//
+
+[EVENEMENTS]	2
+REQUESTER	..\\Texte\\Lumiere\\Region3\\003Event3_1.txt	873
+//
+REQUESTER	..\\Texte\\Lumiere\\Region3\\003Event3_1.txt	873
+//

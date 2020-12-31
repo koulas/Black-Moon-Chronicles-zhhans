@@ -1,0 +1,8 @@
+0
+VICTORY!!!
+
+We have vanquished the stronghold of the Black Moon, the cursed baron is dead. This is a day of great joy for Justice and for our country, Sysigia!//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\004Victoire2.txt	865
+//

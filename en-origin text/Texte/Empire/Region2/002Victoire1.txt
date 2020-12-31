@@ -1,0 +1,10 @@
+0
+Sire, we have accomplished our mission: the chief magician of Light has been killed and we have taken over possession of the place again.
+
+We will now be able to use this fortress as a base to prepare for the attack of Altenberg.
+
+We have also taken the gold from the plundering of our enemies.//
+
+[EVENEMENTS]	1
+GAINS_OR	1000
+//

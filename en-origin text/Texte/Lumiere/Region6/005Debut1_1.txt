@@ -1,0 +1,7 @@
+0
+I do not seek your help, Lords. However, refusing it would hardly be courteous on my part. Let us fight these brigands together if such is your desire.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\005Debut1_1_1.txt	856
+//
+

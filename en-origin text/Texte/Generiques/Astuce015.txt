@@ -1,0 +1,13 @@
+2
+Tips & Tricks
+                            - Battlefield -
+
+Light is an order of elite fighters! Never underestimate an army of Light merely because it is smaller than yours! A priest at your sides is then the best guarantee of victory!//
+Next trick//
+Play now//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Generiques\\Astuce016.txt	857
+//
+-
+//

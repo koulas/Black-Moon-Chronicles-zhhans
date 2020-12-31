@@ -1,0 +1,6 @@
+0
+Knight of Light, pay attention, listen to me. Let my voice command your will... Order your men to open the gates of the city to offer shelter to the peasants. Use your firmest and most decided voice. Now it is up to you to speak...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region2\\004Event1_1.txt	866
+//

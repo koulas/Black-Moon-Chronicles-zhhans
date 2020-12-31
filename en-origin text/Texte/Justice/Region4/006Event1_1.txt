@@ -1,0 +1,7 @@
+0
+Although the comparison with your fellow soldiers is hardly flattering, I will help you.
+Where is your superior?//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region4\\006Event1_2.txt	863
+//

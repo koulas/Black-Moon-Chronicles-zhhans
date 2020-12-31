@@ -1,0 +1,7 @@
+0
+A detachment of cavalry has contacted the enemy at the Dolmen Crossroads. But it is not an army of the Black Moon: they are Elves!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region2\\004Debut1_1.txt	862
+//
+

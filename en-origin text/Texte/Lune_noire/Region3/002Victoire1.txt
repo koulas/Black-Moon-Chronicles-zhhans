@@ -1,0 +1,10 @@
+0
+The last fighters of Justice have fallen under our blows. Once again the battle has been costly in lives but what we have gained from the fight is immense. Justice loses many fighters. The Empire loses a new stronghold. The road to Lhynn is open to the armies of the Black Moon. Our reinforcements are now going to arrive in large numbers.
+
+Let fire and the sword rain down now on Lhynn the Haughty...//
+
+[EVENEMENTS]	3
+GAINS_UNITES	8 4 1
+GAINS_UNITES	9 1 1
+GAINS_UNITES	12 4 1
+//    

@@ -1,0 +1,11 @@
+0
+Congratulations on your wise choice. You will not regret it! The units you have ordered will be delivered for no extra cost to the site of your next battle. See you soon, Lord!//
+
+[EVENEMENTS]	6
+PERTES_OR	2000
+GAINS_UNITES	139	1	1
+GAINS_UNITES	141	2	1
+GAINS_UNITES	47	1	1
+GAINS_UNITES	45	3	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\002Victoire1_1_1.txt	862
+//

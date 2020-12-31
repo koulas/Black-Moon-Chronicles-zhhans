@@ -1,0 +1,11 @@
+2
+Victory! The food store is ours. We are going to be able to replenish our forces. But we only found 3 pieces of gold, scant booty... Let's torture our prisoners to find out where they have hidden their treasure.//
+Let's burn the feet of a prisoner to make him talk.//
+Our reputation is worth more than gold. Let us treat the prisoners humanely.//
+
+[EVENEMENTS]		2
+REQUESTER	..\\Texte\\Lumiere\\Region7\\002Victoire1_1.txt	862
+//
+REQUESTER	..\\Texte\\Lumiere\\Region7\\002Victoire1_2.txt	874
+//
+

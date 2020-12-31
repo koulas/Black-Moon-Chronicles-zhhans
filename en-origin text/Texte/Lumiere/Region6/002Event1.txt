@@ -1,0 +1,7 @@
+0
+Truce! O.K., you have the upper hand but if you slaughter us, who will manufacture the siege engines you need? Sheathe your swords and come into our forge; we'll talk business.//
+
+[EVENEMENTS]	1
+ALLIANCE	2
+//
+

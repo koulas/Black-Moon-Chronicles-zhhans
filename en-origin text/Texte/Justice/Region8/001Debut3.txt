@@ -1,0 +1,9 @@
+0
+Ill-luck upon us. We knew the attack was imminent, it is in fact now immediate.
+
+Lord Wismerhill, it is fate that sends you to us. I leave you the command of my troops, your experience against the Black Moon will surely help us.
+As for me and my lieutenants, the issue for us is to die honorably. //
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\001Debut4.txt	865
+//

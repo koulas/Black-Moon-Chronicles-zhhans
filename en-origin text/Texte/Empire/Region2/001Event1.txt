@@ -1,0 +1,6 @@
+0
+We will never offer you the pleasure of a surrender; the only thing that you will get from us will be to put you back in the earth where your ancestors lie!//
+
+[EVENEMENTS]	1
+DEFECTION	2
+//

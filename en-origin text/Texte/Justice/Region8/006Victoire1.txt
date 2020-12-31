@@ -1,0 +1,9 @@
+0
+Ah, thank you for your help! Without you, we would have been cut to pieces and our cows devoured.
+I admire valiant knights such as you, ready to help the weak in such a disinterested way.
+
+My honor however orders me to reward you for your efforts, take these two cows, I offer them to you most willingly.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\006Victoire2.txt	855
+//

@@ -1,0 +1,8 @@
+0
+Sound the alarm! The Black Moon is in the camp! To arms! Attack!//
+
+[EVENEMENTS]	3
+DEFECTION	1
+DEFECTION	2
+DEFECTION	3
+//

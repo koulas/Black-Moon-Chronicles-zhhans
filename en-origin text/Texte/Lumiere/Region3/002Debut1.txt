@@ -1,0 +1,7 @@
+0
+Here we are facing the Imperial army, Wismerhill. We have to inflict heavy losses on it to put it to flight.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region3\\002Debut1_1.txt	874
+//
+

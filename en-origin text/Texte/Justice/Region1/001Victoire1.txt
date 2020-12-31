@@ -1,0 +1,6 @@
+0
+VICTORY!! We have won over evil, Prince.
+Furthermore, we have found a treasure in the necromancer's crypt. That will help us to continue our struggle!//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\001Victoire2.txt	860//

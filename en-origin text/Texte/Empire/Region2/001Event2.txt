@@ -1,0 +1,6 @@
+0
+Victory seems too easy, Light will not give up the fight so easily...//
+
+[EVENEMENTS]	1
+DEFECTION	3
+//

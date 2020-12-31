@@ -1,0 +1,6 @@
+0
+We are happy to have been able to agree on such a crucial subject. You are doing us and yourself a great service! I am sure that the Emperor will be advised and that he will know how to reward you for this wise choice. The Emperor is surrounded by great generals... I will give orders so that we only hit Light.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\003Debut2.txt	866
+//

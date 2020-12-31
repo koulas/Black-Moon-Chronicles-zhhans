@@ -1,0 +1,6 @@
+0
+Soldiers! Here we are in front of the Castle of Garundel. You have marched and fought for a long time already. You have just one more battle to fight. If you win it, you will have a whole town at your mercy. On the other hand, should we fail, expect no pity from these dogs of Light. Soldiers, onwards! When we are at the center of the castle, we will make this arrogant town bend under the weight of our anger!//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Tutorial\\Region9\\012Debut1_1.txt		874
+//

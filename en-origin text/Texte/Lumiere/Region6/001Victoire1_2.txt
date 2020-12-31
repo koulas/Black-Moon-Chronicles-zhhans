@@ -1,0 +1,8 @@
+0
+Sacrilege! Cursed be you who enter a holy place with your boots soiled with blood. Treason follows you like a shadow, and whatever the outcome of this war, shame shall ever cling to your name!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\001Victoire1_2_1.txt	862
+//
+
+

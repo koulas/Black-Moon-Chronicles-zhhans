@@ -1,0 +1,6 @@
+0
+Somewhat primitive language, indeed, but, after all, perhaps he doesn't realize how truly he speaks!//
+
+[EVENEMENTS]	1
+DEFECTION	1
+//

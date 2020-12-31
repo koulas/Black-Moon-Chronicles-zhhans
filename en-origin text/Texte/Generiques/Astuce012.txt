@@ -1,0 +1,13 @@
+2
+Tips & Tricks
+                            - Battlefield -
+
+The living dead are unaffected by psychology! You will have to exterminate every last one of them.//
+Next trick//
+Play now//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Generiques\\Astuce013.txt	857
+//
+-
+//

@@ -1,0 +1,7 @@
+0
+You should never have come here... This place is forbidden to sensitive souls...
+Prepare to die, Mortal!//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region5\\007Debut1_1_1_1.txt 863
+//

@@ -1,0 +1,9 @@
+0
+Wismerhill,
+my men have been waiting for you for a few days and are impatient to run you through...
+You have no chance of reaching Moork...
+Prepare to die!//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region8\\Reg2_Debut1_1.txt 865
+//

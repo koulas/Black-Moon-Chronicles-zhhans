@@ -1,0 +1,8 @@
+0
+Count Wismerhill! The Dwarves greatly appreciated your help! We reward you by offering you a thousand gold crowns but also by promising you to send troops for your next battle!//
+
+[EVENEMENTS]	3
+GAINS_UNITES	47 2 1
+GAINS_UNITES	45 2 2
+GAINS_OR	1000
+//

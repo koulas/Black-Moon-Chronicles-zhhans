@@ -1,0 +1,6 @@
+0
+My lords, it is a joy to welcome you to Horker, even if the hour is one of war.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\001Debut2.txt	863
+//

@@ -1,0 +1,99 @@
+Nombre de lieux uniques : 7
+
+Nom : 001
+Horker
+Entree : 8
+x : 26
+y : 6
+Objet Graphique : 1266
+Nbr Frame : 12
+Lock : 1
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 1
+6
+Message : ..\\Texte\\Justice\\Region8\\001.txt
+Messager : 857
+
+Nom : 002
+Bridge of Moork 
+Entree : 4
+x : 35
+y : 14
+Objet Graphique : 1291
+Nbr Frame : 1
+Lock : 1
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 1
+0
+Message : ..\\Texte\\Justice\\Region8\\002.txt
+Messager : 857
+
+Nom : 003
+Bridge
+Entree : 4
+x : 26
+y : 33
+Objet Graphique : 1291
+Nbr Frame : 1
+Lock : 1
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 1
+0
+Message : ..\\Texte\\Justice\\Region8\\003.txt
+Messager : 857
+
+Nom : 004
+Moork
+Entree : 7
+x : 41
+y : 29
+Objet Graphique : 1272
+Nbr Frame : 12
+Lock : 1
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 1
+0
+Message : ..\\Texte\\Justice\\Region8\\004.txt
+Messager : 857
+
+Nom : 005
+Regiment of Justice
+Entree : 5
+x : 9
+y : 10
+Objet Graphique : 698
+Nbr Frame : 12
+Lock : 0
+Visite : 0
+Nouvel Etat : 3
+NbUnlock : 0
+
+Nom : 006
+Farm
+Entree : 3
+x : 47
+y : 6
+Objet Graphique : 705
+Nbr Frame : 1
+Lock : 0
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 0
+
+Nom : 007
+Tsaroth
+Entree : 1
+x : 4
+y : 20
+Objet Graphique : 1281
+Nbr Frame : 1
+Lock : 0
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 0
+
+Rep : 0 0

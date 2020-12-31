@@ -1,0 +1,13 @@
+2
+Tips & Tricks
+                            - Battlefield -
+
+A troll can regenerate so quickly that, if you attack it, you must kill it without fail!//
+Next trick//
+Play now//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Generiques\\Astuce011.txt	857
+//
+-
+//

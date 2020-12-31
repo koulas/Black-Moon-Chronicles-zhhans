@@ -1,0 +1,11 @@
+2
+Halt! In the name of Haghendorf, I demand that you surrender! If you refuse, you will die!//
+In the name of Haazheel Thorn! Charge!//
+We have nothing against the Empire, General! The Oracle is a place accessible to everyone! Let us through freely!//
+
+[EVENEMENTS]		3
+DEFECTION		2
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\004Event2_1.txt 868
+//
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\004Event2_2.txt 868
+//

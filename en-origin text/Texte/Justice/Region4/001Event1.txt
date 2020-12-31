@@ -1,0 +1,13 @@
+2
+You have arrived just in time, lord. My name is Pärn, and I belong to this village which is the prey of incessant attacks by these infamous Orcs.
+They swoop down from the neighboring mountains to sack our hovels... We are already so poor!
+
+Will you help us to push them back into their lairs?//
+Yes, I agree to defend your interests.//
+No, I refuse. I have other urgent matters to deal with.//
+
+[EVENEMENTS]	3
+REQUESTER	..\\Texte\\Justice\\Region4\\001Event1_1.txt	859//
+DEFECTION	1
+REQUESTER	..\\Texte\\Justice\\Region4\\001Event1_2.txt	859//
+

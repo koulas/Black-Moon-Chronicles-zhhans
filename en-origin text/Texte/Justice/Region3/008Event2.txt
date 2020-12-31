@@ -1,0 +1,7 @@
+0
+At last I see Sinister; the traitor is well guarded by his legions of devils, but my paladins will send them back to hell.
+
+As for their leader, I leave you to take care of him, Wismerhill; I cannot kill a man of the church, even one as perverted as he is.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\008Event3.txt	865//

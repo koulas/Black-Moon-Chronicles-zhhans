@@ -1,0 +1,7 @@
+0
+It is true that mercy, holding no grudge and forgetting offenses count as major virtues in a sovereign...
+In the name of the Elves, I bow down to the new Emperor!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region3\\006Victoire1_1_1_1_1.txt	859
+//

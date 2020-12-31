@@ -1,0 +1,6 @@
+0
+AARH AAARH We are going to hurl your entrails into the unfathomable depths!//
+
+[EVENEMENTS]	1
+DEFECTION	3
+//

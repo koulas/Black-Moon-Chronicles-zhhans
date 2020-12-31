@@ -1,0 +1,7 @@
+0
+You have fulfilled your mission, Wismerhill, that is very good. Now you must die. I regret it, believe me, but we have to be realistic: recently you have become popular with our men, and a future Emperor cannot have a general who is too popular.
+So be reasonable: come and kneel down before my sword so that I can kill you in an esthetically satisfying way. Or else it is I who will come after you, and the outcome will be the same.//
+
+[EVENEMENTS]	1
+DEFECTION	1
+//

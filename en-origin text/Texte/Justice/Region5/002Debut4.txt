@@ -1,0 +1,6 @@
+0
+We shall not fail our word, knight; but from here I can only see some Trolls, not a Black Moon camp.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region5\\002Debut5.txt	866
+//

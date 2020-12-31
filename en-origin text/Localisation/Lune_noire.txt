@@ -1,0 +1,693 @@
+nbBatiments 21
+
+
+Batiment__type "Scierie"
+Batiment__niveau 1
+Batiment__nomObjetMaitre "LUNE_NOIRE___MENUISERIE1"
+Batiment__nom "Joinery of the Black Moon (1)"
+Batiment__nomVariable "NiveauScierie"
+Batiment__estDeBase 1
+Batiment__nbPossibilites 0
+Batiment__nbDeveloppements 2
+	Developpement__nom "Battering Ram (1)"
+	Developpement__prix 100
+	Developpement__nomVariable "NiveauBelier"
+	Developpement__valeur 1
+	Developpement__description	"A basic siege engine, the"
+						"battering ram is"
+						"nevertheless the"
+						"indispensable weapon to overcome the"
+						"gates of the best guarded fortresses."
+	Developpement__nom "Science of Squaring (1)"
+	Developpement__prix 200
+	Developpement__nomVariable "NiveauBois"
+	Developpement__valeur 1
+	Developpement__description	"The mastery of the"
+						"techniques of squaring"
+						"allows the sturdiness of the"
+						"constructions, in particular"
+						"siege engines, to be reinforced."
+Batiment__nbConstructions 2
+	Construction__nom "Forge of the Black Moon (1)"
+	Construction__prix 300
+	Construction__typeBatiment "Forge"
+	Construction__niveauBatiment 1
+	Construction__description	"The use of the"
+						"techniques of metal working"
+						"in the forge enables"
+						"efficient weapons and sturdy"
+						"shields and armor to be produced."
+	Construction__nom "Stables of the Black Moon (1)"
+	Construction__prix 250
+	Construction__typeBatiment "Ecurie"
+	Construction__niveauBatiment 1
+	Construction__description	"Providing for the"
+						"breeding and"
+						"training of horses, the"
+						"stables allow the"
+						"armies to have light cavalry."
+
+
+Batiment__type "Ambassade"
+Batiment__niveau 1
+Batiment__nomObjetMaitre "LUNE_NOIRE___AMBASSADE1"
+Batiment__nom "Delegation of the Black Moon (1)"
+Batiment__nomVariable "NiveauAmbassade"
+Batiment__estDeBase 1
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauPorteDrapeau"
+	Possibilite__valeur 1
+Batiment__nbDeveloppements 1
+	Developpement__nom "Commercial techniques (1)"
+	Developpement__prix 150
+	Developpement__nomVariable "NiveauCommerce"
+	Developpement__valeur 1
+	Developpement__description	"The apprenticeship"
+						"of commercial"
+						"techniques allows the"
+						"pay of new recruits to"
+						"be considerably reduced."
+Batiment__nbConstructions 0
+
+
+Batiment__type "Baraquement"
+Batiment__niveau 1
+Batiment__nomObjetMaitre "LUNE_NOIRE___BARAQUE1"
+Batiment__nom "Barracks of the Black Moon (1)"
+Batiment__nomVariable "NiveauBaraquement"
+Batiment__estDeBase 1
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauOrc"
+	Possibilite__valeur 1
+Batiment__nbDeveloppements 0
+Batiment__nbConstructions 0
+
+
+Batiment__type "Ecurie"
+Batiment__niveau 1
+Batiment__nomObjetMaitre "LUNE_NOIRE___ECURIE1"
+Batiment__nom "Stables of the Black Moon (1)"
+Batiment__nomVariable "NiveauEcurie"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauCavalierLeger"
+	Possibilite__valeur 1
+Batiment__nbDeveloppements 1
+	Developpement__nom "Speed of the Horsemen"
+	Developpement__prix 100
+	Developpement__nomVariable "NiveauCavalerieVitesse"
+	Developpement__valeur 1
+	Developpement__description	"Thanks to a more"
+						"vigorous training,"
+						"the horsemen"
+						"manage to increase"
+						"the speed of their mounts."
+Batiment__nbConstructions 0
+
+
+Batiment__type "Forge"
+Batiment__niveau 1
+Batiment__nomObjetMaitre "LUNE_NOIRE___FORGE1"
+Batiment__nom "Forge of the Black Moon (1)"
+Batiment__nomVariable "NiveauForge"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 0
+Batiment__nbDeveloppements 2
+	Developpement__nom "Science of Metals (1)"
+	Developpement__prix 150
+	Developpement__nomVariable "NiveauArmes"
+	Developpement__valeur 1
+	Developpement__description	"Thanks to the teaching of the"
+						"science of metals, blacksmiths"
+						"learn to select the best materials"
+						"for the construction of weapons, thus"
+						"making them more robust and effective."
+	Developpement__nom "Science of the Forge (1)"
+	Developpement__prix 200
+	Developpement__nomVariable "NiveauArmures"
+	Developpement__valeur 1
+	Developpement__description	"Putting into"
+						"practice the science"
+						"of the forge allows"
+						"more resistant armor"
+						"and shields to be produced."
+Batiment__nbConstructions 2
+	Construction__nom "Drill Hall of the Black Moon (1)"
+	Construction__prix 500
+	Construction__typeBatiment "SalleArmes"
+	Construction__niveauBatiment 1
+	Construction__description	"The first stage in a long"
+						"apprenticeship, the drill"
+						"hall allows the knights to"
+						"become initiated in the"
+						"advanced techniques of combat."
+	Construction__nom "Chapel of the Black Moon (1)"
+	Construction__prix 600
+	Construction__typeBatiment "LieuCulte"
+	Construction__niveauBatiment 1
+	Construction__description	"A place of prayer and"
+						"contemplation, the"
+						"chapel allows the priests"
+						"to declare their faith"
+						"and learn their first prayers."
+
+
+Batiment__type "SalleArmes"
+Batiment__niveau 1
+Batiment__nomObjetMaitre "LUNE_NOIRE___SALLEARMES1"
+Batiment__nom "Drill Hall of the Black Moon (1)"
+Batiment__nomVariable "NiveauSalleArmes"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauTroll"
+	Possibilite__valeur 1
+Batiment__nbDeveloppements 1
+	Developpement__nom "Study of Regeneration (1)"
+	Developpement__prix 150
+	Developpement__nomVariable "NiveauRegenerationTroll"
+	Developpement__valeur 1
+	Developpement__description	"The study of regeneration,"
+						"inborn aptitude of the"
+						"trolls, allows its process to"
+						"be accelerated, thereby"
+						"reinforcing their resistance in combat."
+Batiment__nbConstructions 0
+
+
+Batiment__type "LieuCulte"
+Batiment__niveau 1
+Batiment__nomObjetMaitre "LUNE_NOIRE___EGLISE1"
+Batiment__nom "Chapel of the Black Moon (1)"
+Batiment__nomVariable "NiveauLieuCulte"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 2
+	Possibilite__nomVariable "NiveauPretre"
+	Possibilite__valeur 1
+	Possibilite__nomVariable "NiveauPR0"
+	Possibilite__valeur 1
+Batiment__nbDeveloppements 2
+	Developpement__nom "Recovery of Faith (1)"
+	Developpement__prix 100
+	Developpement__nomVariable "NiveauRecuperationFoi"
+	Developpement__valeur 1
+	Developpement__description	"In discovering the techniques"
+						"of the recovery of faith, the"
+						"priests learn to resource"
+						"themselves more rapidly: they can"
+						"thus use their prayers more often."
+	Developpement__nom "Vade Retro"
+	Developpement__prix 250
+	Developpement__nomVariable "NiveauPR1"
+	Developpement__valeur 1
+	Developpement__description	"This prayer allow a"
+						"priest to send demons"
+						"back to their original"
+						"level, thus making them"
+						"disappear from the world of men."
+Batiment__nbConstructions 0
+
+
+Batiment__type "RepaireTenebres"
+Batiment__niveau 1
+Batiment__nomObjetMaitre "LUNE_NOIRE___CRYPTE1"
+Batiment__nom "Crypt of the Black Moon (1)"
+Batiment__nomVariable "NiveauRepaireTenebres"
+Batiment__estDeBase 1
+Batiment__nbPossibilites 2
+	Possibilite__nomVariable "NiveauNecromant"
+	Possibilite__valeur 1
+	Possibilite__nomVariable "NiveauNE0"
+	Possibilite__valeur 1
+Batiment__nbDeveloppements 2
+	Developpement__nom "Recovery of Evil Manna (1)"
+	Developpement__prix 100
+	Developpement__nomVariable "NiveauRecuperationManaMalefique"
+	Developpement__valeur 1
+	Developpement__description	"By discovering the"
+						"techniques of recovery of evil"
+						"manna, the necromancers learn"
+						"how to resource faster: thus"
+						"they can use their spells more often."
+	Developpement__nom "Devilish invocation"
+	Developpement__prix 250
+	Developpement__nomVariable "NiveauNE1"
+	Developpement__valeur 1
+	Developpement__description	"If he is close to a fault"
+						"or an invocation gate, the"
+						"necromancer invokes with"
+						"this spell a devilish"
+						"creature from the abysses of hell."
+Batiment__nbConstructions 0
+
+
+Batiment__type "Scierie"
+Batiment__niveau 2
+Batiment__nomObjetMaitre "LUNE_NOIRE___MENUISERIE2"
+Batiment__nom "Carpentry of the Black Moon (2)"
+Batiment__nomVariable "NiveauScierie"
+Batiment__estDeBase 1
+Batiment__nbPossibilites 0
+Batiment__nbDeveloppements 2
+	Developpement__nom "Catapult (1)"
+	Developpement__prix 200
+	Developpement__nomVariable "NiveauCatapulte"
+	Developpement__valeur 1
+	Developpement__description	"A formidable siege"
+						"engine, the catapult hurls"
+						"huge rocks onto the enemy"
+						"ramparts, gradually wearing"
+						"down the best constructions."
+	Developpement__nom "Science of Assembly (2)"
+	Developpement__prix 400
+	Developpement__nomVariable "NiveauBois"
+	Developpement__valeur 1
+	Developpement__description	"These new"
+						"techniques of"
+						"assembly allow"
+						"more robust"
+						"constructions to be made."
+Batiment__nbConstructions 3
+	Construction__nom "Furnaces of the Black Moon (2)"
+	Construction__prix 500
+	Construction__typeBatiment "Forge"
+	Construction__niveauBatiment 2
+	Construction__description	"The power of the"
+						"furnaces enables more"
+						"efficient weapons and"
+						"highly protective armor"
+						"and shields to be produced."
+	Construction__nom "Stud farm of the Black Moon (2)"
+	Construction__prix 450
+	Construction__typeBatiment "Ecurie"
+	Construction__niveauBatiment 2
+	Construction__description	"Through the development of"
+						"the techniques of"
+						"horse-breeding and"
+						"horse-training, the stud farm allows the"
+						"efficiency of the cavalry to be increased."
+	Construction__nom "Casern of the Black Moon (2)"
+	Construction__prix 300
+	Construction__typeBatiment "Baraquement"
+	Construction__niveauBatiment 2
+	Construction__description	"Like the barracks, the casern"
+						"is used to raise and organize"
+						"the armies before they leave on"
+						"campaign.  And the training of"
+						"the troops is much better there."
+
+
+Batiment__type "Ambassade"
+Batiment__niveau 2
+Batiment__nomObjetMaitre "LUNE_NOIRE___AMBASSADE2"
+Batiment__nom "Consulate of the Black Moon (2)"
+Batiment__nomVariable "NiveauAmbassade"
+Batiment__estDeBase 1
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauPorteDrapeau"
+	Possibilite__valeur 2
+Batiment__nbDeveloppements 1
+	Developpement__nom "Commercial contracts (2)"
+	Developpement__prix 300
+	Developpement__nomVariable "NiveauCommerce"
+	Developpement__valeur 2
+	Developpement__description	"The mastery of"
+						"commercial contracts"
+						"allows the costs of"
+						"gathering and maintaining"
+						"the armies to be reduced."
+Batiment__nbConstructions 0
+
+
+Batiment__type "Ecurie"
+Batiment__niveau 2
+Batiment__nomObjetMaitre "LUNE_NOIRE___ECURIE2"
+Batiment__nom "Stud farm of the Black Moon (2)"
+Batiment__nomVariable "NiveauEcurie"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauCavalierLeger"
+	Possibilite__valeur 2
+Batiment__nbDeveloppements 1
+	Developpement__nom "Cavalry charge"
+	Developpement__prix 250
+	Developpement__nomVariable "NiveauChargeCavalerie"
+	Developpement__valeur 1
+	Developpement__description	"The apprenticeship of"
+						"advanced riding techniques,"
+						"associated with very strict"
+						"training, allows the"
+						"horsemen to lead a cavalry charge."
+Batiment__nbConstructions 0
+
+
+Batiment__type "Baraquement"
+Batiment__niveau 2
+Batiment__nomObjetMaitre "LUNE_NOIRE___BARAQUE2"
+Batiment__nom "Casern of the Black Moon (2)"
+Batiment__nomVariable "NiveauBaraquement"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauOrc"
+	Possibilite__valeur 2
+Batiment__nbDeveloppements 0
+Batiment__nbConstructions 0
+
+
+Batiment__type "Forge"
+Batiment__niveau 2
+Batiment__nomObjetMaitre "LUNE_NOIRE___FORGE2"
+Batiment__nom "Furnaces of the Black Moon (2)"
+Batiment__nomVariable "NiveauForge"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 0
+Batiment__nbDeveloppements 3
+	Developpement__nom "Sling (1)"
+	Developpement__prix 200
+	Developpement__nomVariable "NiveauBaliste"
+	Developpement__valeur 1
+	Developpement__description	"Devastating siege"
+						"engine, the sling or"
+						"ballista projects bolts"
+						"like a giant crossbow, thus"
+						"decimating the enemy formations."
+	Developpement__nom "Science of Alloys (2)"
+	Developpement__prix 300
+	Developpement__nomVariable "NiveauArmes"
+	Developpement__valeur 2
+	Developpement__description	"The discovery of the"
+						"science of alloys allows"
+						"finer and more resistant,"
+						"and therefore much"
+						"deadlier, weapons to be produced."
+	Developpement__nom "Science of Smelting Metals (2)"
+	Developpement__prix 400
+	Developpement__nomVariable "NiveauArmures"
+	Developpement__valeur 2
+	Developpement__description	"The apprenticeship of"
+						"smelting metals allows"
+						"extremely robust armor to"
+						"be manufactured, protecting"
+						"the fighters all the better."
+Batiment__nbConstructions 2
+	Construction__nom "Armory of the Black Moon (2)"
+	Construction__prix 950
+	Construction__typeBatiment "SalleArmes"
+	Construction__niveauBatiment 2
+	Construction__description	"In the armory, the"
+						"knights perfect the"
+						"techniques of combat which"
+						"will make them formidable"
+						"opponents on the battlefield."
+	Construction__nom "Church of the Black Moon (2)"
+	Construction__prix 1000
+	Construction__typeBatiment "LieuCulte"
+	Construction__niveauBatiment 2
+	Construction__description	"A holy edifice encouraging"
+						"prayer and contemplation,"
+						"the church allows the"
+						"priests to strengthen their"
+						"faith and to study new prayers."
+
+
+Batiment__type "SalleArmes"
+Batiment__niveau 2
+Batiment__nomObjetMaitre "LUNE_NOIRE___SALLEARMES2"
+Batiment__nom "Armory of the Black Moon (2)"
+Batiment__nomVariable "NiveauSalleArmes"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 2
+	Possibilite__nomVariable "NiveauTroll"
+	Possibilite__valeur 2
+	Possibilite__nomVariable "NiveauGeant"
+	Possibilite__valeur 1
+Batiment__nbDeveloppements 1
+	Developpement__nom "Secret of Regeneration (2)"
+	Developpement__prix 300
+	Developpement__nomVariable "NiveauRegenerationTroll"
+	Developpement__valeur 2
+	Developpement__description	"The discovery of the"
+						"regeneration of the trolls"
+						"allows their effectiveness to be"
+						"increased, giving them a"
+						"considerable advantage on the battlefield."
+Batiment__nbConstructions 0
+
+
+Batiment__type "LieuCulte"
+Batiment__niveau 2
+Batiment__nomObjetMaitre "LUNE_NOIRE___EGLISE2"
+Batiment__nom "Church of the Black Moon (2)"
+Batiment__nomVariable "NiveauLieuCulte"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauPretre"
+	Possibilite__valeur 2
+Batiment__nbDeveloppements 4
+	Developpement__nom "Religious Fervor (2)"
+	Developpement__prix 200
+	Developpement__nomVariable "NiveauRecuperationFoi"
+	Developpement__valeur 2
+	Developpement__description	"Religious fervor"
+						"considerably improves the"
+						"capacity of priests to"
+						"resource; they then become"
+						"precious elements on a battlefield."
+	Developpement__nom "Power of Faith (1)"
+	Developpement__prix 100
+	Developpement__nomVariable "NiveauPuissanceFoi"
+	Developpement__valeur 1
+	Developpement__description	"By developing the"
+						"power of their"
+						"faith, the"
+						"priests increase the"
+						"power of their prayers."
+	Developpement__nom "Greatness of Faith (1)"
+	Developpement__prix 100
+	Developpement__nomVariable "NiveauQuantiteFoi"
+	Developpement__valeur 1
+	Developpement__description	"Through their research"
+						"into the greatness of"
+						"faith, the priests give"
+						"themselves the possibility of"
+						"using their prayers more often."
+	Developpement__nom "Resurrection"
+	Developpement__prix 600
+	Developpement__nomVariable "NiveauPR2"
+	Developpement__valeur 1
+	Developpement__description	"Saying this"
+						"prayer, the priest"
+						"may bring back to"
+						"life a soldier who"
+						"died on the battlefield."
+Batiment__nbConstructions 0
+
+
+Batiment__type "RepaireTenebres"
+Batiment__niveau 2
+Batiment__nomObjetMaitre "LUNE_NOIRE___CRYPTE2"
+Batiment__nom "Crypt of the Black Moon (2)"
+Batiment__nomVariable "NiveauRepaireTenebres"
+Batiment__estDeBase 1
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauNecromant"
+	Possibilite__valeur 2
+Batiment__nbDeveloppements 4
+	Developpement__nom "Evil Fervor (2)"
+	Developpement__prix 200
+	Developpement__nomVariable "NiveauRecuperationManaMalefique"
+	Developpement__valeur 2
+	Developpement__description	"Evil fervor significantly"
+						"improves the ability of"
+						"the necromancers to"
+						"resource; they then become"
+						"precious elements on the battlefield."
+	Developpement__nom "Power of Evil Manna (1)"
+	Developpement__prix 100
+	Developpement__nomVariable "NiveauPuissanceManaMalefique"
+	Developpement__valeur 1
+	Developpement__description	"By developing the"
+						"power of their evil"
+						"manna, the"
+						"necromancers increase"
+						"the power of their spells."
+	Developpement__nom "Greatness of Evil Manna (1)"
+	Developpement__prix 100
+	Developpement__nomVariable "NiveauQuantiteManaMalefique"
+	Developpement__valeur 1
+	Developpement__description	"By their research into the"
+						"greatness of evil manna,"
+						"the necromancers give"
+						"themselves the possibility of"
+						"using their spells more often."
+	Developpement__nom "Life-taking"
+	Developpement__prix 600
+	Developpement__nomVariable "NiveauNE2"
+	Developpement__valeur 1
+	Developpement__description	"By this powerful spell,"
+						"the necromancer strips"
+						"his victim of his vital"
+						"energy, leaving him"
+						"lifeless on the battlefield."
+Batiment__nbConstructions 0
+
+
+Batiment__type "Scierie"
+Batiment__niveau 3
+Batiment__nomObjetMaitre "LUNE_NOIRE___MENUISERIE3"
+Batiment__nom "Cabinet maker's of the Black Moon (3)"
+Batiment__nomVariable "NiveauScierie"
+Batiment__estDeBase 1
+Batiment__nbPossibilites 0
+Batiment__nbDeveloppements 1
+	Developpement__nom "Science of Precious Woods (3)"
+	Developpement__prix 600
+	Developpement__nomVariable "NiveauBois"
+	Developpement__valeur 3
+	Developpement__description	"Through the discovery of"
+						"the exceptional properties"
+						"of certain precious woods,"
+						"the cabinet makers produce"
+						"more resistant siege engines."
+Batiment__nbConstructions 2
+	Construction__nom "Foundry of the Black Moon (3)"
+	Construction__prix 750
+	Construction__typeBatiment "Forge"
+	Construction__niveauBatiment 3
+	Construction__description	"By mastering high temperatures and"
+						"using the latest discoveries"
+						"about alloys, the foundry allows"
+						"formidable weapons and extremely"
+						"resistant armor and shields to be produced."
+	Construction__nom "Quarters of the Black Moon (3)"
+	Construction__prix 400
+	Construction__typeBatiment "Baraquement"
+	Construction__niveauBatiment 3
+	Construction__description	"Only the quarters have the"
+						"infrastructure necessary"
+						"for training and lodging"
+						"elite troops, guaranteeing a"
+						"more efficient army on campaign."
+
+
+Batiment__type "Baraquement"
+Batiment__niveau 3
+Batiment__nomObjetMaitre "LUNE_NOIRE___BARAQUE3"
+Batiment__nom "Quarters of the Black Moon (3)"
+Batiment__nomVariable "NiveauBaraquement"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauOrc"
+	Possibilite__valeur 3
+Batiment__nbDeveloppements 0
+Batiment__nbConstructions 0
+
+
+Batiment__type "Forge"
+Batiment__niveau 3
+Batiment__nomObjetMaitre "LUNE_NOIRE___FORGE3"
+Batiment__nom "Foundry of the Black Moon (3)"
+Batiment__nomVariable "NiveauForge"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 0
+Batiment__nbDeveloppements 2
+	Developpement__nom "Art of Ironwork (3)"
+	Developpement__prix 600
+	Developpement__nomVariable "NiveauArmes"
+	Developpement__valeur 3
+	Developpement__description	"The apprenticeship of"
+						"the art ironwork"
+						"allows weapons that"
+						"are ever more efficient"
+						"in combat to be developed."
+	Developpement__nom "Art of Armor Plating (3)"
+	Developpement__prix 600
+	Developpement__nomVariable "NiveauArmures"
+	Developpement__valeur 3
+	Developpement__description	"In developing the art of"
+						"armor plating, the"
+						"blacksmiths acquire the know-how"
+						"necessary to create armor that"
+						"is both light and very protective."
+Batiment__nbConstructions 1
+	Construction__nom "Military Academy of the Black Moon (3)"
+	Construction__prix 1500
+	Construction__typeBatiment "SalleArmes"
+	Construction__niveauBatiment 3
+	Construction__description	"Through the teaching of the"
+						"ultimate techniques of combat,"
+						"the military academy completes"
+						"the training of the knights,"
+						"making them exceptional fighters."
+
+
+Batiment__type "SalleArmes"
+Batiment__niveau 3
+Batiment__nomObjetMaitre "LUNE_NOIRE___SALLEARMES3"
+Batiment__nom "Military Academy of the Black Moon (3)"
+Batiment__nomVariable "NiveauSalleArmes"
+Batiment__estDeBase 0
+Batiment__nbPossibilites 2
+	Possibilite__nomVariable "NiveauTroll"
+	Possibilite__valeur 3
+	Possibilite__nomVariable "NiveauGeant"
+	Possibilite__valeur 3
+Batiment__nbDeveloppements 1
+	Developpement__nom "Science of Regeneration (3)"
+	Developpement__prix 450
+	Developpement__nomVariable "NiveauRegenerationTroll"
+	Developpement__valeur 3
+	Developpement__description	"Elevated to the status of a"
+						"science, the regeneration of"
+						"trolls becomes a major element of"
+						"military strategy, the army then"
+						"having virtually indestructible troops."
+Batiment__nbConstructions 0
+
+
+Batiment__type "RepaireTenebres"
+Batiment__niveau 3
+Batiment__nomObjetMaitre "LUNE_NOIRE___CRYPTE3"
+Batiment__nom "Crypt of the Black Moon (3)"
+Batiment__nomVariable "NiveauRepaireTenebres"
+Batiment__estDeBase 1
+Batiment__nbPossibilites 1
+	Possibilite__nomVariable "NiveauNecromant"
+	Possibilite__valeur 3
+Batiment__nbDeveloppements 4
+	Developpement__nom "Continuous Evil Flow (3)"
+	Developpement__prix 300
+	Developpement__nomVariable "NiveauRecuperationManaMalefique"
+	Developpement__valeur 3
+	Developpement__description	"In a state of permanent trance,"
+						"the necromancers affected by"
+						"the continuous evil flow"
+						"resource very rapidly being able"
+						"then to use their most powerful spells."
+	Developpement__nom "Intensity of Evil Manna (2)"
+	Developpement__prix 200
+	Developpement__nomVariable "NiveauPuissanceManaMalefique"
+	Developpement__valeur 2
+	Developpement__description	"At the price of extreme"
+						"concentration, the necromancers"
+						"increase yet further the"
+						"intensity of their evil manna,"
+						"giving thus their spells a huge power."
+	Developpement__nom "Magnitude of Evil Manna (2)"
+	Developpement__prix 200
+	Developpement__nomVariable "NiveauQuantiteManaMalefique"
+	Developpement__valeur 2
+	Developpement__description	"By increasing their power of"
+						"concentration, research into"
+						"the magnitude of evil manna"
+						"allows necromancers to have more"
+						"energy available to cast their spells."
+	Developpement__nom "Eradication"
+	Developpement__prix 1250
+	Developpement__nomVariable "NiveauNE3"
+	Developpement__valeur 1
+	Developpement__description	"By designating his"
+						"enemy with a gesture,"
+						"the necromancer"
+						"inflicts atrocious"
+						"sufferings on him leading to death."
+Batiment__nbConstructions 0

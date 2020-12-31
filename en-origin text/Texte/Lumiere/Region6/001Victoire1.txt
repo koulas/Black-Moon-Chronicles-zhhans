@@ -1,0 +1,11 @@
+2
+Lord, the enemy Trolls are dead and the enemy in flight. The battle is won! We control the area surrounding the sanctuary.//
+Good. In accordance with usage, I shall wait patiently until the Oracle calls me to come.//
+Let us force the gates of the temple! I demand to be received immediately!//
+
+[EVENEMENTS]	2
+REQUESTER	..\\Texte\\Lumiere\\Region6\\001Victoire1_1.txt	857
+//
+REQUESTER	..\\Texte\\Lumiere\\Region6\\001Victoire1_2.txt	857
+//
+

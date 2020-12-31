@@ -1,0 +1,6 @@
+0
+Lord Wismerhill! Here is the insolent Altenberg, or at least its suburbs. Before thinking about taking the citadel of the Order of Light, we must first take possession of the lower city. Do not forget, lord, that Altenberg has never been taken or subjugated. Succeeding in extending our domination over Altenberg would be an unprecedented feat which would mark minds. Imagine the Emperor's reaction when he learns that even the most powerful citadels do not resist your power...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region2\\004Debut2.txt	869
+//

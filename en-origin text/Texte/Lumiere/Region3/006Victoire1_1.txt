@@ -1,0 +1,6 @@
+0
+Hum... Lord, after the things that have happened, the entire Order of Light is acclaiming you the new Emperor... The high dignitaries of the Order are preparing to attend your coronation. There will also be delegates coming from all the provinces of the Empire, and representatives of the Elf and Dwarf peoples.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region3\\006Victoire1_1_1.txt	927
+//

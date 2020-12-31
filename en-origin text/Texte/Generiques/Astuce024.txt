@@ -1,0 +1,13 @@
+2
+Tips & Tricks
+                            - Battlefield -
+
+Of all the living dead, the Magioliche is the one you must kill first! This is the price to pay for victory!//
+Next trick//
+Play now//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Generiques\\Astuce001.txt	857
+//
+-
+//

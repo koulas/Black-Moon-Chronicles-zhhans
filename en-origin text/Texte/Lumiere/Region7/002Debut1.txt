@@ -1,0 +1,6 @@
+0
+Welcome to our liberator! Lord, brigands have seized our good city; Take care: they have posted Elf archers to guard the ramparts.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region7\\002Debut1_1.txt	862
+//

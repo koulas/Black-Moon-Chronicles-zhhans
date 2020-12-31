@@ -1,0 +1,7 @@
+0
+Thank you for your help. We are in your debt for this stroke of daring that saved our lives and the integrity of our city.
+
+I know that your task does not end here, and be sure that we will do everything to finish off the traitors of the Black Moon.//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region8\\001Victoire3.txt	860//

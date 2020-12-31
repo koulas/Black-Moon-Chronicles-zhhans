@@ -1,0 +1,7 @@
+0
+The most powerful vassal of Haazheel Thorn is dead, along with his men...
+We just have to take the fortified city of Moork...//
+
+[EVENEMENTS] 1
+GAINS_OR 1000
+// 

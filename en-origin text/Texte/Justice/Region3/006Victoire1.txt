@@ -1,0 +1,8 @@
+0
+The will of the Lord is accomplished!
+You have struck down the devilish forces threatening the divine source, but your task is not yet finished!
+
+Haazheel Thorn is still alive, and we know that Fratus Sinister the cursed will soon be joining him.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\006Victoire2.txt	860//

@@ -1,0 +1,7 @@
+0
+Thank you for answering our call. Let us fight the Elves together and empty our village of these oppressors!//
+
+[EVENEMENTS]	2
+REQUESTER	..\\Texte\\Empire\\Region2\\004Event1_1.txt 856
+ALLIANCE	1
+//

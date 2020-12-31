@@ -1,0 +1,7 @@
+0
+We meet again, traitor, you will pay for all you forfeits by the will of the Highest One.
+
+You deceived me once, but I swear before God that you will not do it again.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\007Event2_2.txt	869//

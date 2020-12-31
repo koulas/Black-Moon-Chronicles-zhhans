@@ -1,0 +1,96 @@
+Nombre de lieux uniques : 7
+
+Nom : 001
+Mornerives
+Entree : 0
+x : 49
+y : 31
+Objet Graphique : 1275
+Nbr Frame : 12
+Lock :0
+Visite :0
+Nouvel Etat :1
+NbUnlock :0
+
+Nom : 002
+Fortress
+Entree : 0
+x : 28
+y : 25
+Objet Graphique :1274
+Nbr Frame :12
+Lock :1
+Visite :0
+Nouvel Etat :1
+NbUnlock :1
+0
+Message : ..\\Texte\\Empire\\Region2\\002.txt
+Messager : 853
+
+Nom : 003
+Altenberg
+Entree : 0
+x : 5
+y : 18
+Objet Graphique :1275
+Nbr Frame :12
+Lock :1
+Visite :0
+Nouvel Etat :1
+NbUnlock :3
+0 1 5
+Message : ..\\Texte\\Empire\\Region2\\003.txt
+Messager : 853
+
+Nom : 004
+Sirann
+Entree : 2
+x : 45
+y : 14
+Objet Graphique :1276
+Nbr Frame :12
+Lock :0
+Visite :0
+Nouvel Etat :1
+NbUnlock :0
+
+Nom : 005
+Dacow
+Entree : 0
+x : 6
+y : 27
+Objet Graphique :843
+Nbr Frame :1
+Lock :0
+Visite :0
+Nouvel Etat :1
+NbUnlock :0
+
+Nom : 006
+Camp
+Entree : 0
+x : 7
+y : 18
+Objet Graphique : 697
+Nbr Frame :12
+Lock :1
+Visite :0
+Nouvel Etat :1
+NbUnlock :2
+0 1
+Message : ..\\Texte\\Empire\\Region2\\005.txt
+Messager : 853
+
+Nom : 007
+Magic source
+Entree : 0
+x : 21
+y : 13
+Objet Graphique :1285
+Nbr Frame :1
+Lock :0
+Visite :0
+Nouvel Etat :1
+NbUnlock :0
+
+Rep :26 20

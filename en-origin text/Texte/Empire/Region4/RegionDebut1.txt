@@ -1,0 +1,8 @@
+0
+Count Wismerhill! I am asking you to carry out a mission of trust. Serious troubles are disturbing the region of Northind.  The Elves and the Dwarves are fighting against each other more and more brutally, creating a strong climate of war in the region.  In addition, there are more and more signs that the arrival of a powerful army of the Black Moon is imminent: the Orcs are making increasingly daring raids, the graveyards are overflowing with the living-dead. It all seems to indicate that a major battle is being prepared.  That is why I really need you! Go there and reorganize everything... Stop the fighting between the Dwarves and the Elves and rally the main garrisons of the region to gather together a great army for the campaign.
+
+Go and use wisely the power that I have placed in your hands!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Empire\\Region4\\RegionDebut2.txt	868
+// 

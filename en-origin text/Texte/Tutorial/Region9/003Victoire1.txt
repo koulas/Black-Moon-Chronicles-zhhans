@@ -1,0 +1,6 @@
+0
+Sir Knight, you have fought bravely, your blade of fire is a true marvel. Above all do not relinquish it for it may save your life. For your conduct, here are 400 pieces of gold. Furthermore, I shall give orders that you may find refuge in the imperial fort which is to the North of here. I hope to have the pleasure of fighting by your side again later.//
+
+[EVENEMENTS]		1
+GAINS_OR		400
+//

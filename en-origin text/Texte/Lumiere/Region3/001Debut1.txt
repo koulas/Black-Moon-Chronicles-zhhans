@@ -1,0 +1,7 @@
+0
+Our armies have reached the river that separates our stronghold from the Imperial domain. On the enemy bank rises River Castle. To guarantee our lines of communication, we must take control of this fortress.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region3\\001Debut1_1.txt	874
+//
+

@@ -1,0 +1,7 @@
+0
+Victory! The Elves are fleeing under the blows of the Imperial armies!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Empire\\Region4\\002Victoire2.txt	859
+// 
+ 

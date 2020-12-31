@@ -1,0 +1,8 @@
+0
+Greetings, oh holders of the magical mysteries! My mission is to protect your city and your academy against the Black Moon. Join me so that this city does not fall into the hands of the Black Moon.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Empire\\Region4\\001Event2.txt	857
+// 
+
+ 

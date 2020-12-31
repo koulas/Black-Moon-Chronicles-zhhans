@@ -1,0 +1,7 @@
+0
+The great Magister, master of our city, Magistrya, has sworn a pact with the demon.
+
+He wants to subjugate the population through bloodshed; for pity's sake, help us to fight these evil forces!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region5\\006Event4.txt	852//

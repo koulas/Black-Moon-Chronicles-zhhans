@@ -1,0 +1,12 @@
+0
+Wismerhill,
+You have brilliantly succeeded in preventing Fratus Sinister and his troops taking control of the region of Lhynn...
+I now want to finish with these renegades...
+While I go to rally the troops in the Empire, go and attack Altenberg...
+
+The mission I have given you is difficult... The troops of Light are numerous and experienced, you will have to show good judgment to lead our men to victory!...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region2\\RegionDebut1_1.txt 865
+//
+ 

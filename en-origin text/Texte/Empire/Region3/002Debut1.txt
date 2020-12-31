@@ -1,0 +1,10 @@
+0
+Baron, you are just in time... We are going to be attacked by the sons of Light led by that traitor Fratus Sinister...
+
+There were not enough of us to protect Lhynn.
+
+Now we can give them the welcome they deserve...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region3\\002Debut1_1.txt 865
+//

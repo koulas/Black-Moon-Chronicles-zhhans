@@ -1,0 +1,7 @@
+0
+Your hour has come, Wismerhill. Go into the sanctuary and listen to the Oracle who speaks through my mouth. Here are his words: "Your friends of today will be your enemies of tomorrow, but what does that matter, if your cause triumphs in the end. In all circumstances, be true to your interests. And remember: only he who is not the strongest is wrong!"//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\001Victoire1_1_1.txt	862
+//
+

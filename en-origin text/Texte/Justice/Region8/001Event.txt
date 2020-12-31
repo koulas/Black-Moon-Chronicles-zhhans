@@ -1,0 +1,6 @@
+0
+You are going to die.//
+
+[EVENEMENTS]	1
+DEFECTION	3
+//

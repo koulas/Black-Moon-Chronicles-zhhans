@@ -1,0 +1,13 @@
+2
+Ah lord, your presence is for us a gift of mother nature.
+Filthy Trolls have unfairly taken advantage of our absence to seize all our goods; we have spotted their encampment not far from here, but we will need help to overcome them.
+Could you help us to rid the forest of these scourges?//
+Yes, the Trolls are a race corrupted by evil, we are with you!//
+No, we will not interfere in your money squabbles!//
+
+[EVENEMENTS]	4
+ALLIANCE	1	
+REQUESTER	..\\Texte\\Justice\\Region4\\002Debut1_1.txt	856//
+DEFECTION	1
+REQUESTER	..\\Texte\\Justice\\Region4\\002Debut1_2.txt	856//
+

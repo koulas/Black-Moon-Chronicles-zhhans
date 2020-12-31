@@ -1,0 +1,6 @@
+0
+You Lordship! The Orcs have scattered in the plain to sack and plunder. Fall on them like the mountain eagle, and no quarter!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region7\\003Debut1_1.txt	872
+//

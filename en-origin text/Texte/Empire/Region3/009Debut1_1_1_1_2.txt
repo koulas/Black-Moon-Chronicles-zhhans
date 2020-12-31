@@ -1,0 +1,10 @@
+0
+So be it!
+
+Your choice is not the wisest... The council has therefore decided to send troops to fight you...
+
+You told me that your troops were weakened... Ha! Ha! Ha! They will be even more so once we have crushed you like flies..//
+
+[EVENEMENTS] 1
+DEFECTION 1
+//

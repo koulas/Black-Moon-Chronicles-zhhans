@@ -1,0 +1,83 @@
+Nombre de lieux uniques : 6
+
+Nom : 001
+Kendrin
+Entree : 0 
+x : 23 
+y : 36
+Objet Graphique : 710
+Nbr Frame : 1
+Lock : 0
+Visite : 0
+Nouvel Etat : 1
+NbUnlock :0
+
+Nom : 002
+Palin
+Entree : 2
+x : 37
+y : 06
+Objet Graphique : 1286
+Nbr Frame : 1
+Lock : 1
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 1
+0
+Message : ..\\Texte\\Empire\\Region4\\002.txt
+Messager : 868
+
+Nom : 003
+Elf camp
+Entree : 6
+x : 47
+y : 13
+Objet Graphique : 1280
+Nbr Frame : 1
+Lock : 0
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 1
+1
+Message : ..\\Texte\\Empire\\Region4\\003.txt
+Messager : 868
+
+Nom : 004
+Northind 
+Entree : 7 
+x : 03
+y : 13
+Objet Graphique : 710
+Nbr Frame : 1
+Lock : 1
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 1
+0
+Message : ..\\Texte\\Empire\\Region4\\004.txt
+Messager : 868
+
+
+Nom : 005
+Dragon's lair 
+Entree : -1
+x : 20
+y : 20
+Objet Graphique : 1272
+Nbr Frame : 1
+Lock : 0
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 0
+
+Nom : 006
+Dwarf merchants
+Entree : 1
+x : 28
+y : 22
+Objet Graphique : 1282
+Nbr Frame : 1
+Lock : 0
+Visite : 0
+Nouvel Etat : 1
+NbUnlock : 0

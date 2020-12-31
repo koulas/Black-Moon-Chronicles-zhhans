@@ -1,0 +1,8 @@
+0
+No, my brother, our aim shall be neither glory nor power, but the humble service of the Almighty.
+
+Go now in peace and pray for those who are about to die.//
+
+[EVENEMENTS]	1
+IMAGE ..\\Images\\Ima_0014.tga
+//

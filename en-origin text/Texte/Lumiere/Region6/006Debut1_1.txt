@@ -1,0 +1,7 @@
+0
+Sire, we request your arbitration in a dispute between us and the Dwarves. A treasure is buried under the oak of the sacred island. The Dwarves claim it belongs to them. In fact, this treasure is ours since it is to be found under the roots of an oak tree and we are the people of the trees.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region6\\006Debut1_1_1.txt	859
+//
+

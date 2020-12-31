@@ -1,0 +1,6 @@
+0
+The Orcs are overrunning us! All to the attack.//
+
+[EVENEMENTS]		1
+DEFECTION		1
+//  

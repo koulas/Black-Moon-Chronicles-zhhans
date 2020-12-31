@@ -1,0 +1,10 @@
+0
+So, callow youth! I have been waiting for you for a long time, and I will swallow up your army in one mouthful.
+
+Come nearer, foolhardy one, come and take your just punishment which will teach you humility!
+
+In the meantime, I am going to take communion. Let no one disturb me!//
+
+[EVENEMENTS] 1
+REQUESTER	..\\Texte\\Empire\\Region2\\003Debut1_1_1_1.txt 865
+//

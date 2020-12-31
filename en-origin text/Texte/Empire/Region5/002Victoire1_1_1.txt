@@ -1,0 +1,7 @@
+0
+Thank you for your concern. I will try to be worthy of your trust!
+Now we can resume our march...//
+
+[EVENEMENTS] 1
+IMAGE	..\\Images\\Ima_0002.tga
+//

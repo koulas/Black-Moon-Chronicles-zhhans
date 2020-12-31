@@ -1,0 +1,7 @@
+0
+Thank you for your aid, you have saved our village, you can count on our eternal gratitude.
+Whenever you need help, you can count on us and on our brother Dwarves.//
+
+[EVENEMENTS]	1
+IMAGE ..\\Images\\Ima_0003.tga
+//

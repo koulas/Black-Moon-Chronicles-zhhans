@@ -1,0 +1,6 @@
+0
+Oh, Sire, you arrive just in time; bandits are seeking to rob a stranger named Murata.
+I think you should help him to get out of this tricky situation.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region5\\005Event2.txt	865//

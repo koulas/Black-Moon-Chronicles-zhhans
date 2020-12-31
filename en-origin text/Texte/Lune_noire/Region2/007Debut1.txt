@@ -1,0 +1,8 @@
+0
+Baron, I have learned from my spies that the Imperials are short of gold and they have difficulty in covering the pay of their armies. A convoy of gold has just arrived in Mornerives and the Imperials are going to use the city's forge to strike the money. They hope to strike a sufficient number of pieces to cover the pay of their army. I instruct you to enter Mornerives and plunder the money mint set up by the Imperials. Then we do not have to take the city but just enter and plunder it.
+
+Accomplish this mission to the letter, Baron!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region2\\007Debut2.txt	858
+//

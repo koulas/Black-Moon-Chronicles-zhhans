@@ -1,0 +1,6 @@
+0
+He carried off a large sum of money after a fair fight in the arena of the city.
+Unfortunately for him, this sum belongs to the chief of the bandits who wants to recover it by force.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region5\\005Event4.txt	865//

@@ -1,0 +1,5 @@
+0
+Lord, Light awaits us to the South; they are preparing to lead the assault on this entrenched camp of the Black moon. We must join them as fast as possible.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region5\\001Debut2.txt	860//

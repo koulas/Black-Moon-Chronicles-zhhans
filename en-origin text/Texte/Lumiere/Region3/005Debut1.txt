@@ -1,0 +1,7 @@
+0
+Here we are before the first wall of Lhynn, the Imperial city. I am expecting a long and difficult siege. So I ordered our troops to isolate the city by digging in. To tell the truth, I am a little surprised that the enemy has not already tried a sortie. The defenders of the city seem very passive to me.... Doubtless, this hides some trick...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region3\\005Debut1_1.txt	866
+//
+

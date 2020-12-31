@@ -1,0 +1,11 @@
+0
+Good day, Wismerhill!
+
+We heard of your fight against Light and I am ready to join you.
+If you agree to this alliance, I will help you strengthen the morale of your troops and I will call my troops as reinforcements for the final battle of Altenberg.
+
+What do you think of my offer?//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region2\\006Debut1_1_1_1.txt 865
+//

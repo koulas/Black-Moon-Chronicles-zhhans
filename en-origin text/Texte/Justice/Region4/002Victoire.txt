@@ -1,0 +1,7 @@
+0
+Thank you for your help; your valor and your nobility shall sing in our hearts and in those of all our brother Elves.
+Here is a part of our gold to help reward you for your services.//
+
+[EVENEMENTS]	1
+IMAGE ..\\Images\\Ima_0008.tga
+//

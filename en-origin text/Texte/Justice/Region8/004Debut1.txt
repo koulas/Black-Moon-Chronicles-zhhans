@@ -1,0 +1,10 @@
+0
+Moork, at last!
+The Baron Greldinard, the accursed, has taken refuge in his stronghold, believing it to be impregnable. I'm off to show him that faith and love can open many doors and many hearts!
+The troops of the Empire are there to help us, as foreseen.
+
+General, are your troops ready to fight to protect the Empire?//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\004Debut2.txt	868
+//

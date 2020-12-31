@@ -1,0 +1,6 @@
+0
+General! We did not know of your helpless situation, what are your orders.//
+
+[EVENEMENTS]	1
+ALLIANCE	3
+//

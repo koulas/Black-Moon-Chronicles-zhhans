@@ -1,0 +1,7 @@
+0
+Hey there! We are being attacked by a band of Trolls! Will you help us repel their assault? Your help will be really welcome!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\005Debut1.txt	865
+//
+

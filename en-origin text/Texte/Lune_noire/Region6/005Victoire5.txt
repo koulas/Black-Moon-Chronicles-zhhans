@@ -1,0 +1,8 @@
+0
+My young friend! The hour of the great battle has sounded! Thanks to your efforts, we are sufficiently powerful to launch ourselves into a pitched battle against the Empire and its allies... Join me as quickly as possible at the Fault of Tsaroth where our army is gathering. It is there that the Emperor will see the vast size of my power.
+
+Hurry up my child.//
+
+[EVENEMENTS]	1
+IMAGE	..\\Images\\Ima_0006.tga
+//

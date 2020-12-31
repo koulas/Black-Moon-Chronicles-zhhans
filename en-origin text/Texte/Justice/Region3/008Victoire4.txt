@@ -1,0 +1,8 @@
+0
+You are indeed giving in to your ambitions, Wismerhill, rather than answering God's desires.
+But you have proved your bravery many times beside me, I acknowledge; and if your will to become Emperor is so strong, it is perhaps due to the will of God?!
+
+As for me, I do not wish to have that honor. Serving God requires humility that is not present in such responsibilities, and I am impatient to rejoin my country and my own people.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\008Victoire5.txt	865//

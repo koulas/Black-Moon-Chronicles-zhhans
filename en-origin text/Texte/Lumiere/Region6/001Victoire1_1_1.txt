@@ -1,0 +1,7 @@
+0
+Perfect! Properly interpreted, the Oracle's reply supports our cause. We shall transmit it to a few grand lords who were holding back from supporting us. That will suffice, I'm sure, to get a substantial financial contribution out of them.//
+
+[EVENEMENTS]	1
+GAINS_OR	7500
+//
+

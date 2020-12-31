@@ -1,0 +1,10 @@
+2
+Little do you know the Dwarves if you think you can force us to work for nothing. You will get nothing from us by threats. Rather die than give in!//
+I spoke perhaps hastily. Could you repeat your proposal?//
+May the plague choke you! I prefer to leave Grunkedash empty-handed rather than accept your conditions.//
+
+[EVENEMENTS]	2
+REQUESTER	..\\Texte\\Lumiere\\Region6\\002Victoire1.txt	859
+//
+REQUESTER	..\\Texte\\Lumiere\\Region6\\002Victoire1_1_1.txt	862
+//

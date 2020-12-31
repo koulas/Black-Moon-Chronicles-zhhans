@@ -1,0 +1,5 @@
+0
+Prince, we have found gold in the encampment of Light.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region5\\002Victoire3.txt	860//

@@ -1,0 +1,6 @@
+0
+Lord Wismerhill, you are not authorized to enter the kingdom of the Dragon Princes. Perish in the fiery breath of the Great Worm.//
+
+[EVENEMENTS]	1
+DEFECTION	1
+//

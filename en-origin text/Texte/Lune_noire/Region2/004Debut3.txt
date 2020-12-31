@@ -1,0 +1,6 @@
+0
+That would be entirely preferable, in fact! Wouldn't it Baron? Oh master could it be that one of your devilish creatures is influencing the judgment of the general commanding the opening of the gates?//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region2\\004Debut4.txt	869
+//

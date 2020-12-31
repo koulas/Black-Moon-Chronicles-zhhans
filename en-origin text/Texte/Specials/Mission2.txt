@@ -1,0 +1,15 @@
+2
+Special missions
+
+                 Battle on the scorched earth!
+
+Wismerhill and his friends arrive to direct their troops against an elite detachment of Light!  Can you lead your men to the front?//
+Next mission//
+Play this mission//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Specials\\Mission3.txt	862
+//
+-
+//
+

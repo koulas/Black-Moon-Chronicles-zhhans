@@ -1,0 +1,8 @@
+0
+In fact, I have little news that could interest you. However, here is what I can tell you...
+
+We dwarves have a lot of work at the moment. The manufacture and trade of arms have never been as flourishing. It's simple: everyone wants weapons. And of top quality, mark you. Business is doing very well. You seem a good fellow to me, traveler. That's a rare thing in these troubled times. I will talk of you to my fellow blacksmiths and weapon makers. If ever you have the chance to come to Grunkedash, our great city near the Windy Peak, you will be most welcome.//
+
+[EVENEMENTS] 1
+IMAGE		..\images\ima_0003.tga
+\\

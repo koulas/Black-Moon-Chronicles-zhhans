@@ -1,0 +1,8 @@
+0
+We will be honored to help the proud Dwarf warriors repel the wave of assaults by the Trolls.//
+
+[EVENEMENTS]	3
+ALLIANCE	1
+DEFECTION	2
+DEFECTION	3
+//

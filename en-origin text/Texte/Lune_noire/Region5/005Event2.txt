@@ -1,0 +1,7 @@
+0
+Come on, brother magi! Concentrate your magical energy as much as possible and let us finish with this rabble.//
+
+[EVENEMENTS]	2
+DEFECTION	3
+ALLIANCE	4
+//

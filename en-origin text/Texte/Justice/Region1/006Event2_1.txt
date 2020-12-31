@@ -1,0 +1,6 @@
+0
+HAAZHEEL! You're nothing but a damned renegade corrupted by hell. You are not worthy to stay on this earth!//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Justice\\Region1\\006Event2_2.txt	869
+//

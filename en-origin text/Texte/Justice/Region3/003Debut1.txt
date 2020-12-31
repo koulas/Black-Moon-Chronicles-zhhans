@@ -1,0 +1,5 @@
+0
+We must be careful, lord, this Krak seems very well defended.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\003Debut2.txt	865//

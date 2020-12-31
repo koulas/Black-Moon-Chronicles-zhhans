@@ -1,0 +1,6 @@
+0
+It is said that a treasure is hidden near the magic source of this region. The sum must be high enough to allow us to reinforce our troops.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Empire\\Region2\\007Debut1_1.txt 868
+//

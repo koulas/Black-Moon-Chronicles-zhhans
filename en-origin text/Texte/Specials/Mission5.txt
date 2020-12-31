@@ -1,0 +1,15 @@
+2
+Special missions
+
+                 Parsifal the Just!
+
+The Black Moon is attacking the villages to pillage them! Luckily, Prince Parsifal and some brothers of Justice are approaching, ready once more to defend widows and orphans!//
+Next mission//
+Play this mission//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Specials\\Mission6.txt	855
+//
+-
+//
+

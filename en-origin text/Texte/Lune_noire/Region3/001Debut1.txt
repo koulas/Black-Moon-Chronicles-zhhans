@@ -1,0 +1,6 @@
+0
+What a pleasure to see you at work, my dear child! What a fabulous sight is this army ready to launch the assault against the last Imperial positions... All that overwhelms me with joy...//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lune_noire\\Region3\\001Debut2.txt	858
+// 

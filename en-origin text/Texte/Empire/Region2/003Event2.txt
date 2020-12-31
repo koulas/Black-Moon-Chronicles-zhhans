@@ -1,0 +1,6 @@
+0
+You insist again, Wismerhill. Unfortunately for you, your pain has just started... For Light, sell your lives dearly!//
+
+[EVENEMENTS]	1
+DEFECTION	3
+//

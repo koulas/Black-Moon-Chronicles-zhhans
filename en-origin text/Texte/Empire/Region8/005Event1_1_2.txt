@@ -1,0 +1,9 @@
+0
+You have made a very bad choice there, Wismerhill!
+If we cannot be allies, we will then be enemies... That is God's will!
+Know that you will die by the hand of a just man...//
+
+[EVENEMENTS] 2
+DEFECTION 1
+DEFECTION 2
+// 

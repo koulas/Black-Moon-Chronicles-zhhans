@@ -1,0 +1,8 @@
+0
+Welcome my brothers, may the almighty protect you.
+Some hell hounds, devoted to the Black Moon, are entrenched in this small village that should be wiped from the map!
+
+Are you with us?//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region5\\001Event2.txt	860//

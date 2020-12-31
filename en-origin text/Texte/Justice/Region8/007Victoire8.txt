@@ -1,0 +1,6 @@
+0
+Sire, I desire neither gold nor honors, simply allow me to raise Kraks in the Empire.//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\007Victoire9.txt	853
+//

@@ -1,0 +1,6 @@
+0
+Victory! The Elves' camp is burning and the Elf emissaries are fleeing or have been killed! The Elves did indeed see that the Empire would not let this wind of disturbance upset the region for long. I am convinced that the Elves will stop their attacks, for fear of a large Imperial army coming to restore order here!//
+
+[EVENEMENTS]	1
+REQUESTER 	..\\Texte\\Empire\\Region4\\003Victoire2.txt	859
+//

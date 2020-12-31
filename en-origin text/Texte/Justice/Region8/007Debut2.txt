@@ -1,0 +1,7 @@
+0
+Prince, I am grateful to you for answering my appeal; in these troubled times, your presence seems very beneficial to me.
+I see that you have by your side the young man whose exploits are being recounted throughout the whole Empire....//
+
+[EVENEMENTS]			1
+REQUESTER ..\\Texte\\Justice\\Region8\\007Debut3.txt	865
+//

@@ -1,0 +1,6 @@
+0
+Victory! The Elves are routed.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region2\\004Victoire1_1.txt	862
+//

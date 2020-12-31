@@ -1,0 +1,8 @@
+0
+Baron! We have defeated our enemies... And we have recovered as a prize the catapults and slings... What magnificent booty!//
+
+[EVENEMENTS] 3
+GAINS_UNITES 139 3 1
+GAINS_UNITES 141 3 1
+REQUESTER ..\\Texte\\Empire\\Region3\\009Victoire1_1.txt 865
+//

@@ -1,0 +1,8 @@
+0
+Victory! Long live the Empire! Long live Haghendorf! The Orcs have been repelled with heavy losses.  They have even abandoned a few of their siege engines. We have saved the city! The Emperor will be satisfied.//
+
+[EVENEMENTS]	3
+GAINS_UNITES	139 1 1
+GAINS_UNITES	141 1 1
+REQUESTER	..\\Texte\\Empire\\Region4\\001Victoire2.txt	857
+//

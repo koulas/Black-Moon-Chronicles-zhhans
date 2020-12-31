@@ -1,0 +1,8 @@
+1
+Many thanks, Lord, for your help. These accursed Orcs are invading the whole region and the town is likely to be attacked. We are ready to offer you 100 pieces of gold if you would but go there and warn the garrison of the imminence of an attack. What is your reply, Lord?//
+Yes, I agree to go there immediately.//
+
+[EVENEMENTS]		2
+GAINS_OR		100
+REQUESTER	..\\Texte\\Tutorial\\Region9\\002Victoire1_1.txt	861
+//

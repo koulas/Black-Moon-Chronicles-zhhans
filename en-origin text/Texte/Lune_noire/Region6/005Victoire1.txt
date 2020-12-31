@@ -1,0 +1,9 @@
+0
+Thank you for your help! We could have defeated them alone but many brave warriors would have fallen in vain. Our mountains have been infested with Trolls recently. They attack our miners' camps and terrorize our merchant convoys. I suppose that your visit has a precise aim. You are like all our visitors: you want us to sell you weapons and siege engines, don't you?
+
+Don't I know you? My cousin Grümfer has spoken about you...`//
+
+[EVENEMENTS]	2
+GAINS_OR	7500
+REQUESTER	..\\Texte\\Lune_noire\\Region6\\005Victoire2.txt	865
+//

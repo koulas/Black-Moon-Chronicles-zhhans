@@ -1,0 +1,7 @@
+0
+"At that time, Wismerhill the pacifier left the steps of the Empire for the central provinces. Wolves and crows followed his army in expectation of new feasts."
+(Light Chronicles VI -3)//
+
+[EVENEMENTS] 1
+IMAGE	..\IMAGES\IMA_0003.tga
+\\

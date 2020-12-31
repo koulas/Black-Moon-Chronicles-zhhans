@@ -1,0 +1,6 @@
+0
+Beware, Wismerhill! There are too many Imperial guards! Something is wrong!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Specials\\MpwDebut4.txt	863
+//

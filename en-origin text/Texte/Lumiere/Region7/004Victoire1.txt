@@ -1,0 +1,13 @@
+3
+We have found 100 pieces of gold in the enemy camp. I take responsibility for restoring this money to the brigands' victims.//
+O.K. This money could not be better used.//
+Impossible. In the name of the Emperor, I requisition this money to cover our campaign expenses.//
+100 pieces of gold only? Confess where you have hidden the rest of the booty or fear for your life!//
+
+[EVENEMENTS]		3
+REQUESTER	..\\Texte\\Lumiere\\Region7\\004Victoire1_1.txt	862
+//
+REQUESTER	..\\Texte\\Lumiere\\Region7\\004Victoire1_2.txt	861
+//
+REQUESTER	..\\Texte\\Lumiere\\Region7\\004Victoire1_3.txt	861
+//

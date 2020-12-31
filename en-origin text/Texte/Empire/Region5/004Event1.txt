@@ -1,0 +1,7 @@
+0
+Baron,
+We are being attacked by a horde of bandits... Protect us before we are all wiped out!//
+
+[EVENEMENTS] 1
+DEFECTION 1
+//

@@ -1,0 +1,7 @@
+0
+Captain, our scouts have located an advance guard of the Black Moon. A few horsemen are marauding in the plain whereas the bulk of their forces has withdrawn to a hill. We are informed of the presence of a necromancer in the enemy camp.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Lumiere\\Region2\\001Debut1_1.txt	866
+//
+

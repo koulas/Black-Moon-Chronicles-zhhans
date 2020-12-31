@@ -1,0 +1,7 @@
+0
+Here you are, children of God, ready to accomplish their father's will...
+
+Haazheel Thorn and his infernal troops are dug down inside the walls, they are more powerful than ever. But with the help of God, you will conquer!//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Justice\\Region3\\007Debut2.txt	860//

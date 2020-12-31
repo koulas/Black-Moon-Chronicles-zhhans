@@ -1,0 +1,6 @@
+0
+So we go our separate ways here. Thank you once again for your help against these brigands.//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Lune_noire\\Region5\\001Victoire3.txt	872
+//

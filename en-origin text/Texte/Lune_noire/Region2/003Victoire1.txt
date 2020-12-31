@@ -1,0 +1,7 @@
+0
+My child, you never cease to amaze me. You succeeded in winning despite the strong adversity. Now, listen to me: I am going to exterminate the survivors of the Council and I will make magnificent devilish creatures of them. You will be able to use them during the next great battle that you will fight. So choose well the battle you are to fight... You could for example try to subjugate the proud citadel of Altenberg. What do you think?//
+
+[EVENEMENTS]	2
+GAINS_UNITES	262 6 1
+GAINS_UNITES	263 12 1
+//

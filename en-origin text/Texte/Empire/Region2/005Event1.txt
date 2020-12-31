@@ -1,0 +1,6 @@
+0
+You are violating the territory of Light. You will regret this insult!//
+
+[EVENEMENTS]  	1
+DEFECTION	1
+//

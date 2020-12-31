@@ -1,0 +1,9 @@
+0
+You are right, it is time to act!
+After our victory, the Emperor will agree to allow us to raise Kraks in the Empire. So we will be able to defend his sovereignty and to elevate our order to the rank it deserves!
+
+Away to Lhynn, the Imperial capital!...//
+
+[EVENEMENTS]	1
+IMAGE ..\\Images\\Ima_0005.tga
+//

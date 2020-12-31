@@ -1,0 +1,9 @@
+0
+Death to the Elves once and for all!//
+
+[EVENEMENTS]	4
+DEFECTION	1
+ALLIANCE	2
+DEFECTION	3
+DEFECTION	4
+//

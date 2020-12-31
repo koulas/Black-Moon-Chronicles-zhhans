@@ -1,0 +1,7 @@
+0
+Wismerhill!
+Hurry!//
+
+[EVENEMENTS] 1
+DEFECTION 1
+//

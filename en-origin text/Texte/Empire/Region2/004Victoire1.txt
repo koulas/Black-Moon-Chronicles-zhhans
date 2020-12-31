@@ -1,0 +1,10 @@
+0
+The Elves' attack has been successfully countered! Our village has become peaceful again.
+To thank you for your intervention, Baron Wismerhill, we offer you this gold. Make good use of it.
+
+Good luck!//
+
+[EVENEMENTS]	2
+GAINS_OR		1000
+IMAGE	..\\Images\\Ima_0003.tga
+//

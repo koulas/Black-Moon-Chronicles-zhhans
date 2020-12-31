@@ -1,0 +1,7 @@
+0
+The cause is noble. We agree to help you.
+Let's go now!//
+
+[EVENEMENTS]	1
+REQUESTER ..\\Texte\\Empire\\Region2\\005Debut1_1_1.txt 861
+//

@@ -1,0 +1,7 @@
+0
+The treasure of the sacred oak has been uncovered. It contains neither gold nor silver: just scrolls of parchment sealed in ivory tubes. It is, it would seem, the famous "In praise of dust", an ode in twenty four verses written by a decadent poet who is today dead. Its literary value is considerable, but its market value, more or less nothing.//
+
+[EVENEMENTS]	1
+GAINS_OR	2
+//
+

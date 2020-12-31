@@ -1,0 +1,6 @@
+0
+Your repentance is as pure as your heart  Parsifal, I am going to help you return to Sysigia where you will be able to expiate your errors honorably.//
+
+[EVENEMENTS]	1
+ALLIANCE	1
+//

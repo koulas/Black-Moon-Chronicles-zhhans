@@ -1,0 +1,12 @@
+0
+You have succeeded, against all expectations, in saving the fortress... The Empire is eternal!
+
+Here is your reward of 1000 pieces of gold...
+
+You can rest here before resuming your march...
+
+Our doors are open to you...//
+
+[EVENEMENTS] 1
+REQUESTER ..\\Texte\\Empire\\Region3\\007Victoire1_1.txt 865
+//

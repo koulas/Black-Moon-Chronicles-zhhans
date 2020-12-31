@@ -1,0 +1,6 @@
+0
+Indeed. Further to the South the orcs are spreading throughout the region, attacking farms and villages. They are led into combat by great trolls. The peasants and the Imperial troops present in the region are doing all they can to repel them. Perhaps they will manage....And you, Master Grümfer, do you have any news to tell me of the regions you have crossed?//
+
+[EVENEMENTS]		1
+REQUESTER	..\\Texte\\Tutorial\\Region9\\004Victoire1_1_1.txt	859
+//

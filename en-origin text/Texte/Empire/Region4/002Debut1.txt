@@ -1,0 +1,9 @@
+0
+Count Wismerhill! We are in sight of the Dwarf village of Palin, where the Empire has established a small detachment! We are coming here to take these troops with us to prepare for the great battle that is coming. All the men will be of use during the fighting!
+
+Wait! What is this disturbance! A Dwarf is coming towards us.//
+
+[EVENEMENTS]	1
+REQUESTER	..\\Texte\\Empire\\Region4\\002Debut2.txt	859
+// 
+

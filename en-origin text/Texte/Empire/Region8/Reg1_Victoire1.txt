@@ -1,0 +1,10 @@
+0
+You fought valiantly, Wismerhill!
+I am sending you reinforcements of a few troops who will join you before Moork...
+Try to command them as you have done so far and victory will be ours...//
+
+[EVENEMENTS] 3
+GAINS_UNITES 17 1 1
+GAINS_UNITES 20 1 3
+GAINS_OR 200
+//
